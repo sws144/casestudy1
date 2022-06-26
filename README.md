@@ -7,6 +7,7 @@ Case study example based on email
 ## Running jupyter notebook for analysis
 
 1. `pipenvshell`, then `jupyter notebook`
+1. backup is VSCode with jupyter interactive, `jupyter lab`
 
 ## MLFlow & Virtual Env Update
 

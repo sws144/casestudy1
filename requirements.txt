@@ -72,14 +72,18 @@ jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 jupyterlab-pygments==0.2.2; python_version >= '3.7'
 jupyterlab-widgets==1.1.1; python_version >= '3.6'
+jupytext==1.13.8
 kiwisolver==1.4.3; python_version >= '3.7'
 lightgbm==3.3.2
 llvmlite==0.38.1; python_version < '3.11' and python_version >= '3.7'
 lxml==4.9.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'
 mako==1.2.0; python_version >= '3.7'
+markdown-it-py==2.1.0; python_version >= '3.7'
 markupsafe==2.1.1; python_version >= '3.7'
 matplotlib-inline==0.1.3; python_version >= '3.5'
 matplotlib==3.5.2
+mdit-py-plugins==0.3.0; python_version ~= '3.6'
+mdurl==0.1.1; python_version >= '3.7'
 mistune==0.8.4
 mlflow==1.26.1
 multitasking==0.0.10
@@ -164,12 +168,12 @@ terminado==0.15.0; python_version >= '3.7'
 threadpoolctl==3.1.0; python_version >= '3.6'
 tinycss2==1.1.1; python_version >= '3.6'
 toml==0.10.2; python_version >= '2.6' and python_version not in '3.0, 3.1, 3.2, 3.3'
-tomli==2.0.1; python_version < '3.11'
+tomli==2.0.1; python_version >= '3.7'
 toolz==0.11.2; python_version >= '3.5'
 tornado==6.1; python_version >= '3.5'
 tqdm==4.64.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
 traitlets==5.3.0; python_version >= '3.7'
-typing-extensions==4.2.0; python_version < '3.10'
+typing-extensions==4.2.0; python_version >= '3.7'
 tzdata==2022.1; platform_system == 'Windows'
 tzlocal==4.2; python_version >= '3.6'
 urllib3==1.26.9; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_full_version < '4.0.0'

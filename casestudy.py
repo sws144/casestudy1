@@ -8,9 +8,9 @@
 #       format_version: '1.3'
 #       jupytext_version: 1.13.8
 #   kernelspec:
-#     display_name: Python 3 (ipykernel)
+#     display_name: casestudy1
 #     language: python
-#     name: python3
+#     name: casestudy1
 # ---
 
 # %% [markdown]
@@ -39,7 +39,7 @@
 
 # %% [markdown] toc=true
 # <h1>Table of Contents<span class="tocSkip"></span></h1>
-# <div class="toc"><ul class="toc-item"><li><span><a href="#Case-Study" data-toc-modified-id="Case-Study-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Case Study</a></span><ul class="toc-item"><li><span><a href="#Purpose" data-toc-modified-id="Purpose-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Purpose</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span></li><li><span><a href="#Addendum" data-toc-modified-id="Addendum-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Addendum</a></span></li></ul></li><li><span><a href="#Imports-&amp;-Setup" data-toc-modified-id="Imports-&amp;-Setup-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Imports &amp; Setup</a></span></li><li><span><a href="#Initial-data-exploration" data-toc-modified-id="Initial-data-exploration-3"><span class="toc-item-num">3&nbsp;&nbsp;</span>Initial data exploration</a></span><ul class="toc-item"><li><span><a href="#Conclusion-1" data-toc-modified-id="Conclusion-1-3.1"><span class="toc-item-num">3.1&nbsp;&nbsp;</span>Conclusion 1</a></span></li></ul></li><li><span><a href="#Naive-model" data-toc-modified-id="Naive-model-4"><span class="toc-item-num">4&nbsp;&nbsp;</span>Naive model</a></span></li><li><span><a href="#Metrics-for-Comparison" data-toc-modified-id="Metrics-for-Comparison-5"><span class="toc-item-num">5&nbsp;&nbsp;</span>Metrics for Comparison</a></span></li><li><span><a href="#Support-Functions" data-toc-modified-id="Support-Functions-6"><span class="toc-item-num">6&nbsp;&nbsp;</span>Support Functions</a></span></li><li><span><a href="#Try-Gradient-Boosting-with-more-vars-(i.e.-city)" data-toc-modified-id="Try-Gradient-Boosting-with-more-vars-(i.e.-city)-7"><span class="toc-item-num">7&nbsp;&nbsp;</span>Try Gradient Boosting with more vars (i.e. city)</a></span><ul class="toc-item"><li><span><a href="#Explain-model" data-toc-modified-id="Explain-model-7.1"><span class="toc-item-num">7.1&nbsp;&nbsp;</span>Explain model</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-7.2"><span class="toc-item-num">7.2&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-2" data-toc-modified-id="Conclusion-2-7.3"><span class="toc-item-num">7.3&nbsp;&nbsp;</span>Conclusion 2</a></span></li><li><span><a href="#Pull-Delisted-Stock-Data" data-toc-modified-id="Pull-Delisted-Stock-Data-7.4"><span class="toc-item-num">7.4&nbsp;&nbsp;</span>Pull Delisted Stock Data</a></span></li></ul></li><li><span><a href="#For-Now,-use-GBM-with-Existing-Vars" data-toc-modified-id="For-Now,-use-GBM-with-Existing-Vars-8"><span class="toc-item-num">8&nbsp;&nbsp;</span>For Now, use GBM with Existing Vars</a></span><ul class="toc-item"><li><span><a href="#Explain-smaller-model" data-toc-modified-id="Explain-smaller-model-8.1"><span class="toc-item-num">8.1&nbsp;&nbsp;</span>Explain smaller model</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-8.2"><span class="toc-item-num">8.2&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-3" data-toc-modified-id="Conclusion-3-8.3"><span class="toc-item-num">8.3&nbsp;&nbsp;</span>Conclusion 3</a></span></li><li><span><a href="#Predict-based-on-model" data-toc-modified-id="Predict-based-on-model-8.4"><span class="toc-item-num">8.4&nbsp;&nbsp;</span>Predict based on model</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-8.5"><span class="toc-item-num">8.5&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span></li></ul></li></ul></div>
+# <div class="toc"><ul class="toc-item"><li><span><a href="#Case-Study" data-toc-modified-id="Case-Study-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Case Study</a></span><ul class="toc-item"><li><span><a href="#Purpose" data-toc-modified-id="Purpose-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Purpose</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span></li><li><span><a href="#Addendum" data-toc-modified-id="Addendum-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Addendum</a></span></li></ul></li><li><span><a href="#Imports-&amp;-Setup" data-toc-modified-id="Imports-&amp;-Setup-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Imports &amp; Setup</a></span></li><li><span><a href="#Initial-data-exploration" data-toc-modified-id="Initial-data-exploration-3"><span class="toc-item-num">3&nbsp;&nbsp;</span>Initial data exploration</a></span><ul class="toc-item"><li><span><a href="#Conclusion-1" data-toc-modified-id="Conclusion-1-3.1"><span class="toc-item-num">3.1&nbsp;&nbsp;</span>Conclusion 1</a></span></li></ul></li><li><span><a href="#Naive-model" data-toc-modified-id="Naive-model-4"><span class="toc-item-num">4&nbsp;&nbsp;</span>Naive model</a></span></li><li><span><a href="#Metrics-for-Comparison" data-toc-modified-id="Metrics-for-Comparison-5"><span class="toc-item-num">5&nbsp;&nbsp;</span>Metrics for Comparison</a></span></li><li><span><a href="#Support-Functions" data-toc-modified-id="Support-Functions-6"><span class="toc-item-num">6&nbsp;&nbsp;</span>Support Functions</a></span></li><li><span><a href="#Try-Gradient-Boosting-with-more-vars-(i.e.-city)" data-toc-modified-id="Try-Gradient-Boosting-with-more-vars-(i.e.-city)-7"><span class="toc-item-num">7&nbsp;&nbsp;</span>Try Gradient Boosting with more vars (i.e. city)</a></span><ul class="toc-item"><li><span><a href="#Explain-model" data-toc-modified-id="Explain-model-7.1"><span class="toc-item-num">7.1&nbsp;&nbsp;</span>Explain model</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-7.2"><span class="toc-item-num">7.2&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-2" data-toc-modified-id="Conclusion-2-7.3"><span class="toc-item-num">7.3&nbsp;&nbsp;</span>Conclusion 2</a></span></li><li><span><a href="#Pull-Delisted-Stock-Data" data-toc-modified-id="Pull-Delisted-Stock-Data-7.4"><span class="toc-item-num">7.4&nbsp;&nbsp;</span>Pull Delisted Stock Data</a></span></li></ul></li><li><span><a href="#For-Now,-use-GBM-with-Existing-Vars" data-toc-modified-id="For-Now,-use-GBM-with-Existing-Vars-8"><span class="toc-item-num">8&nbsp;&nbsp;</span>For Now, use GBM with Existing Vars</a></span><ul class="toc-item"><li><span><a href="#Explain-smaller-model" data-toc-modified-id="Explain-smaller-model-8.1"><span class="toc-item-num">8.1&nbsp;&nbsp;</span>Explain smaller model</a></span></li><li><span><a href="#Validation-and-Model-Performanc" data-toc-modified-id="Validation-and-Model-Performanc-8.2"><span class="toc-item-num">8.2&nbsp;&nbsp;</span>Validation and Model Performanc</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-8.3"><span class="toc-item-num">8.3&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-3" data-toc-modified-id="Conclusion-3-8.4"><span class="toc-item-num">8.4&nbsp;&nbsp;</span>Conclusion 3</a></span></li><li><span><a href="#Predict-based-on-model" data-toc-modified-id="Predict-based-on-model-8.5"><span class="toc-item-num">8.5&nbsp;&nbsp;</span>Predict based on model</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-8.6"><span class="toc-item-num">8.6&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span></li></ul></li></ul></div>
 
 # %% [markdown]
 # # Imports & Setup
@@ -54,6 +54,7 @@ from hyperopt.fmin import fmin
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
 import mlflow  # for tracking
+import os
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -930,6 +931,52 @@ for name_tuple in rename_list:
 
 # col_idx = shap_obj.feature_names.index(var)
 # ord_encode_idx = mdl[0].transformers_[1][2].index(var)
+
+# %% [markdown]
+# ## Validation and Model Performanc
+
+# %%
+res
+
+# %% [markdown]
+# Both gini and r2 are positive, so model is better than naive model
+
+# %%
+true_value =  df[target].squeeze()
+predicted_value = mdl.predict(df)
+
+plt.figure(figsize=(5,5))
+plt.scatter(predicted_value, true_value, c='crimson')
+
+p1 = max(max(predicted_value), max(true_value))
+p2 = min(min(predicted_value), min(true_value))
+plt.plot([p1, p2], [p1, p2], 'b-')
+plt.ylabel('True Values', fontsize=15)
+plt.xlabel('Predictions', fontsize=15)
+plt.axis('equal')
+plt.show()
+
+# %%
+# quantile plot
+# https://en.wikipedia.org/wiki/Hosmer%E2%80%93Lemeshow_test
+
+fig, ax = plt.subplots()
+
+int_labels, col_bins = pd.cut(predicted_value, bins=10, retbins=True, labels=False, precision=4)
+
+shap_col_df = pd.DataFrame(
+    {
+        "var": col_bins[int_labels],
+        "actual": true_value,
+        "predicted": predicted_value,
+    }
+)
+
+shap_col_grp_df = shap_col_df.groupby("var").mean()
+
+shap_col_grp_df.plot(ax=ax,marker='o')
+ax.set_xlabel('predicted_bins')
+
 
 # %% [markdown]
 # ## Explainer plots
