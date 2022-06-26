@@ -4,17 +4,18 @@ verify_ssl = true
 name = "pypi"
 
 [dev-packages]
+ipython = "*"
+ipykernel = "*"
+jupyter_contrib_nbextensions = "*"
+jupyter_nbextensions_configurator = "*"
+jupytext = "*"
+# jupyterthemes = "*" 
 pywin32 = ">=301" # for security
 
 [packages]
 dill = "*"
 hyperopt ="*"
-ipython = "*"
-ipykernel = "*"
 joblib = "*"
-jupyter_contrib_nbextensions = "*"
-jupyter_nbextensions_configurator = "*"
-jupytext = "*"
 gunicorn ="*"
 lightgbm = "*"
 matplotlib = "*" 
