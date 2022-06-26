@@ -1,0 +1,2001 @@
+,city,website,employees,predicted_value
+0,Kansas City,http://www.lendingstandard.com,11-50,0.1086472233801473
+1,Newport Beach,https://www.cudasign.com/,11-50,0.1086472233801473
+2,Oakland,https://fivetran.com,251-500,0.09557781706582578
+3,New York,http://www.powerspike.tv,11-50,0.10466465961021519
+4,Sacramento,https://www.rhombussystems.com,11-50,0.1086472233801473
+5,San Francisco,https://www.swng.me/,11-50,0.0830449124417685
+6,Farmington,http://www.evariant.com/,101-250,0.08960826571962464
+7,Chicago,http://www.earshotinc.com,11-50,0.06455436514153481
+8,Los Angeles,https://www.sfox.com/,11-50,0.0917643488404792
+9,Waltham,http://www.cazena.com,11-50,0.1086472233801473
+10,Washington,http://www.ed.gov/,1001-5000,0.09112472340491666
+11,Burlington,http://www.torchlight.care,11-50,0.1086472233801473
+12,Los Angeles,http://www.voyagesms.com/,11-50,0.0917643488404792
+13,San Francisco,http://www.meissavaccines.com/,11-50,0.0830449124417685
+14,Eagle,https://hackernoon.com/,51-100,0.08547745310788972
+15,Los Altos,http://www.primaryio.com/,11-50,0.1086472233801473
+16,Evanston,http://everspringpartners.com,51-100,0.08547745310788972
+17,Mountain View,http://friend.ly,11-50,0.0035676344996085738
+18,Santa Monica,http://www.gotyu.tech/,1-10,0.13666012875664862
+19,Westfield,http://www.tennorx.com/,1-10,0.13666012875664862
+20,San Diego,http://www.gosite.com,51-100,0.08547745310788972
+21,Richmond,http://occasiongenius.com/,11-50,0.1086472233801473
+22,Ann Arbor,https://getmatterhorn.com/,1-10,0.13666012875664862
+23,San Francisco,http://anturis.com,11-50,0.0830449124417685
+24,New York,https://www.travelers.com/,10001+,-0.010850751521368062
+25,San Jose,http://www.innovium.com,51-100,0.08547745310788972
+26,Goleta,http://www.inogen.net,251-500,0.09557781706582578
+27,San Jose,http://www.viptela.com/,101-250,0.08960826571962464
+28,New York,http://www.1huddle.co,11-50,0.10466465961021519
+29,Deerfield Beach,https://www.datablockchain.io/,11-50,0.1086472233801473
+30,Palo Alto,http://www.inscopix.com,11-50,0.046236064165518974
+31,Long Beach,http://nicolette.com,1-10,0.13666012875664862
+32,Santa Monica,http://www.swellinvesting.com/,11-50,0.1086472233801473
+33,La Jolla,http://clarifymed.com/,11-50,0.1086472233801473
+34,Salt Lake City,http://www.biofiredx.com,1001-5000,0.09112472340491666
+35,Los Angeles,https://www.addvantage.info,11-50,0.0917643488404792
+36,Cape Canaveral,http://moonexpress.com,11-50,0.1086472233801473
+37,New York,http://umahealth.com,1-10,0.07391565625083293
+38,Arlington,https://sojournixpharma.com/,11-50,0.1086472233801473
+39,Bridgewater,http://www.nistica.com,51-100,0.08547745310788972
+40,Covington,https://withWind.llc,1-10,0.13666012875664862
+41,Omaha,https://www.v2verify.com,11-50,0.1086472233801473
+42,Boston,https://vocalid.ai,1-10,0.1753987828136506
+43,Bloomington,https://www.formassembly.com,11-50,0.1086472233801473
+44,San Francisco,https://www.cloverpop.com,11-50,0.0830449124417685
+45,Mentor,http://steris.com,5001-10000,0.07993533234043217
+46,San Jose,http://www.danalinc.com,11-50,0.1086472233801473
+47,Charlotte,http://tresata.com,11-50,0.1086472233801473
+48,New York,https://www.pagaya.com/,101-250,0.03869166130044718
+49,New York,http://www.sandow.com,251-500,-8.833483978093427e-05
+50,Denver,http://roximity.com,11-50,0.1086472233801473
+51,San Francisco,http://opentable.com,501-1000,0.3683090408749776
+52,Miami,http://www.unitea.com,11-50,0.1086472233801473
+53,Austin,http://www.narrativedx.com/,11-50,0.19956792979551838
+54,Salt Lake City,http://taskeasy.com/,101-250,0.08960826571962464
+55,Hawthorne,https://landline.com/,11-50,0.1086472233801473
+56,Fairfax,http://arinspect.com/,11-50,0.1086472233801473
+57,San Francisco,http://limelighthealth.com/,101-250,0.10509427524242704
+58,Boulder,http://3co.ai,11-50,0.1086472233801473
+59,Boulder,http://www.prima-temp.com,1-10,0.13666012875664862
+60,San Francisco,http://www.pipefy.com,251-500,0.10028712636481094
+61,San Jose,http://fixstream.com,11-50,0.1086472233801473
+62,San Diego,http://ventrixheart.com,11-50,0.1086472233801473
+63,New York,http://reachify.com/,1-10,0.07391565625083293
+64,Cold Spring Harbor,https://www.cshl.edu/,1001-5000,0.09112472340491666
+65,Lawrenceville,https://billtrust.com,501-1000,0.1673722690003722
+66,San Francisco,http://addvocate.com,11-50,0.0830449124417685
+67,Carlsbad,http://www.zingle.com,11-50,0.1086472233801473
+68,San Diego,http://www.greatcall.com,501-1000,0.1673722690003722
+69,Boston,https://www.knowmail.me/,11-50,0.04929457832282223
+70,Cleveland,https://www.hometeammarketing.com/,11-50,0.1086472233801473
+71,Cambridge,http://kuvasystems.com,11-50,0.1086472233801473
+72,Redwood City,http://www.fracta.ai/,11-50,0.1086472233801473
+73,Beverly,http://www.clare.com/,1-10,0.13666012875664862
+74,Chicago,https://www.cameo.com,11-50,0.06455436514153481
+75,Raleigh,http://predictify.me/,11-50,0.1086472233801473
+76,Cambridge,https://www.cloverfoodlab.com/,501-1000,0.1673722690003722
+77,Boulder,https://builtwith.care/hg/project-2020/makeena/,1-10,0.13666012875664862
+78,Pittsburgh,https://www.lygenesis.com/,1-10,0.13666012875664862
+79,Palo Alto,https://nonucare.com/,11-50,0.046236064165518974
+80,San Francisco,http://www.ducoexperts.com,1-10,0.07616839472122434
+81,San Francisco,https://decisyon.com,51-100,0.13805034229983118
+82,Los Gatos,http://imerit.net/,1001-5000,0.09112472340491666
+83,San Francisco,https://www.thesmartprogram.org,11-50,0.0830449124417685
+84,San Francisco,https://lyte.com/,11-50,0.0830449124417685
+85,Brooklyn,http://www.drop.io/,11-50,0.1086472233801473
+86,Philadelphia,http://www.clarip.com,1-10,0.13666012875664862
+87,Waltham,http://www.profitect.com,51-100,0.08547745310788972
+88,Wilmington,http://www.incyte.com,501-1000,0.1673722690003722
+89,San Francisco,https://lightstep.com/,101-250,0.10509427524242704
+90,Atlanta,http://monsieur.co,1-10,0.13666012875664862
+91,New York,https://spatial.io/,1-10,0.07391565625083293
+92,San Francisco,https://www.cirtru.com/?utm_source=crunchbase&a;utm_medium=page_profile_website&a;utm_campaign=all,1-10,0.07616839472122434
+93,New York,https://www.evidon.com/,1-10,0.07391565625083293
+94,Austin,http://www.vestedfinance.com/,11-50,0.19956792979551838
+95,New York,http://tradeblock.com,11-50,0.10466465961021519
+96,Glendale,http://gamblitgaming.com,51-100,0.08547745310788972
+97,Mountain View,http://www.eyefi.com/,51-100,0.3155983959993527
+98,San Francisco,http://www.juiceboxmobile.com,11-50,0.0830449124417685
+99,New York,https://commtrade.io,1-10,0.07391565625083293
+100,Austin,https://www.brainingcamp.com/,1-10,-0.0018775805876279019
+101,New York,http://classpass.com/,501-1000,0.16916293462643023
+102,South San Francisco,https://rapt.com/,11-50,0.1086472233801473
+103,San Francisco,http://www.loungebuddy.com,11-50,0.0830449124417685
+104,San Francisco,http://www.clinkle.com,51-100,0.13805034229983118
+105,Birmingham,https://casestatus.com/,1-10,0.13666012875664862
+106,Nashville,https://soundstripe.com/,11-50,0.1086472233801473
+107,Sunnyvale,https://newzmate.com,11-50,0.1086472233801473
+108,Murrieta,https://hardinscientific.com,1-10,0.13666012875664862
+109,Evanston,https://www.evati.com/,11-50,0.1086472233801473
+110,New York,http://forcetherapeutics.com,101-250,0.03869166130044718
+111,Sunnyvale,http://www.svds.com,51-100,0.08547745310788972
+112,Conshohocken,http://zuppler.com,11-50,0.1086472233801473
+113,San Francisco,http://marcopolo.me/,11-50,0.0830449124417685
+114,San Francisco,http://cardspring.com,11-50,0.0830449124417685
+115,Cambridge,http://www.navitorpharma.com/,11-50,0.1086472233801473
+116,Brooklyn,https://www.foam.space,11-50,0.1086472233801473
+117,Chicago,http://www.itiviti.com,251-500,0.1611123574160613
+118,Brooklyn,http://democracy.com,11-50,0.1086472233801473
+119,New York,https://www.mapmycustomers.me,11-50,0.10466465961021519
+120,Eugene,http://organicgrown.com,251-500,0.09557781706582578
+121,Malvern,http://www.essmedclosure.com/home.html,1-10,0.13666012875664862
+122,Cranbury,https://rafaelpharma.com/,11-50,0.1086472233801473
+123,Denver,https://spekit.co,11-50,0.1086472233801473
+124,Charlottesville,http://www.twinthread.com,1-10,0.13666012875664862
+125,Irvine,https://www.karmaautomotive.com/,501-1000,0.1673722690003722
+126,Wilmington,http://everybodywins.com,11-50,0.1086472233801473
+127,Waltham,http://www.infinidat.com/,251-500,0.09557781706582578
+128,Boston,http://mediasilo.com,11-50,0.04929457832282223
+129,Aliso Viejo,http://www.orthalign.com/,11-50,0.1086472233801473
+130,New York,http://www.kantar.com,10001+,-0.010850751521368062
+131,Raleigh,http://www.c3healthcarerx.com/,101-250,0.08960826571962464
+132,New York,http://www.careandwear.com,1-10,0.07391565625083293
+133,Bozeman,http://www.beartooth.com,11-50,0.1086472233801473
+134,Irvine,http://www.geopointe.com/,11-50,0.1086472233801473
+135,New York,http://verst.co,11-50,0.10466465961021519
+136,Royersford,http://www.teleflex.com,10001+,0.04856393641284885
+137,Brentwood,http://www.pathgroup.com,501-1000,0.1673722690003722
+138,Austin,http://www.rfcode.com,51-100,0.007244254146436965
+139,New York,http://www.tamaramellon.com/,11-50,0.10466465961021519
+140,Santa Clara,http://www.amd.com,10001+,0.04856393641284885
+141,San Francisco,https://www.earnest.com,101-250,0.10509427524242704
+142,New York,https://www.spectrum.com,10001+,-0.010850751521368062
+143,San Francisco,https://swit.io/,11-50,0.0830449124417685
+144,Cambridge,http://www.heywire.com/,11-50,0.1086472233801473
+145,Solana Beach,http://evolutionnutrition.com,11-50,0.1086472233801473
+146,Burlington,https://www.jobiak.ai/,101-250,0.08960826571962464
+147,Plantation,https://www.lmpmotors.com/,11-50,0.1086472233801473
+148,Santa Fe,http://www.descarteslabs.com/,101-250,0.08960826571962464
+149,Marlborough,https://wyebot.com/,11-50,0.1086472233801473
+150,Mountain View,https://www.retently.com/,11-50,0.0035676344996085738
+151,Palo Alto,http://www.auditude.com,5001-10000,-0.01106529877095897
+152,Bellevue,http://www.tier3.com,51-100,0.08547745310788972
+153,Fulton,https://www.refirmlabs.com,1-10,0.13666012875664862
+154,Dallas,https://abe.io/,1-10,0.13666012875664862
+155,San Diego,https://coursekey.com,11-50,0.1086472233801473
+156,Coppell,http://tangoanalytics.com/,101-250,0.08960826571962464
+157,Atlanta,http://hirewire.com/,11-50,0.1086472233801473
+158,Carlsbad,http://www.maintenancenet.com,51-100,0.08547745310788972
+159,Walnut,https://opencollective.com,1-10,0.13666012875664862
+160,Boston,http://www.nexosis.com,1-10,0.1753987828136506
+161,Eagan,http://leaflinelabs.com,11-50,0.1086472233801473
+162,Belgium,https://www.connective.eu,11-50,0.1086472233801473
+163,Franklin,http://www.plcmed.com,11-50,0.1086472233801473
+164,Durham,https://www.alievio.com/,11-50,0.1086472233801473
+165,San Francisco,http://assemblymade.com,1-10,0.07616839472122434
+166,Medford,http://silktherapeutics.com,1-10,0.13666012875664862
+167,San Francisco,https://aquishair.co.uk,51-100,0.13805034229983118
+168,Palo Alto,https://www.apex.ai/,11-50,0.046236064165518974
+169,Salt Lake City,http://www.inwhatlanguage.com/,11-50,0.1086472233801473
+170,San Diego,http://www.trackforce.com,11-50,0.1086472233801473
+171,Carlsbad,http://www.stactapp.com,1-10,0.13666012875664862
+172,Redwood City,http://www.exo-Imaging.com,101-250,0.08960826571962464
+173,Syracuse,https://www.repairbiotechnologies.com/,1-10,0.13666012875664862
+174,New York,http://www.atlanticrecords.com,501-1000,0.16916293462643023
+175,Venice,https://www.snap.com,1001-5000,0.09112472340491666
+176,New York,http://www.adheretech.com,11-50,0.10466465961021519
+177,Oakland,http://www.lucidconnects.com,51-100,0.08547745310788972
+178,Santa Monica,https://www.varius.io/,11-50,0.1086472233801473
+179,Atlanta,https://www.greensky.com/,501-1000,0.1673722690003722
+180,Everett,https://www.compasshealth.org/,501-1000,0.1673722690003722
+181,San Francisco,https://caspian.tech,101-250,0.10509427524242704
+182,San Diego,http://smartdrive.net/,501-1000,0.1673722690003722
+183,New York,http://www.quovo.com,51-100,0.03542436888872861
+184,Irvine,http://popinnow.com,11-50,0.1086472233801473
+185,Albany,http://www.lexisnexis.com,10001+,0.04856393641284885
+186,Winston Salem,http://encepheal.com/,1-10,0.13666012875664862
+187,Boston,http://www.medisafe.com,51-100,-0.005074246073910327
+188,San Jose,http://www.venclose.com/,11-50,0.1086472233801473
+189,Los Angeles,http://www.mojix.com,101-250,0.2023375302733799
+190,Ambridge,http://pittmoss.com/,1-10,0.13666012875664862
+191,Cambridge,http://common-sensing.com,11-50,0.1086472233801473
+192,Las Vegas,https://wisebanyan.com/,11-50,0.1086472233801473
+193,Minneapolis,https://branchbasics.com/,1-10,0.13666012875664862
+194,Solana Beach,http://hylete.com,11-50,0.1086472233801473
+195,Little Rock,https://firstorion.com/,101-250,0.08960826571962464
+196,North Brunswick,https://genomicprediction.com,1-10,0.13666012875664862
+197,Seattle,http://idri.org,51-100,0.1760944334898394
+198,Cambridge,http://www.anchortx.com,11-50,0.1086472233801473
+199,Austin,http://vuvanalytics.com,1-10,-0.0018775805876279019
+200,Bellevue,http://www.pointinside.com,11-50,0.1086472233801473
+201,San Mateo,http://www.metavision.com/,11-50,0.1086472233801473
+202,South San Francisco,http://stemcentrx.com,101-250,0.08960826571962464
+203,San Francisco,https://www.phizzle.com,11-50,0.0830449124417685
+204,Irvine,http://www.solarflare.com,101-250,0.08960826571962464
+205,Davis,http://arcadiabio.com,11-50,0.1086472233801473
+206,Boston,https://www.farcastbio.com/,51-100,-0.005074246073910327
+207,Portland,http://vadio.com,1-10,0.13666012875664862
+208,San Francisco,http://www.modsy.com,251-500,0.10028712636481094
+209,San Francisco,http://www.velti.com,501-1000,0.3683090408749776
+210,Palo Alto,https://www.stockpile.com/,11-50,0.046236064165518974
+211,Santa Barbara,http://www.getcocoon.com,11-50,0.1086472233801473
+212,Santa Clara,https://www.aifi.com/,101-250,0.08960826571962464
+213,Indianapolis,http://bluepillar.com,11-50,0.1086472233801473
+214,San Francisco,http://www.palletech.co,1-10,0.07616839472122434
+215,Tewksbury,http://altiostar.com,251-500,0.09557781706582578
+216,San Francisco,https://www.virtualkitchen.co/,11-50,0.0830449124417685
+217,San Francisco,http://getdelos.com,1-10,0.07616839472122434
+218,San Francisco,https://www.wrap.co/,11-50,0.0830449124417685
+219,Cincinnati,https://www.crakn.net,11-50,0.1086472233801473
+220,Los Angeles,https://coppercowcoffee.com,1-10,0.09345762218151825
+221,Cary,http://biologicsinc.com,251-500,0.09557781706582578
+222,San Jose,http://www.ciphercloud.com,251-500,0.09557781706582578
+223,Menlo Park,http://www.oneconcern.com/,51-100,0.08547745310788972
+224,San Francisco,https://rothys.com,251-500,0.10028712636481094
+225,Los Angeles,https://ensuredr.com,11-50,0.0917643488404792
+226,New York,https://www.contextweb.com/,101-250,0.03869166130044718
+227,Overland Park,http://www.firemon.com,501-1000,0.1673722690003722
+228,Farmington,http://www.pluralsight.com,1001-5000,0.09112472340491666
+229,Lowell,http://www.bambuglobal.com,11-50,0.1086472233801473
+230,Atlanta,http://ecoinsight.com,11-50,0.1086472233801473
+231,San Jose,http://www.gummicube.com,11-50,0.1086472233801473
+232,New York,https://youdontneedacmo.com/,11-50,0.10466465961021519
+233,Chapel Hill,https://redbudlabs.com/,1-10,0.13666012875664862
+234,Wellesley,http://www.normoxys.com,11-50,0.1086472233801473
+235,New York,http://www.getrad.co,11-50,0.10466465961021519
+236,Little Rock,http://www.bond.ai,51-100,0.08547745310788972
+237,Bowling Green,https://www.inkedbrands.com/,101-250,0.08960826571962464
+238,San Francisco,http://www.convokesystems.com,11-50,0.0830449124417685
+239,Malvern,http://www.galeratx.com,11-50,0.1086472233801473
+240,Ferndale,https://www.emaginepos.com/,11-50,0.1086472233801473
+241,Boulder,http://www.minutekey.com,51-100,0.08547745310788972
+242,Brooklyn,https://inspiren.com/,1-10,0.13666012875664862
+243,San Francisco,http://www.blackthornrx.com/,11-50,0.0830449124417685
+244,Frisco,https://legalinc.com/,11-50,0.1086472233801473
+245,Boulder,https://www.halp.com/,1-10,0.13666012875664862
+246,Ann Arbor,https://stratoscard.com/,11-50,0.1086472233801473
+247,San Francisco,http://www.latentspace.co,1-10,0.07616839472122434
+248,San Francisco,http://www.ascendify.com,51-100,0.13805034229983118
+249,Philadelphia,http://www.honeygrow.com/,101-250,0.08960826571962464
+250,Los Angeles,http://www.wvelabs.com,51-100,0.14481495602962444
+251,Denver,http://www.guildeducation.com,251-500,0.09557781706582578
+252,Washington,http://www.energy.gov/,10001+,0.04856393641284885
+253,Austin,http://www.opcity.com/,101-250,0.18606853854275754
+254,Denver,http://valen.com,11-50,0.1086472233801473
+255,Fort Meade,https://novaphos.com/,51-100,0.08547745310788972
+256,San Francisco,https://reallabs.io/,1-10,0.07616839472122434
+257,Houston,https://www.hartenergy.com,51-100,0.08547745310788972
+258,Santa Monica,http://www.locent.com/,1-10,0.13666012875664862
+259,Irvine,http://cloudbreaktherapeutics.com/chinese/,11-50,0.1086472233801473
+260,Boston,http://wyss.harvard.edu,10001+,-0.08173535075839096
+261,New York,http://www.lazard.com,1001-5000,0.1661445879667988
+262,Duluth,http://sproutorganicfoods.com,11-50,0.1086472233801473
+263,Santa Monica,http://burritolabs.co,1-10,0.13666012875664862
+264,New York,https://www.theguarantors.com,51-100,0.03542436888872861
+265,Woodcliff Lake,http://www.catalogicsoftware.com,101-250,0.08960826571962464
+266,Lisle,http://www.extenetsystems.com,51-100,0.08547745310788972
+267,Indianapolis,http://www.anidyn.com/,1-10,0.13666012875664862
+268,New York,https://offchainlabs.com/,11-50,0.10466465961021519
+269,Dallas,https://arcade.co,11-50,0.1086472233801473
+270,Somerville,http://www.wavesense.io,11-50,0.1086472233801473
+271,Dallas,http://newcenturyhospice.com,501-1000,0.1673722690003722
+272,San Francisco,http://www.bandpage.com,1-10,0.07616839472122434
+273,Houston,http://meliorinnovations.com,101-250,0.08960826571962464
+274,Simpsonville,http://www.kemet.com/,501-1000,0.1673722690003722
+275,Alachua,http://agtc.com,11-50,0.1086472233801473
+276,San Francisco,https://circleup.com/equity/,101-250,0.10509427524242704
+277,Billerica,http://www.exogenesis.us,11-50,0.1086472233801473
+278,Boston,https://www.botkeeper.com/,101-250,0.033284081620886585
+279,Fairfield,Http://www.landsdownelabs.com,1-10,0.13666012875664862
+280,San Francisco,http://molekule.com/,51-100,0.13805034229983118
+281,New York,https://spate.nyc,1-10,0.07391565625083293
+282,Mountain View,http://www.cyberheartinc.com,1-10,0.31153363757113905
+283,Mclean,http://www.centrifugesystems.com,11-50,0.1086472233801473
+284,San Francisco,http://www.psafe.com,101-250,0.10509427524242704
+285,Allen,http://www.xtera.com/home,51-100,0.08547745310788972
+286,Madison,http://digsite.com,11-50,0.1086472233801473
+287,San Francisco,http://letsembark.com,1-10,0.07616839472122434
+288,Madison,https://home.akitabox.com,51-100,0.08547745310788972
+289,San Francisco,http://www.clearbrain.com,1-10,0.07616839472122434
+290,Woodland Hills,http://transplantgenomics.com,1-10,0.13666012875664862
+291,Boston,http://www.happier.com,1-10,0.1753987828136506
+292,New York,http://datadrivends.com,11-50,0.10466465961021519
+293,San Jose,http://www.alientechnology.com,251-500,0.09557781706582578
+294,Campbell,http://www.apamamedical.com/,11-50,0.1086472233801473
+295,Tampa,http://www.megahoot.com,11-50,0.1086472233801473
+296,Mclean,http://www.binaryfountain.com,101-250,0.08960826571962464
+297,Cambridge,http://www.vbivaccines.com/,101-250,0.08960826571962464
+298,Berkeley,http://www.pivotbio.com/,101-250,0.08960826571962464
+299,San Francisco,http://fountaintx.com/,1-10,0.07616839472122434
+300,Reno,http://dom.ai/,11-50,0.1086472233801473
+301,Redwood City,http://amazinghiring.com,11-50,0.1086472233801473
+302,San Francisco,https://www.meetpaladin.com/,11-50,0.0830449124417685
+303,South San Francisco,http://www.cytomx.com,51-100,0.08547745310788972
+304,San Francisco,http://yespath.com,1-10,0.07616839472122434
+305,Seattle,http://www.starbucks.com,10001+,-0.07281093623120484
+306,Portland,http://www.tryfleet.com,11-50,0.1086472233801473
+307,Redwood City,http://barnandwillow.com/,1-10,0.13666012875664862
+308,Kirkland,https://www.faira.com,51-100,0.08547745310788972
+309,Hamilton,http://micropower-global.com,11-50,0.1086472233801473
+310,Minneapolis,http://jamf.com,501-1000,0.1673722690003722
+311,Beverly Hills,http://www.redbutler.com,11-50,0.1086472233801473
+312,San Francisco,http://www.itsfairy.com,11-50,0.0830449124417685
+313,San Francisco,http://bizzy.io,11-50,0.0830449124417685
+314,Chicago,http://www.1871.com,101-250,0.017062366036634982
+315,New York,https://www.caredox.com,51-100,0.03542436888872861
+316,New York,https://thirstie.com,11-50,0.10466465961021519
+317,Grand Rapids,https://www.meijer.com/,10001+,0.04856393641284885
+318,New York,http://www.kencko.com,11-50,0.10466465961021519
+319,Portland,http://www.ivantagehealth.com,51-100,0.08547745310788972
+320,Los Angeles,http://videoamp.com,101-250,0.2023375302733799
+321,Boston,https://logrocket.com,11-50,0.04929457832282223
+322,San Francisco,http://doubledutch.me/,51-100,0.13805034229983118
+323,Los Angeles,https://www.trustory.io,1-10,0.09345762218151825
+324,New York,http://vestwell.com/,11-50,0.10466465961021519
+325,Pleasant Grove,http://www.fortemtech.com/,51-100,0.08547745310788972
+326,Falls Church,http://www.inova.org/itmi/home,10001+,0.04856393641284885
+327,Palo Alto,https://spin.ai,51-100,0.005638196483874341
+328,Santa Monica,http://www.earny.co/,11-50,0.1086472233801473
+329,New York,http://www.khealth.ai,101-250,0.03869166130044718
+330,Denver,http://www.catalystsecure.com,101-250,0.08960826571962464
+331,San Francisco,http://www.everlane.com,101-250,0.10509427524242704
+332,San Francisco,http://www.spinn.com,11-50,0.0830449124417685
+333,Philadelphia,http://www.exyn.com,11-50,0.1086472233801473
+334,Conshohocken,http://www.loanstartechnologies.com,1-10,0.13666012875664862
+335,New York,http://www.rubiconmd.com,51-100,0.03542436888872861
+336,New York,http://hazeltree.com,11-50,0.10466465961021519
+337,Miami,http://neighborhoodfuel.com/,11-50,0.1086472233801473
+338,Camden Wyoming,http://paperflite.com/,11-50,0.1086472233801473
+339,Petaluma,https://ygrene.com/,251-500,0.09557781706582578
+340,Oklahoma City,http://okcthunder.com,101-250,0.08960826571962464
+341,Los Gatos,https://AntiLand.com,11-50,0.1086472233801473
+342,San Francisco,https://www.goloansnap.com/,101-250,0.10509427524242704
+343,San Francisco,http://www.ConstructionAutomation.com,1-10,0.07616839472122434
+344,Los Angeles,http://greencommuter.org/,11-50,0.0917643488404792
+345,Chicago,https://www.keepersecurity.com,101-250,0.017062366036634982
+346,Boston,http://www.accreon.com/,101-250,0.033284081620886585
+347,Washington,https://www.strider.tech/,11-50,0.1086472233801473
+348,El Segundo,http://mediahound.com,11-50,0.1086472233801473
+349,San Francisco,https://getrawr.com,11-50,0.0830449124417685
+350,New York,http://www.logicworks.net,101-250,0.03869166130044718
+351,Framingham,http://www.solacetx.com,11-50,0.1086472233801473
+352,Dallas,http://www.flywheelbi.com,11-50,0.1086472233801473
+353,Alviso,http://www.tivo.com,501-1000,0.1673722690003722
+354,Manchester,http://www.newforma.com,251-500,0.09557781706582578
+355,San Francisco,https://www.rentberry.com,11-50,0.0830449124417685
+356,Orono,http://www.coursestorm.com,11-50,0.1086472233801473
+357,Houston,http://www.balancecredit.com/,51-100,0.08547745310788972
+358,Cambridge,http://tive.co/,11-50,0.1086472233801473
+359,Cupertino,http://www.constellationr.com,11-50,0.1086472233801473
+360,Los Angeles,https://www.leapcure.com/,1-10,0.09345762218151825
+361,San Diego,http://abreos.com/,1-10,0.13666012875664862
+362,Cambridge,http://www.mitobridge.com/,11-50,0.1086472233801473
+363,Little Rock,http://www.apptegy.com,51-100,0.08547745310788972
+364,Bedford,http://www.1366tech.com,51-100,0.08547745310788972
+365,Cambridge,http://www.performable.com,1-10,0.13666012875664862
+366,Omaha,https://opscompass.com,11-50,0.1086472233801473
+367,Palo Alto,https://edgybees.com,11-50,0.046236064165518974
+368,Atlanta,https://www.apptega.com,11-50,0.1086472233801473
+369,Chicago,https://cloudranger.com,11-50,0.06455436514153481
+370,Detroit,http://backstitch.io,1-10,0.13666012875664862
+371,Boston,http://www.bostonmicrofluidics.com/,11-50,0.04929457832282223
+372,Columbus,https://www.greengrowthbrands.com/,501-1000,0.1673722690003722
+373,Ann Arbor,http://aquarobio.com/,11-50,0.1086472233801473
+374,Redwood City,http://www.kenandy.com,101-250,0.08960826571962464
+375,San Diego,http://www.getpetbox.com,11-50,0.1086472233801473
+376,San Francisco,http://www.arka.com/,1-10,0.07616839472122434
+377,Lafayette,https://www.julesapp.com/,11-50,0.1086472233801473
+378,Boston,http://www.essess.com,11-50,0.04929457832282223
+379,San Francisco,http://www.meetingsift.com,11-50,0.0830449124417685
+380,Santa Monica,http://blockfraud.com/,11-50,0.1086472233801473
+381,West Chester,https://virpaxpharma.com/,1-10,0.13666012875664862
+382,San Francisco,http://hired.com,251-500,0.10028712636481094
+383,Pleasanton,http://www.elliemae.com,501-1000,0.1673722690003722
+384,Oakland,https://lighthouse.io/,1-10,0.13666012875664862
+385,Miami,https://www.clutchprep.com/,11-50,0.1086472233801473
+386,Sunnyvale,http://vioozer.com,1-10,0.13666012875664862
+387,Tempe,https://cyr3con.ai,11-50,0.1086472233801473
+388,Cleveland,http://www.clevelandheartlab.com,51-100,0.08547745310788972
+389,San Francisco,https://www.scratch.fi/,11-50,0.0830449124417685
+390,New York,https://cooksventure.com/,11-50,0.10466465961021519
+391,Bloomfield Hills,http://www.birdhousehq.com,11-50,0.1086472233801473
+392,Houston,https://getwemap.com,1-10,0.13666012875664862
+393,Newark,http://www.qnovo.com,11-50,0.1086472233801473
+394,Seattle,http://www.micasense.com,1-10,0.14106387211653235
+395,San Francisco,https://tradeshift.com,1001-5000,0.06397799407432203
+396,New York,https://www.boinklive.com/,11-50,0.10466465961021519
+397,Pittsburgh,https://www.ikoshq.com,51-100,0.08547745310788972
+398,Overland Park,http://www.parnell.com/,101-250,0.08960826571962464
+399,Brookline,http://www.brightleaf.com,11-50,0.1086472233801473
+400,Wilmington,https://www.lingokids.com/,51-100,0.08547745310788972
+401,Sunnyvale,https://www.connectifier.com/about,11-50,0.1086472233801473
+402,San Jose,http://cloudgenix.com,101-250,0.08960826571962464
+403,Denver,http://www.palantir.com,1001-5000,0.09112472340491666
+404,San Francisco,https://caelumhealth.com/,1-10,0.07616839472122434
+405,Seattle,http://www.melo.ai,11-50,0.10995294879204402
+406,San Mateo,http://www.healthcrowd.com,11-50,0.1086472233801473
+407,New York,http://www.struq.com,11-50,0.10466465961021519
+408,Redwood City,http://www.icontrol.com,51-100,0.08547745310788972
+409,New York,http://www.relay.delivery,1-10,0.07391565625083293
+410,Cambridge,http://helixnano.com/,1-10,0.13666012875664862
+411,San Francisco,https://www.roostify.com,101-250,0.10509427524242704
+412,Oakland,http://www.livescribe.com,51-100,0.08547745310788972
+413,Nashville,http://smsholdings.com,10001+,0.04856393641284885
+414,Bethesda,http://rljcompanies.com,51-100,0.08547745310788972
+415,San Francisco,http://www.bestmile.com,101-250,0.10509427524242704
+416,Austin,http://www.unbill.us/,11-50,0.19956792979551838
+417,Irvine,http://www.therox.com,11-50,0.1086472233801473
+418,Lexington,http://www.alzheon.com,11-50,0.1086472233801473
+419,San Francisco,http://delpor.com,1-10,0.07616839472122434
+420,Milwaukee,https://www.crowds.io/,1-10,0.13666012875664862
+421,San Francisco,https://www.honeydue.com/,1-10,0.07616839472122434
+422,Raleigh,https://www.feedtrail.com/,11-50,0.1086472233801473
+423,Redwood Shores,http://www.personalcapital.com,501-1000,0.1673722690003722
+424,New York,http://betterfly.com,11-50,0.10466465961021519
+425,San Antonio,https://www.farmbureaubank.com/,101-250,0.08960826571962464
+426,San Francisco,https://www.getspectrum.io,51-100,0.13805034229983118
+427,Washington,http://www.workamerica.co,1-10,0.13666012875664862
+428,Saint Clair,http://www.plzaeroscience.com/,501-1000,0.1673722690003722
+429,San Francisco,http://www.nylas.com,101-250,0.10509427524242704
+430,New York,http://www.artlist.co,1-10,0.07391565625083293
+431,San Francisco,http://sensortower.com,101-250,0.10509427524242704
+432,Carmel,https://www.realync.com,11-50,0.1086472233801473
+433,San Francisco,https://theathletic.com/,101-250,0.10509427524242704
+434,Westborough,http://www.a123systems.com/,1001-5000,0.09112472340491666
+435,New York,http://simulate.com,11-50,0.10466465961021519
+436,New York,https://720.io/en/,11-50,0.10466465961021519
+437,Chicago,http://www.lunalights.org/,1-10,0.0016280118260470586
+438,Los Gatos,http://www.butterfly.com,11-50,0.1086472233801473
+439,Seattle,http://www.ellenos.com/yogurt/,51-100,0.1760944334898394
+440,Mountain View,http://www.refresh.io,5001-10000,0.07589068548779801
+441,Kansas City,https://site1001.com,51-100,0.08547745310788972
+442,Mountain View,http://bbbtech.com,11-50,0.0035676344996085738
+443,San Antonio,https://helpsocial.com,1-10,0.13666012875664862
+444,New York,https://www.wingalpha.com/,251-500,-8.833483978093427e-05
+445,Bethesda,http://www.KnowledgeToPractice.com,11-50,0.1086472233801473
+446,Redmond,http://www.helionenergy.com/,11-50,0.1086472233801473
+447,New York,https://www.paradigm.co/,1-10,0.07391565625083293
+448,San Diego,http://www.dauntlessph.com/,11-50,0.1086472233801473
+449,Walnut,http://worldpopulationreview.com/,11-50,0.1086472233801473
+450,Washington,http://www.dhs.gov,10001+,0.04856393641284885
+451,Palo Alto,https://www.ladderlife.com/,11-50,0.046236064165518974
+452,Salt Lake City,http://www.instructure.com,501-1000,0.1673722690003722
+453,Burlingame,http://www.humanigen.com,11-50,0.1086472233801473
+454,Cambridge,https://partstech.com/home,11-50,0.1086472233801473
+455,Chicago,http://www.aisle50.com,11-50,0.06455436514153481
+456,San Francisco,http://www.lawgives.com,1-10,0.07616839472122434
+457,New York,http://www.mommynearest.com,11-50,0.10466465961021519
+458,Lexington,http://www.syntapharma.com,51-100,0.08547745310788972
+459,Lehi,http://www.maritzcx.com,1001-5000,0.09112472340491666
+460,Lexington,http://www.consoloservices.com/,11-50,0.1086472233801473
+461,San Francisco,http://www.mixedmedialabs.com,1-10,0.07616839472122434
+462,Champaign,http://vitrixhealth.com,1-10,0.13666012875664862
+463,Provo,https://www.momni.com/,11-50,0.1086472233801473
+464,Wrightsville Beach,http://docsink.com,11-50,0.1086472233801473
+465,San Jose,http://www.enverv.com,51-100,0.08547745310788972
+466,Seattle,http://immusoft.com,11-50,0.10995294879204402
+467,Minneapolis,https://sezzle.com,51-100,0.08547745310788972
+468,Santa Monica,http://www.cornerstoneondemand.com,1001-5000,0.09112472340491666
+469,San Diego,http://www.ossic.com,11-50,0.1086472233801473
+470,Bellevue,http://Ossia.com,11-50,0.1086472233801473
+471,Des Moines,https://certintell.com,1-10,0.13666012875664862
+472,Woburn,https://ossio.io/,11-50,0.1086472233801473
+473,Miami,http://gui.de,11-50,0.1086472233801473
+474,New York,https://ripplematch.com/,251-500,-8.833483978093427e-05
+475,Allston,http://baobabtruck.wix.com/baobab,501-1000,0.1673722690003722
+476,Raleigh,http://www.uvision360.com,11-50,0.1086472233801473
+477,New York,https://www.petalcard.com/,51-100,0.03542436888872861
+478,Cincinnati,http://www.kroger.com,10001+,0.04856393641284885
+479,Menlo Park,http://curious.com,51-100,0.08547745310788972
+480,New York,http://www.1010data.com,101-250,0.03869166130044718
+481,San Francisco,https://www.amforainc.com/,1-10,0.07616839472122434
+482,Durham,https://bliss.health,11-50,0.1086472233801473
+483,San Francisco,https://www.replicant.ai/,11-50,0.0830449124417685
+484,New York,http://www.cubeyou.com,11-50,0.10466465961021519
+485,Princeton,http://invidi.com,51-100,0.08547745310788972
+486,New York,http://sketchfab.com,11-50,0.10466465961021519
+487,San Francisco,https://www.innovaccer.com,251-500,0.10028712636481094
+488,Houston,https://macrofab.com,11-50,0.1086472233801473
+489,Boston,http://storiant.com,11-50,0.04929457832282223
+490,New York,http://www.cognotion.com,51-100,0.03542436888872861
+491,Pasadena,http://www.privlo.com/,1-10,0.13666012875664862
+492,Oakland,http://www.fr8star.com,11-50,0.1086472233801473
+493,Bloomington,http://mobilegs.com,1-10,0.13666012875664862
+494,Palo Alto,http://kurbo.com,1-10,0.10614041639317535
+495,San Francisco,http://frontapp.com,101-250,0.10509427524242704
+496,Redmond,http://www.kymetacorp.com,51-100,0.08547745310788972
+497,San Carlos,http://www.campusquad.co,11-50,0.1086472233801473
+498,San Jose,http://www.ampedinnovation.com/,1-10,0.13666012875664862
+499,Sunnyvale,http://api.ai,11-50,0.1086472233801473
+500,San Francisco,https://www.qualia.com/,251-500,0.10028712636481094
+501,San Francisco,https://www.shapeanalytics.com/,1-10,0.07616839472122434
+502,Washington,https://www.brightgreens.com/,1-10,0.13666012875664862
+503,Los Angeles,http://stem.is,11-50,0.0917643488404792
+504,New York,https://www.pond5.com,101-250,0.03869166130044718
+505,New York,https://frank.ai/,1-10,0.07391565625083293
+506,Cambridge,http://www.broadinstitute.org,501-1000,0.1673722690003722
+507,Carmel,http://www.calibrium.com/,251-500,0.09557781706582578
+508,Sunnyvale,http://playvox.com,51-100,0.08547745310788972
+509,Madison,http://bluetreenetwork.com,101-250,0.08960826571962464
+510,New York,http://www.thestreet.com,501-1000,0.16916293462643023
+511,New York,https://www.corpaxe.com/,11-50,0.10466465961021519
+512,San Francisco,http://haloneuro.com/,11-50,0.0830449124417685
+513,New York,http://www.stackoverflow.com,251-500,-8.833483978093427e-05
+514,Cambridge,http://www.medtouch.com/,101-250,0.08960826571962464
+515,Chicago,http://pairade.com/,1-10,0.0016280118260470586
+516,Portland,http://hemexhealth.com/,1-10,0.13666012875664862
+517,San Francisco,https://www.fotobommedia.com,1-10,0.07616839472122434
+518,Berkshire,https://www.snafflingpig.co.uk/,11-50,0.1086472233801473
+519,San Diego,https://www.kitu.io/,11-50,0.1086472233801473
+520,Madison,http://www.wellbe.me,11-50,0.1086472233801473
+521,San Francisco,http://www.edgemakers.com/,11-50,0.0830449124417685
+522,San Francisco,https://www.aellacredit.com,11-50,0.0830449124417685
+523,Hollywood,https://www.takeabed.com,11-50,0.1086472233801473
+524,San Carlos,http://www.prenav.com/,11-50,0.1086472233801473
+525,San Francisco,http://nevados.co,1-10,0.07616839472122434
+526,San Francisco,http://www.sprucefinance.com,251-500,0.10028712636481094
+527,New York,http://affinitysolutions.com,101-250,0.03869166130044718
+528,Bellevue,https://thehelm.com,1-10,0.13666012875664862
+529,La Jolla,http://www.auspexpharma.com,11-50,0.1086472233801473
+530,San Francisco,http://dealyze.com,11-50,0.0830449124417685
+531,Manhattan Beach,http://www.morphlabs.com,11-50,0.1086472233801473
+532,Chicago,https://dscout.com,51-100,0.009111936076612067
+533,Champaign,http://www.zmodo.com,501-1000,0.1673722690003722
+534,Bethesda,http://www.aphage.com/,11-50,0.1086472233801473
+535,Kennesaw,https://www.freedomelectronics.com/,51-100,0.08547745310788972
+536,Saint Louis,https://www.affigen.com/,1-10,0.13666012875664862
+537,Fremont,http://www.excelfore.com,51-100,0.08547745310788972
+538,San Francisco,https://lightform.com,1-10,0.07616839472122434
+539,Newark,http://www.authorizedluxurygroup.com,11-50,0.1086472233801473
+540,Cupertino,http://www.plutomoney.app,1-10,0.13666012875664862
+541,Westford,http://biobdx.com,11-50,0.1086472233801473
+542,Boston,https://www.mytableapps.com,1-10,0.1753987828136506
+543,Boston,http://brainspecmed.com/,1-10,0.1753987828136506
+544,San Francisco,http://www.rightrelevance.com,1-10,0.07616839472122434
+545,New York,http://www.alliebot.com,1-10,0.07391565625083293
+546,San Diego,http://rhombusenergysolutions.com/,11-50,0.1086472233801473
+547,Cupertino,http://www.stacklighting.com,11-50,0.1086472233801473
+548,San Francisco,https://www.constructor.io,11-50,0.0830449124417685
+549,Chicago,http://www.resultly.com,11-50,0.06455436514153481
+550,Minneapolis,http://www.generalmills.com,10001+,0.04856393641284885
+551,San Jose,http://scootpad.com,1-10,0.13666012875664862
+552,San Diego,http://evokepharma.com,11-50,0.1086472233801473
+553,Pacoima,http://www.arcmachines.com/,101-250,0.08960826571962464
+554,Menlo Park,https://www.safelydeposit.com/,1-10,0.13666012875664862
+555,New York,http://www.materialworld.co,11-50,0.10466465961021519
+556,Denver,https://www.pepsicenter.com,1001-5000,0.09112472340491666
+557,Waltham,http://www.instylla.com/,11-50,0.1086472233801473
+558,New York,https://www.indicative.com/,11-50,0.10466465961021519
+559,Davis,http://www.eicosis.com/,11-50,0.1086472233801473
+560,Mountain View,https://arimo.com,51-100,0.3155983959993527
+561,Washington,http://ingo.me/,11-50,0.1086472233801473
+562,Mountain View,http://www.zume.com/,251-500,-0.001545845276454985
+563,Charleston,http://www.atlatlsoftware.com,11-50,0.1086472233801473
+564,Seattle,https://clusterone.com,11-50,0.10995294879204402
+565,Boston,https://www.edmit.me,1-10,0.1753987828136506
+566,Oakland,https://www.drinkolipop.com/,1-10,0.13666012875664862
+567,Burbank,https://www.disneyanimation.com/,501-1000,0.1673722690003722
+568,San Francisco,https://www.doteshopping.com/,1-10,0.07616839472122434
+569,Los Angeles,http://www.crent.com,11-50,0.0917643488404792
+570,Sunnyvale,http://www.back4app.com,1-10,0.13666012875664862
+571,San Diego,https://tailio.com,1-10,0.13666012875664862
+572,Los Angeles,http://www.boingo.com,501-1000,0.09647322483214982
+573,Los Angeles,http://www.wisercare.com,11-50,0.0917643488404792
+574,Wichita,https://lawnbuddy.com/,1-10,0.13666012875664862
+575,New York,http://www.babymed.com,1-10,0.07391565625083293
+576,New York,http://www.trendalytics.co,11-50,0.10466465961021519
+577,Waltham,http://morphictx.com/,51-100,0.08547745310788972
+578,Katy,http://www.uconnectesports.com/#,1-10,0.13666012875664862
+579,San Diego,http://tipsyelves.com,11-50,0.1086472233801473
+580,Elmhurst,http://www.patientbond.com,11-50,0.1086472233801473
+581,Lexington,http://www.cartera.com,101-250,0.08960826571962464
+582,Chicago,https://www.braviantholdings.com/,51-100,0.009111936076612067
+583,New York,http://www.designerpages.com,11-50,0.10466465961021519
+584,Marlborough,http://solidbio.com/,101-250,0.08960826571962464
+585,Santa Monica,http://www.avision.io,11-50,0.1086472233801473
+586,San Diego,http://www.renovateamerica.com/,101-250,0.08960826571962464
+587,Campbell,http://www.tidalscale.com/,11-50,0.1086472233801473
+588,New York,http://www.forwardlane.com,11-50,0.10466465961021519
+589,San Francisco,http://catch.com,11-50,0.0830449124417685
+590,San Francisco,https://www.junipersquare.com/,101-250,0.10509427524242704
+591,Nashville,http://autoidinc.com,11-50,0.1086472233801473
+592,Sisters,https://lairdsuperfood.com/,51-100,0.08547745310788972
+593,Pittsburgh,http://www.investedge.com,101-250,0.08960826571962464
+594,Albany,https://www.hopsy.beer,1-10,0.13666012875664862
+595,Columbus,http://pacejet.com,11-50,0.1086472233801473
+596,Boston,http://cognii.com,11-50,0.04929457832282223
+597,Provo,http://multiling.com,501-1000,0.1673722690003722
+598,Seattle,https://blackswantec.com,1-10,0.14106387211653235
+599,Santa Monica,https://www.theopenhouse.com,11-50,0.1086472233801473
+600,Palo Alto,https://www.symphonyrm.com/,51-100,0.005638196483874341
+601,San Antonio,http://www.mergeedu.com/,11-50,0.1086472233801473
+602,Schaumburg,https://smartwitness.com/,11-50,0.1086472233801473
+603,Livermore,http://repower.solaruniverse.com,251-500,0.09557781706582578
+604,Seattle,http://utrip.com,11-50,0.10995294879204402
+605,Fremont,https://www.batonsystems.com/,11-50,0.1086472233801473
+606,Dallas,http://discoverymidstream.com,11-50,0.1086472233801473
+607,Cary,http://www.medfusion.com/,51-100,0.08547745310788972
+608,West Hollywood,http://amazevr.com,11-50,0.1086472233801473
+609,Foxboro,http://www.axeda.com,51-100,0.08547745310788972
+610,San Francisco,http://www.mindsnacks.com,11-50,0.0830449124417685
+611,Atherton,http://www.cloudhouse.com,11-50,0.1086472233801473
+612,Baltimore,http://akua-llc.com/,11-50,0.1086472233801473
+613,Westminster,http://www.TekDry.com,1-10,0.13666012875664862
+614,Dallas,http://ryan.com,5001-10000,0.07993533234043217
+615,San Francisco,http://www.appthority.com,11-50,0.0830449124417685
+616,Brooklyn,https://www.geogif.me/,1-10,0.13666012875664862
+617,Washington,https://www.remodelmate.com,1-10,0.13666012875664862
+618,Menlo Park,http://apostlebio.com,1-10,0.13666012875664862
+619,American Fork,http://photopharmics.com,1-10,0.13666012875664862
+620,Boise,https://www.mealticket.com/,11-50,0.1086472233801473
+621,Schaumburg,https://www.ilantus.com/,101-250,0.08960826571962464
+622,Newport Beach,http://www.pivotshare.com,11-50,0.1086472233801473
+623,San Francisco,http://www.webtab.com,1-10,0.07616839472122434
+624,Pleasanton,http://www.steelwedge.com,501-1000,0.1673722690003722
+625,Santa Clara,http://xygaming.com,11-50,0.1086472233801473
+626,San Mateo,http://www.opyacare.com/,51-100,0.08547745310788972
+627,Cincinnati,http://www.actionstreamer.com/,1-10,0.13666012875664862
+628,Malvern,http://www.tetralogicpharma.com,11-50,0.1086472233801473
+629,San Francisco,http://www.honeybook.com,101-250,0.10509427524242704
+630,Boulder,http://archerdx.com,101-250,0.08960826571962464
+631,Albuquerque,http://www.boomtime.com,11-50,0.1086472233801473
+632,Burlington,https://migrantjustice.net/,1-10,0.13666012875664862
+633,San Francisco,https://trygrain.com/,1-10,0.07616839472122434
+634,San Francisco,https://www.gridspace.com/,11-50,0.0830449124417685
+635,Marina Del Rey,http://www.swelly.ai,11-50,0.1086472233801473
+636,Charlotte,http://www.spisales.com,51-100,0.08547745310788972
+637,Cocoa,http://genollc.com,51-100,0.08547745310788972
+638,Princeton,http://www.parabole.ai,11-50,0.1086472233801473
+639,San Diego,http://www.histogen.com,11-50,0.1086472233801473
+640,New York,https://www.seastraws.co/,1-10,0.07391565625083293
+641,Nashua,https://claro.hr/,11-50,0.1086472233801473
+642,Sunnyvale,http://www.clari.com,251-500,0.09557781706582578
+643,San Francisco,http://www.statestitle.com,501-1000,0.3683090408749776
+644,San Francisco,http://www.clarahq.com/,11-50,0.0830449124417685
+645,Menlo Park,http://www.uplift.com,51-100,0.08547745310788972
+646,Greenwood Village,http://www.silvergatepharma.com/,11-50,0.1086472233801473
+647,San Francisco,https://chargewheel.com/,1-10,0.07616839472122434
+648,Washington,http://www.nutritionix.com,11-50,0.1086472233801473
+649,Skokie,http://www.nanoink.net,51-100,0.08547745310788972
+650,Palo Alto,http://www.metawave.co,11-50,0.046236064165518974
+651,Indianapolis,https://www.hopebridge.com,1001-5000,0.09112472340491666
+652,St Louis,https://www.rebatebus.com,11-50,0.1086472233801473
+653,San Francisco,https://usejournal.com/,1-10,0.07616839472122434
+654,Palo Alto,https://www.allyo.com/,101-250,-0.01880901108933754
+655,Elizabethtown,http://BehaVR.com,11-50,0.1086472233801473
+656,Santa Barbara,http://invenios.com/,51-100,0.08547745310788972
+657,San Diego,https://ecorglobal.com/,51-100,0.08547745310788972
+658,San Francisco,https://tandem.chat/,11-50,0.0830449124417685
+659,New York,http://hellohealth.com,51-100,0.03542436888872861
+660,Boulder,https://www.arryved.com/,1-10,0.13666012875664862
+661,Los Angeles,https://www.agentrisk.com,11-50,0.0917643488404792
+662,New York,http://www.twelvefold.com,11-50,0.10466465961021519
+663,New York,https://www.vivvi.co/,1-10,0.07391565625083293
+664,Denver,http://storyvine.com/,1-10,0.13666012875664862
+665,Sioux Falls,https://www.avera.org/doctors/avera-medical-group/,1001-5000,0.09112472340491666
+666,Eugene,https://invivobiosystems.com//,51-100,0.08547745310788972
+667,Inglewood,https://kelvi.com/home/,11-50,0.1086472233801473
+668,New York,http://www.mentalcanvas.com,1-10,0.07391565625083293
+669,San Francisco,http://zensports.com/,1-10,0.07616839472122434
+670,Raleigh,http://www.redhat.com,5001-10000,0.07993533234043217
+671,Providence,http://www.rhodeislandhospital.org,5001-10000,0.07993533234043217
+672,Las Vegas,https://www.ns8.com,101-250,0.08960826571962464
+673,Guilford,http://www.medpricer.com,11-50,0.1086472233801473
+674,Los Angeles,https://rooam.co/,11-50,0.0917643488404792
+675,Los Angeles,http://cazza.co/,11-50,0.0917643488404792
+676,Keller,https://linuxacademy.com/,101-250,0.08960826571962464
+677,San Francisco,https://swoopt.com,1-10,0.07616839472122434
+678,San Francisco,https://www.apozy.com,1-10,0.07616839472122434
+679,Blue Bell,http://www.halfpenny.com,51-100,0.08547745310788972
+680,San Francisco,http://mailtime.com,1-10,0.07616839472122434
+681,Boston,http://coeverywhere.com,11-50,0.04929457832282223
+682,Marlborough,http://Skyscape.com,101-250,0.08960826571962464
+683,Charlottesville,https://zielbio.com/,1-10,0.13666012875664862
+684,Minneapolis,http://www.preventice.com,51-100,0.08547745310788972
+685,Redwood City,http://aegeamedical.com,11-50,0.1086472233801473
+686,New York,https://www.fohlio.com,1-10,0.07391565625083293
+687,San Jose,https://www.balbix.com/,51-100,0.08547745310788972
+688,Chicago,http://cityscan.com,101-250,0.017062366036634982
+689,New York,http://www.engageya.com/,11-50,0.10466465961021519
+690,San Francisco,https://www.asherbio.com/,1-10,0.07616839472122434
+691,St Louis,https://policyengage.com,11-50,0.1086472233801473
+692,Mountain View,http://deepscale.ai,11-50,0.0035676344996085738
+693,Coral Gables,http://www.proholdco.com/,51-100,0.08547745310788972
+694,Albuquerque,http://xftechnologies.com,11-50,0.1086472233801473
+695,Chicago,https://www.chorerelief.com,1-10,0.0016280118260470586
+696,Boulder,http://www.myATOMS.com,11-50,0.1086472233801473
+697,San Mateo,http://jupiterintel.com,11-50,0.1086472233801473
+698,San Francisco,https://www.onhexel.com/,1-10,0.07616839472122434
+699,Boston,http://www.3playmedia.com,11-50,0.04929457832282223
+700,San Francisco,http://www.claralabs.com/,11-50,0.0830449124417685
+701,Broomfield,http://www.spotx.tv,501-1000,0.1673722690003722
+702,Palo Alto,http://glyde.com,11-50,0.046236064165518974
+703,Redwood City,http://plexchat.com,11-50,0.1086472233801473
+704,Sugar Land,http://carrierenergy.com,1-10,0.13666012875664862
+705,San Francisco,http://www.joinvint.com,11-50,0.0830449124417685
+706,Malvern,http://www.nupathe.com,11-50,0.1086472233801473
+707,Pittsburgh,http://www.redpathip.com,51-100,0.08547745310788972
+708,Boston,http://getflyp.com,11-50,0.04929457832282223
+709,San Francisco,http://flyrlabs.com,11-50,0.0830449124417685
+710,Englewood,http://www.libertymedia.com,10001+,0.04856393641284885
+711,Richardson,http://www.armor.com,101-250,0.08960826571962464
+712,Fremont,http://www.sstsinc.com/,101-250,0.08960826571962464
+713,Winston Salem,https://www.wellnecity.com/,11-50,0.1086472233801473
+714,San Francisco,https://calii.com,101-250,0.10509427524242704
+715,San Jose,https://www.kuprioninc.com,11-50,0.1086472233801473
+716,New York,http://www.strikead.com,51-100,0.03542436888872861
+717,Englewood,http://aytubio.com/,51-100,0.08547745310788972
+718,Bellevue,https://www.corestack.io,51-100,0.08547745310788972
+719,New York,http://www.ticketiq.com,11-50,0.10466465961021519
+720,San Francisco,http://www.solinea.com,11-50,0.0830449124417685
+721,San Francisco,https://www.rankscience.com/,1-10,0.07616839472122434
+722,Colton,http://sprizzi.com/,11-50,0.1086472233801473
+723,Palo Alto,http://www.commercesignals.com,11-50,0.046236064165518974
+724,New York,http://www.3floz.com,1-10,0.07391565625083293
+725,Novato,http://www.raptorpharma.com,51-100,0.08547745310788972
+726,Boston,http://www.currensee.com,501-1000,0.09269302486452652
+727,Austin,http://www.beecavegames.com,11-50,0.19956792979551838
+728,San Francisco,http://keeptruckin.com,1001-5000,0.06397799407432203
+729,Corte Madera,http://www.threefoldphotos.com/,1-10,0.13666012875664862
+730,Miami,http://www.powerful.co,1-10,0.13666012875664862
+731,Sherburne,http://www.stpetnutrition.com/,51-100,0.08547745310788972
+732,Towson,http://www.roadnet.com,501-1000,0.1673722690003722
+733,San Francisco,http://sosh.com,11-50,0.0830449124417685
+734,Miami,http://poweruptoys.com,1-10,0.13666012875664862
+735,Chicago,https://www.lumere.com,51-100,0.009111936076612067
+736,San Francisco,https://gainful.com/,11-50,0.0830449124417685
+737,Provo,https://www.vspatial.com/,11-50,0.1086472233801473
+738,Washington,http://www.southmoonunder.com/,251-500,0.09557781706582578
+739,Sunnyvale,http://www.dvssciences.com,11-50,0.1086472233801473
+740,Boston,https://www.eatiqbar.com/,1-10,0.1753987828136506
+741,Menlo Park,https://www.mentorcloud.com,1-10,0.13666012875664862
+742,San Francisco,https://www.findoctave.com/,11-50,0.0830449124417685
+743,Los Angeles,https://levelplaysports.com,11-50,0.0917643488404792
+744,Fremont,http://www.uniformitylabs.com/,11-50,0.1086472233801473
+745,Los Angeles,http://www.air.tv,11-50,0.0917643488404792
+746,Bellevue,http://tellwise.com,11-50,0.1086472233801473
+747,Austin,https://www.rategenius.com,51-100,0.007244254146436965
+748,Dallas,http://www.paywithgrey.com,1-10,0.13666012875664862
+749,San Francisco,http://staffly.com,1-10,0.07616839472122434
+750,San Jose,http://www.ooyala.com,251-500,0.09557781706582578
+751,Austin,http://www.locusinsights.com/,1-10,-0.0018775805876279019
+752,New York,https://erply.com/,51-100,0.03542436888872861
+753,Morrisville,http://www.citrahealth.com,51-100,0.08547745310788972
+754,Seattle,https://www.fanwide.com,11-50,0.10995294879204402
+755,Irvine,http://www.fetch.com,51-100,0.08547745310788972
+756,San Francisco,https://www.fligoo.com,11-50,0.0830449124417685
+757,Denver,http://homebot.ai/,1-10,0.13666012875664862
+758,Los Angeles,https://www.endalgo.com,11-50,0.0917643488404792
+759,New York,https://www.sayrhino.com,51-100,0.03542436888872861
+760,Reston,http://www.razorsight.com,251-500,0.09557781706582578
+761,Phoenix,https://www.chassi.com/,11-50,0.1086472233801473
+762,Rockville,http://www.neuralstem.com,11-50,0.1086472233801473
+763,Houston,https://www.reachps.com/,11-50,0.1086472233801473
+764,Oakland,http://www.vsco.co/,101-250,0.08960826571962464
+765,Camden,https://coriell.org/,251-500,0.09557781706582578
+766,Boston,http://apis-cor.com,11-50,0.04929457832282223
+767,South San Francisco,http://www.truenorthrx.com/,11-50,0.1086472233801473
+768,Spokane,http://www.ecomom.com,51-100,0.08547745310788972
+769,San Francisco,https://www.brillianthire.io/,1-10,0.07616839472122434
+770,Woodland,http://getcorp.com,11-50,0.1086472233801473
+771,Athens,https://rxqcompounding.com/,11-50,0.1086472233801473
+772,Sunnyvale,https://star.global/,51-100,0.08547745310788972
+773,Cambridge,http://www.intersystems.com/,1001-5000,0.09112472340491666
+774,San Francisco,http://www.getaltx.com/,11-50,0.0830449124417685
+775,Cambridge,https://www.strandtx.com/,1-10,0.13666012875664862
+776,Santa Monica,http://www.brighter.com,51-100,0.08547745310788972
+777,Redwood City,https://www.preclus.io/,1-10,0.13666012875664862
+778,San Diego,https://mosaic.tech,1-10,0.13666012875664862
+779,Boston,http://www.axle.ai,11-50,0.04929457832282223
+780,Allen Park,http://www.ecomotors.com,11-50,0.1086472233801473
+781,Austin,http://edgecase.io,11-50,0.19956792979551838
+782,Los Gatos,https://www.grandcanals.com,11-50,0.1086472233801473
+783,Mountain View,http://www.alexza.com,51-100,0.3155983959993527
+784,Kirkland,http://nurego.com,1-10,0.13666012875664862
+785,Palo Alto,https://www.psiquantum.com/,101-250,-0.01880901108933754
+786,Boise,http://www.americanostrichfarms.com,11-50,0.1086472233801473
+787,Ladera Ranch,http://www.money360.com/,11-50,0.1086472233801473
+788,South Harwich,http://zudy.com,11-50,0.1086472233801473
+789,San Francisco,http://www.ethoslending.com,251-500,0.10028712636481094
+790,Birmingham,http://www.illumicare.com,11-50,0.1086472233801473
+791,Dallas,http://Toor.Today,1-10,0.13666012875664862
+792,Westford,http://www.anovadata.com/,51-100,0.08547745310788972
+793,Sunnyvale,https://www.relimetrics.com/,11-50,0.1086472233801473
+794,New York,https://www.mpb.com,101-250,0.03869166130044718
+795,San Jose,http://codingdojo.com,51-100,0.08547745310788972
+796,Longwood,http://www.redlambda.com,11-50,0.1086472233801473
+797,New York,https://cresscap.com,11-50,0.10466465961021519
+798,Littleton,http://www.mevion.com,101-250,0.08960826571962464
+799,Charlotte,https://www.greenpeakinnovations.com/,51-100,0.08547745310788972
+800,Austin,https://www.caringo.com,51-100,0.007244254146436965
+801,Dallas,http://www.blackboxstocks.com/,1-10,0.13666012875664862
+802,Alpharetta,http://www.kahua.com,11-50,0.1086472233801473
+803,Chicago,http://www.wellspring.com,51-100,0.009111936076612067
+804,New York,https://www.spglobal.com/,10001+,-0.010850751521368062
+805,Des Moines,http://www.dwolla.com,51-100,0.08547745310788972
+806,Needham,http://www.tripadvisor.com,5001-10000,0.07993533234043217
+807,Santa Monica,https://podtrackers.com,11-50,0.1086472233801473
+808,Walnut Creek,http://seal-software.com/,101-250,0.08960826571962464
+809,San Francisco,http://www.gemmuspharma.com,11-50,0.0830449124417685
+810,Los Altos,http://primarydata.com,51-100,0.08547745310788972
+811,San Francisco,http://www.datafox.com,11-50,0.0830449124417685
+812,New York,https://www.glossier.com/,101-250,0.03869166130044718
+813,Durham,http://www.inirv.com,1-10,0.13666012875664862
+814,Seattle,https://www.appsheet.com,11-50,0.10995294879204402
+815,New York,http://www.giants.com,1-10,0.07391565625083293
+816,Washington,https://www.sociallydetermined.com,11-50,0.1086472233801473
+817,Reno,http://iantechmed.com/,1-10,0.13666012875664862
+818,Boynton Beach,https://blueberrypediatrics.com/,1-10,0.13666012875664862
+819,Jersey City,http://www.cenx.com,51-100,0.08547745310788972
+820,New York,http://apester.com,101-250,0.03869166130044718
+821,Naugatuck,http://www.culturefreshfoods.com/,1-10,0.13666012875664862
+822,Atlanta,http://www.dcblox.com,11-50,0.1086472233801473
+823,Atlanta,http://crescerance.com/,11-50,0.1086472233801473
+824,Houston,https://www.figloans.com/,1-10,0.13666012875664862
+825,Fargo,https://www.botlink.com/,11-50,0.1086472233801473
+826,Bend,http://www.manzama.com,11-50,0.1086472233801473
+827,Belding,https://aghelpusa.com/,1-10,0.13666012875664862
+828,New York,https://www.liftforward.com,11-50,0.10466465961021519
+829,San Francisco,https://www.jotform.com,101-250,0.10509427524242704
+830,Summit,http://www.oculusit.com,101-250,0.08960826571962464
+831,New York,https://www.crowdspark.com/,11-50,0.10466465961021519
+832,Lewes,https://instadapp.io/,1-10,0.13666012875664862
+833,Campbell,http://www.chargepoint.com/,501-1000,0.1673722690003722
+834,San Francisco,http://repl.it/,11-50,0.0830449124417685
+835,Detroit,http://www.freep.com,1001-5000,0.09112472340491666
+836,Brooklyn,http://filmrise.com,11-50,0.1086472233801473
+837,San Francisco,https://apsalar.com,11-50,0.0830449124417685
+838,San Francisco,https://www.heartex.net/,1-10,0.07616839472122434
+839,Miami,http://www.moocho.com,51-100,0.08547745310788972
+840,Dulles,http://cigital.com,251-500,0.09557781706582578
+841,Los Angeles,http://www.giblib.com,1-10,0.09345762218151825
+842,Palo Alto,http://www.hawthornelabs.com,11-50,0.046236064165518974
+843,San Francisco,http://www.vumedi.com,51-100,0.13805034229983118
+844,Foster City,http://www.wandlabs.com/,1-10,0.13666012875664862
+845,Boston,http://www.parkeasier.com,11-50,0.04929457832282223
+846,Boston,https://www.preveil.com,11-50,0.04929457832282223
+847,Miami,http://finconecta.com/,11-50,0.1086472233801473
+848,Boston,http://Playkey.net,11-50,0.04929457832282223
+849,Indianapolis,http://www.techpoint.org,51-100,0.08547745310788972
+850,Venice,http://www.boundless.ai,1-10,0.13666012875664862
+851,Santa Clara,http://www.invictamedical.com,11-50,0.1086472233801473
+852,Norwood,http://www.analog.com,5001-10000,0.07993533234043217
+853,Waltham,http://arrakistx.com/,11-50,0.1086472233801473
+854,San Francisco,https://www.insight-rx.com/,1-10,0.07616839472122434
+855,New York,http://www.digitalocean.com,501-1000,0.16916293462643023
+856,San Mateo,https://www.streamloots.com/,11-50,0.1086472233801473
+857,Philadelphia,http://business.comcast.com/,10001+,0.04856393641284885
+858,Waltham,http://xiostx.com/,11-50,0.1086472233801473
+859,Ann Arbor,http://www.tangentmedical.com,11-50,0.1086472233801473
+860,Los Angeles,https://www.fuelcycle.com/,51-100,0.14481495602962444
+861,Northborough,http://www.aerogel.com,101-250,0.08960826571962464
+862,San Mateo,https://ople.ai/,11-50,0.1086472233801473
+863,San Mateo,http://boom.tv,11-50,0.1086472233801473
+864,San Francisco,http://www.density.io/,51-100,0.13805034229983118
+865,Palo Alto,http://www.vidangel.com,11-50,0.046236064165518974
+866,Brooklyn,http://farmshelf.com,11-50,0.1086472233801473
+867,San Francisco,https://www.opsolutely.com/,1-10,0.07616839472122434
+868,Santa Monica,http://miramax.com/,251-500,0.09557781706582578
+869,San Francisco,http://www.angazadesign.com/,51-100,0.13805034229983118
+870,Mountain View,http://www.qventus.com,11-50,0.0035676344996085738
+871,Athens,https://arunabio.com/,1-10,0.13666012875664862
+872,Cambridge,http://www.evelo.com,1-10,0.13666012875664862
+873,Louisville,https://www.trumans.com,1-10,0.13666012875664862
+874,San Francisco,http://usepropeller.com,11-50,0.0830449124417685
+875,Bellevue,https://www.smartsheet.com,501-1000,0.1673722690003722
+876,Mountain View,https://www.simtek.io,1-10,0.31153363757113905
+877,New York,http://www.summitsync.com,11-50,0.10466465961021519
+878,New York,https://www.finery.com,11-50,0.10466465961021519
+879,New York,http://www.lingolive.com/,11-50,0.10466465961021519
+880,Venice,https://shop.missgrass.com/,1-10,0.13666012875664862
+881,Durham,http://www.inhersight.com/,1-10,0.13666012875664862
+882,New York,http://padsquad.com,11-50,0.10466465961021519
+883,New York,https://openfolio.com,1-10,0.07391565625083293
+884,Los Angeles,http://www.sensydia.com/,1-10,0.09345762218151825
+885,New Haven,https://interna-technologies.com/,11-50,0.1086472233801473
+886,Minneapolis,https://homi.io,1-10,0.13666012875664862
+887,Irvine,http://www.vcp.vet,11-50,0.1086472233801473
+888,Cambridge,http://mitibmwatsonailab.mit.edu/,10001+,0.04856393641284885
+889,Washington,https://www.array-analytics.io/,11-50,0.1086472233801473
+890,Warrendale,http://www.firstinsight.com,51-100,0.08547745310788972
+891,Salinas,http://www.indusholdingco.com/,11-50,0.1086472233801473
+892,New York,http://heykangaroo.com,11-50,0.10466465961021519
+893,Palo Alto,http://www.percolata.com/,11-50,0.046236064165518974
+894,Midvale,http://www.imaginehealth.com/,11-50,0.1086472233801473
+895,New York,http://percolate.com,101-250,0.03869166130044718
+896,New York,http://culinaryagents.com,11-50,0.10466465961021519
+897,Cambridge,http://www.cargurus.com,251-500,0.09557781706582578
+898,Denver,http://www.carbonenergycorp.com/,101-250,0.08960826571962464
+899,Long Island City,http://triple.care,11-50,0.1086472233801473
+900,Los Angeles,https://hawkeyesystemsinc.com/,11-50,0.0917643488404792
+901,Santa Ana,http://primegenbiotech.com,11-50,0.1086472233801473
+902,Waltham,http://www.offerlogic.com/,1-10,0.13666012875664862
+903,Los Angeles,https://www.mindshow.com/,11-50,0.0917643488404792
+904,New York,http://shoptiques.com,51-100,0.03542436888872861
+905,New York,http://www.eratimepieces.com,1-10,0.07391565625083293
+906,Chicago,http://www.abbvie.com,10001+,-0.005250254007963631
+907,Austin,http://www.tabbedout.com,11-50,0.19956792979551838
+908,San Francisco,https://www.anchorage.com,51-100,0.13805034229983118
+909,New York,http://www.thumbplay.com,51-100,0.03542436888872861
+910,Boulder,http://www.pantheryx.com,11-50,0.1086472233801473
+911,Carlsbad,https://180commerce.com/,11-50,0.1086472233801473
+912,Seattle,https://www.talentsonar.com,1-10,0.14106387211653235
+913,Cambridge,https://www.cygnaltx.com/,11-50,0.1086472233801473
+914,Stanford,http://jtpk.co,1-10,0.13666012875664862
+915,Dallas,https://www.o9solutions.com,251-500,0.09557781706582578
+916,Miami Lakes,https://www.admobilize.com,11-50,0.1086472233801473
+917,Mclean,https://www.hilton.com/en/corporate/,10001+,0.04856393641284885
+918,New York,http://www.datacamp.com,11-50,0.10466465961021519
+919,Palo Alto,http://www.inadco.com,11-50,0.046236064165518974
+920,San Francisco,https://www.alto.com/,251-500,0.10028712636481094
+921,San Francisco,https://datometry.com,11-50,0.0830449124417685
+922,New York,https://www.chief.com,51-100,0.03542436888872861
+923,Boston,http://www.continuum.net,501-1000,0.09269302486452652
+924,San Francisco,https://www.brightmachines.com,251-500,0.10028712636481094
+925,New York,https://www.fundguard.com/,11-50,0.10466465961021519
+926,Scottsdale,http://www.tpicomposites.com,1001-5000,0.09112472340491666
+927,Chicago,https://coco5.com/,1-10,0.0016280118260470586
+928,Orem,http://jive.com,501-1000,0.1673722690003722
+929,Bellevue,https://www.ally.io/,51-100,0.08547745310788972
+930,Berkeley,http://www.kapalya.com/,1-10,0.13666012875664862
+931,Baltimore,http://terbiumlabs.com/,11-50,0.1086472233801473
+932,San Francisco,https://www.residentboost.com,11-50,0.0830449124417685
+933,Syracuse,http://www.winering.com,11-50,0.1086472233801473
+934,New York,http://www.draperjames.com/,1-10,0.07391565625083293
+935,Mountain View,http://www.runa.com,11-50,0.0035676344996085738
+936,Boston,http://www.aps-web.com/,11-50,0.04929457832282223
+937,New York,http://demdex.com/,11-50,0.10466465961021519
+938,Fort Lauderdale,http://www.steignet.com,1-10,0.13666012875664862
+939,Detroit,https://ternpro.com/,1-10,0.13666012875664862
+940,Minneapolis,https://plumdating.com/,1-10,0.13666012875664862
+941,San Francisco,http://apiary.io,1-10,0.07616839472122434
+942,Boca Raton,http://sancilio.com,101-250,0.08960826571962464
+943,Los Angeles,http://www.marketplace.org/,101-250,0.2023375302733799
+944,New York,http://www.jethro.io,11-50,0.10466465961021519
+945,San Diego,http://www.financialfitnessgroup.com,11-50,0.1086472233801473
+946,Princeton,http://www.dermasciences.com/,251-500,0.09557781706582578
+947,Austin,http://www.bitfusion.io,11-50,0.19956792979551838
+948,Los Angeles,https://teamkitchens.com,1-10,0.09345762218151825
+949,San Francisco,https://kubernetes.io/,251-500,0.10028712636481094
+950,New York,https://ipcypris.com,1-10,0.07391565625083293
+951,Milwaukee,https://www.coinigy.com,1-10,0.13666012875664862
+952,New York,https://stae.co,101-250,0.03869166130044718
+953,Sunnyvale,http://flydata.com,11-50,0.1086472233801473
+954,San Francisco,http://www.chimewith.us,1-10,0.07616839472122434
+955,Boulder,http://www.mocavo.com/,1-10,0.13666012875664862
+956,Santa Barbara,http://www.intouchhealth.com/,251-500,0.09557781706582578
+957,Minnetonka,http://zyga.com,11-50,0.1086472233801473
+958,Berkeley,http://persistentefficiency.com/,1-10,0.13666012875664862
+959,Arlington,https://goamify.com/,51-100,0.08547745310788972
+960,San Francisco,http://www.linqia.com,51-100,0.13805034229983118
+961,San Jose,https://vr.happinss.com,1-10,0.13666012875664862
+962,San Francisco,http://www.demandforce.com,101-250,0.10509427524242704
+963,San Francisco,https://smartcontract.com/,1-10,0.07616839472122434
+964,Kirkland,http://verasonics.com/,11-50,0.1086472233801473
+965,Austin,https://storyfit.com/,1-10,-0.0018775805876279019
+966,Cleveland,http://arteriocyte.com,51-100,0.08547745310788972
+967,Cincinnati,https://www.datazar.com,1-10,0.13666012875664862
+968,Boston,https://www.gasbuddy.com/,101-250,0.033284081620886585
+969,Fort Lauderdale,http://www.bluvision.com,11-50,0.1086472233801473
+970,San Diego,http://sujajuice.com,51-100,0.08547745310788972
+971,Mountain View,http://www.stackrox.com,51-100,0.3155983959993527
+972,Mountain View,http://abra.com,51-100,0.3155983959993527
+973,New York,http://www.ridewithvia.com,1001-5000,0.1661445879667988
+974,Montvale,http://www.micronet-enertec.com,51-100,0.08547745310788972
+975,Miami,http://www.shootmytravel.com,11-50,0.1086472233801473
+976,Milwaukee,http://exit7c.com/,11-50,0.1086472233801473
+977,Norcross,http://www.nanolumens.com,11-50,0.1086472233801473
+978,San Francisco,http://www.voiq.com,11-50,0.0830449124417685
+979,San Jose,http://www.polycom.com,1001-5000,0.09112472340491666
+980,Farmers Branch,http://www.pfoglobal.com,11-50,0.1086472233801473
+981,Irvine,http://www.locally.io,11-50,0.1086472233801473
+982,Seattle,http://www.remitly.com,501-1000,0.03655413342748912
+983,Waltham,http://www.harvestpower.com,251-500,0.09557781706582578
+984,Chicago,https://www.parqex.com/,11-50,0.06455436514153481
+985,San Francisco,http://www.icars.cc,11-50,0.0830449124417685
+986,Santa Clara,https://www.vudu.com,51-100,0.08547745310788972
+987,Fremont,http://www.angioscore.com,51-100,0.08547745310788972
+988,Los Angeles,https://weflywright.com/,1-10,0.09345762218151825
+989,Sunnyvale,http://www.illumio.com,251-500,0.09557781706582578
+990,San Jose,https://edjx.io/,11-50,0.1086472233801473
+991,New York,http://iliadbio.com/,11-50,0.10466465961021519
+992,Reno,http://nativuspower.com,1-10,0.13666012875664862
+993,Holmdel,http://www.symbolicio.com,11-50,0.1086472233801473
+994,Beverly Hills,http://www.heytutor.com,11-50,0.1086472233801473
+995,Omaha,http://www.encounter.health/,1-10,0.13666012875664862
+996,San Francisco,http://www.metadata.io,51-100,0.13805034229983118
+997,Pasadena,http://arrowheadpharma.com/,51-100,0.08547745310788972
+998,San Mateo,http://compose.io,11-50,0.1086472233801473
+999,San Antonio,http://www.airstrip.com/,101-250,0.08960826571962464
+1000,Redwood City,http://www.gynesonics.com,11-50,0.1086472233801473
+1001,Denver,http://getnotion.com,11-50,0.1086472233801473
+1002,Portland,http://usenotion.com,1-10,0.13666012875664862
+1003,San Mateo,http://www.sugarsync.com,51-100,0.08547745310788972
+1004,Los Angeles,https://floravere.com/,1-10,0.09345762218151825
+1005,San Francisco,https://soteris.co/,1-10,0.07616839472122434
+1006,Sunnyvale,http://www.graphitesoftware.com,11-50,0.1086472233801473
+1007,New York,https://www.ex.co/,51-100,0.03542436888872861
+1008,Charleston,http://www.soteria.io,11-50,0.1086472233801473
+1009,Mountain View,https://www.driveghost.com/,51-100,0.3155983959993527
+1010,San Francisco,http://panoply.io/,11-50,0.0830449124417685
+1011,San Francisco,http://www.hipchat.com,1-10,0.07616839472122434
+1012,Broomfield,http://www.altius-space.com/,11-50,0.1086472233801473
+1013,Oakland,https://www.allganize.ai/,11-50,0.1086472233801473
+1014,San Jose,http://broadcom.com,5001-10000,0.07993533234043217
+1015,New York,https://www.tractiontechnology.com/,1-10,0.07391565625083293
+1016,Palo Alto,http://www.emergentpayments.net/,51-100,0.005638196483874341
+1017,Brooklyn,https://www.nicklpass.com/,11-50,0.1086472233801473
+1018,San Diego,http://www.biotix.com,501-1000,0.1673722690003722
+1019,Chicago,http://numerator.com,1001-5000,-0.018578159132956226
+1020,Marlborough,http://www.qteros.com,11-50,0.1086472233801473
+1021,New York,http://fitmoo.com,11-50,0.10466465961021519
+1022,New York,http://www.filefacets.com/,11-50,0.10466465961021519
+1023,Raleigh,http://www.micell.com,11-50,0.1086472233801473
+1024,San Francisco,http://www.fitmob.com,11-50,0.0830449124417685
+1025,Dallas,http://www.compassdatacenters.com,11-50,0.1086472233801473
+1026,Sugar Land,http://vikingcold.com,11-50,0.1086472233801473
+1027,Chapel Hill,https://roof.io,1-10,0.13666012875664862
+1028,Katy,http://www.qoreboard.com/,1-10,0.13666012875664862
+1029,New York,http://pmi.com/eng,10001+,-0.010850751521368062
+1030,New York,https://www.nuvationbio.com/,11-50,0.10466465961021519
+1031,Framingham,https://www.variantyx.com/,11-50,0.1086472233801473
+1032,Chicago,http://www.fooda.com,101-250,0.017062366036634982
+1033,San Francisco,https://www.zepto-cataract.com/,11-50,0.0830449124417685
+1034,San Francisco,http://www.aifoundation.com/,11-50,0.0830449124417685
+1035,Mission,http://www.aglocal.com,1-10,0.13666012875664862
+1036,New York,http://propublica.org,11-50,0.10466465961021519
+1037,Seattle,https://www.peachd.com/,11-50,0.10995294879204402
+1038,Seattle,http://node.eco,11-50,0.10995294879204402
+1039,Irvine,http://www.iglass-technology.com,11-50,0.1086472233801473
+1040,Baltimore,http://givecorps.com,51-100,0.08547745310788972
+1041,Cincinnati,http://readysetsurgical.com/,11-50,0.1086472233801473
+1042,New York,http://www.condenast.com/,1001-5000,0.1661445879667988
+1043,Los Angeles,http://www.onupkeep.com,101-250,0.2023375302733799
+1044,San Francisco,http://www.ebuddy.com,51-100,0.13805034229983118
+1045,Boston,https://www.brightcove.com/en/,251-500,-0.012473389922741595
+1046,Colorado Springs,http://www.getoutfitted.com,1-10,0.13666012875664862
+1047,Salem,http://www.synchrony.com,51-100,0.08547745310788972
+1048,New York,http://www.visuwall.com,1-10,0.07391565625083293
+1049,Waltham,http://www.entasistx.com/,11-50,0.1086472233801473
+1050,Cambridge,http://isee.ai,11-50,0.1086472233801473
+1051,Raleigh,https://www.rewardstock.com/,1-10,0.13666012875664862
+1052,Sunnyvale,https://www.thryveinside.com/,1-10,0.13666012875664862
+1053,Santa Monica,http://www.tuition.io,11-50,0.1086472233801473
+1054,Annapolis,http://www.zephyr-technology.com,11-50,0.1086472233801473
+1055,New York,http://lumni.net/,51-100,0.03542436888872861
+1056,Sugar Land,http://www.ao-inc.com,1001-5000,0.09112472340491666
+1057,San Diego,http://www.mindtouch.com,51-100,0.08547745310788972
+1058,San Jose,http://www.sandraw.co/,1-10,0.13666012875664862
+1059,Austin,http://www.biophysicalcorp.com,51-100,0.007244254146436965
+1060,Washington,https://digi.me/,11-50,0.1086472233801473
+1061,Portland,https://www.vacasa.com,1001-5000,0.09112472340491666
+1062,Brisbane,http://www.myokardia.com,251-500,0.09557781706582578
+1063,San Francisco,https://www.streamlit.io,1-10,0.07616839472122434
+1064,Durham,http://www.cree.com,10001+,0.04856393641284885
+1065,Rapid City,http://www.propertymeld.com,11-50,0.1086472233801473
+1066,New York,https://huggingface.co/,11-50,0.10466465961021519
+1067,Carlsbad,http://chromacode.com/,11-50,0.1086472233801473
+1068,Tampa,http://sitezeus.com,11-50,0.1086472233801473
+1069,Cambridge,https://agrivida.com/,11-50,0.1086472233801473
+1070,San Francisco,http://www.inside.com,11-50,0.0830449124417685
+1071,Baltimore,https://www.pinkaloo.com,1-10,0.13666012875664862
+1072,Seattle,http://www.energysavvy.com,51-100,0.1760944334898394
+1073,San Francisco,http://www.crowdpac.com,11-50,0.0830449124417685
+1074,New York,http://www.lofty.com,11-50,0.10466465961021519
+1075,Los Angeles,http://kernel.co/,51-100,0.14481495602962444
+1076,Milpitas,http://www.kla-tencor.com,5001-10000,0.07993533234043217
+1077,North Augusta,http://ambiopharm.com,51-100,0.08547745310788972
+1078,Austin,http://www.wisegateit.com,1-10,-0.0018775805876279019
+1079,Brookline,http://societyofgrownups.com/,11-50,0.1086472233801473
+1080,Irvine,http://terranorbital.com/,101-250,0.08960826571962464
+1081,Schaumburg,http://www.convergint.com,5001-10000,0.07993533234043217
+1082,New York,http://www.goalsetter.co,1-10,0.07391565625083293
+1083,San Francisco,https://www.lifeguides.com,11-50,0.0830449124417685
+1084,San Francisco,http://www.coterie.com,1-10,0.07616839472122434
+1085,New York,https://www.bizfi.com/,101-250,0.03869166130044718
+1086,West Palm Beach,https://fallcatcher.com/,11-50,0.1086472233801473
+1087,Indianapolis,http://www.diagnotes.com,11-50,0.1086472233801473
+1088,Atlanta,https://www.brrr.com,11-50,0.1086472233801473
+1089,San Francisco,https://zerocater.com,101-250,0.10509427524242704
+1090,Brooklyn,https://betterpath.com,1-10,0.13666012875664862
+1091,San Diego,http://truepic.com,11-50,0.1086472233801473
+1092,Cary,https://www.canopylawncare.com/,11-50,0.1086472233801473
+1093,Los Angeles,https://www.korrobox.com,1-10,0.09345762218151825
+1094,Franklin,http://www.medicalreimbursements.com,251-500,0.09557781706582578
+1095,Hackensack,http://www.medavante.com,101-250,0.08960826571962464
+1096,Irvine,http://bioniz.com,11-50,0.1086472233801473
+1097,Venice,http://lettuceapps.com,11-50,0.1086472233801473
+1098,Sunnyvale,http://hummingbot.io,11-50,0.1086472233801473
+1099,Bellevue,http://www.krowdfit.com,1-10,0.13666012875664862
+1100,Boston,http://retroficiency.com,11-50,0.04929457832282223
+1101,New York,https://centrical.com/,51-100,0.03542436888872861
+1102,Boston,http://www.vrtx.com,1001-5000,0.7260623548626846
+1103,New York,http://www.gotryiton.com,1-10,0.07391565625083293
+1104,San Francisco,https://www.acquire.io,101-250,0.10509427524242704
+1105,Boston,https://www.circle.com/en/,251-500,-0.012473389922741595
+1106,Baltimore,http://underarmour.com,10001+,0.04856393641284885
+1107,Palo Alto,http://www.waycaretech.com,11-50,0.046236064165518974
+1108,Los Angeles,http://www.ambidio.co/,1-10,0.09345762218151825
+1109,New York,https://www.hellonoken.com,11-50,0.10466465961021519
+1110,Mill Valley,https://www.orthoscience.com,1-10,0.13666012875664862
+1111,New York,http://www.digg.com,51-100,0.03542436888872861
+1112,Waltham,http://www.medventive.com,51-100,0.08547745310788972
+1113,New York,https://thinkmerlin.com,1-10,0.07391565625083293
+1114,Lehi,https://blytzpay.com/,11-50,0.1086472233801473
+1115,Reston,http://www.zoomdata.com,51-100,0.08547745310788972
+1116,Redwood City,https://www.monarcbio.com/,11-50,0.1086472233801473
+1117,San Francisco,https://www.pluma.co,1-10,0.07616839472122434
+1118,San Francisco,http://feed.fm,11-50,0.0830449124417685
+1119,Richardson,http://www.orametrix.com,51-100,0.08547745310788972
+1120,Palo Alto,https://bricleir.com,1-10,0.10614041639317535
+1121,San Francisco,https://www.foxtrot.io/,11-50,0.0830449124417685
+1122,New York,http://www.brainstorm-cell.com,11-50,0.10466465961021519
+1123,San Francisco,http://www.gooddata.com,251-500,0.10028712636481094
+1124,Mound,http://novidaninc.com,1-10,0.13666012875664862
+1125,Irvine,https://www.titank12.com,51-100,0.08547745310788972
+1126,Los Angeles,http://circleapp.io/,1-10,0.09345762218151825
+1127,San Mateo,https://sleeper.app,11-50,0.1086472233801473
+1128,Sunnyvale,https://tact.ai,101-250,0.08960826571962464
+1129,Plymouth,http://rotationmedical.com,11-50,0.1086472233801473
+1130,San Francisco,http://www.eaze.com,101-250,0.10509427524242704
+1131,Gaithersburg,http://www.robo-team.com,11-50,0.1086472233801473
+1132,Palo Alto,http://www.skycure.com,101-250,-0.01880901108933754
+1133,Irvine,http://zumasys.com,101-250,0.08960826571962464
+1134,Orlando,http://www.pentaho.com,251-500,0.09557781706582578
+1135,San Francisco,http://www.tinyrx.com,1-10,0.07616839472122434
+1136,Doylestown,http://www.atrinpharma.com/,1-10,0.13666012875664862
+1137,New York,https://paywithextend.com/,51-100,0.03542436888872861
+1138,New York,https://www.easyknock.com,11-50,0.10466465961021519
+1139,Indianapolis,http://algaeon-inc.com,11-50,0.1086472233801473
+1140,Danbury,http://www.odysseylogistics.com,1001-5000,0.09112472340491666
+1141,San Francisco,http://www.producthunt.com,11-50,0.0830449124417685
+1142,Nashua,http://www.plexxi.com,101-250,0.08960826571962464
+1143,San Francisco,http://www.trycelery.com,1-10,0.07616839472122434
+1144,Madison,http://www.madison-kipp.com/,501-1000,0.1673722690003722
+1145,Rome,http://ainfosec.com,251-500,0.09557781706582578
+1146,New York,http://thedogpound.com/,11-50,0.10466465961021519
+1147,Foster City,http://www.conviva.com,251-500,0.09557781706582578
+1148,Gering,http://www.blueprairiebrands.com,11-50,0.1086472233801473
+1149,San Francisco,https://www.earn.org/,11-50,0.0830449124417685
+1150,San Francisco,http://www.vreg.com,51-100,0.13805034229983118
+1151,Maple Grove,http://www.lutonix.com,11-50,0.1086472233801473
+1152,San Francisco,http://www.linkagebio.com,11-50,0.0830449124417685
+1153,West Lafayette,https://www.bluewaveailabs.com/,1-10,0.13666012875664862
+1154,New York,http://Geoiq.com,11-50,0.10466465961021519
+1155,San Francisco,http://onelogin.com,251-500,0.10028712636481094
+1156,Madison,http://forwardhealthgroup.com,11-50,0.1086472233801473
+1157,San Diego,http://www.originalgrain.com/,11-50,0.1086472233801473
+1158,Nashville,http://www.aloompa.com,11-50,0.1086472233801473
+1159,Dallas,https://www.phynd.com,51-100,0.08547745310788972
+1160,Marietta,http://plethora.com,51-100,0.08547745310788972
+1161,Manhattan Beach,http://3plcentral.com/,11-50,0.1086472233801473
+1162,Oakland,http://www.revolutionfoods.com,10001+,0.04856393641284885
+1163,San Francisco,http://www.myxr.com,11-50,0.0830449124417685
+1164,San Leandro,http://www.epac.com,501-1000,0.1673722690003722
+1165,San Mateo,https://blameless.com/,11-50,0.1086472233801473
+1166,Boston,http://www.om1.com/,11-50,0.04929457832282223
+1167,San Francisco,https://www.startyoshi.com/,101-250,0.10509427524242704
+1168,San Diego,http://intrepidautomation.com/,1-10,0.13666012875664862
+1169,Phoenix,https://trapptechnology.com,51-100,0.08547745310788972
+1170,Chicago,https://www.fourkites.com/,501-1000,0.002581096771615139
+1171,Woburn,http://www.excelimmune.com,11-50,0.1086472233801473
+1172,Los Angeles,https://www.70millionjobs.com/,1-10,0.09345762218151825
+1173,Buffalo,http://www.athenex.com,251-500,0.09557781706582578
+1174,Santa Clara,http://www.flexiv.com/,51-100,0.08547745310788972
+1175,San Diego,http://www.therapeuticsinc.com,51-100,0.08547745310788972
+1176,San Francisco,https://getreplenish.com/,11-50,0.0830449124417685
+1177,New Haven,http://www.kolltan.com,11-50,0.1086472233801473
+1178,Frisco,http://www.imaginecommunications.com,1001-5000,0.09112472340491666
+1179,San Francisco,https://www.nativecos.com/,1-10,0.07616839472122434
+1180,Palo Alto,http://nuvosun.com,51-100,0.005638196483874341
+1181,New Albany,http://www.inscopemedical.com/,1-10,0.13666012875664862
+1182,Miami,http://www.questrust.com,51-100,0.08547745310788972
+1183,Boston,http://www.educationmodified.com/,11-50,0.04929457832282223
+1184,San Mateo,https://www.prometheusfuels.com/,1-10,0.13666012875664862
+1185,Springville,https://www.rainpos.com/,11-50,0.1086472233801473
+1186,Atlanta,http://www.ingeniousmed.com,501-1000,0.1673722690003722
+1187,Jacksonville,http://www.beeline.com,501-1000,0.1673722690003722
+1188,Santa Clara,https://www.zancompute.com/,11-50,0.1086472233801473
+1189,San Francisco,http://www.litmotors.com,11-50,0.0830449124417685
+1190,Cambridge,http://www.bookbub.com,51-100,0.08547745310788972
+1191,San Francisco,http://www.coverhound.com,101-250,0.10509427524242704
+1192,Santa Barbara,http://www.resonant.com,51-100,0.08547745310788972
+1193,Mountain View,http://zlemma.com/,11-50,0.0035676344996085738
+1194,Boston,https://vested.co/,1-10,0.1753987828136506
+1195,San Antonio,https://www.tintup.com,51-100,0.08547745310788972
+1196,Durham,http://oncoscope.com,11-50,0.1086472233801473
+1197,Phoenix,http://www.webpt.com,501-1000,0.1673722690003722
+1198,Los Angeles,http://stansonhealth.com,11-50,0.0917643488404792
+1199,Cambridge,http://databox.com,11-50,0.1086472233801473
+1200,Seattle,http://buddytv.com,11-50,0.10995294879204402
+1201,La Jolla,http://matrisysbio.com/,1-10,0.13666012875664862
+1202,San Francisco,http://topicmarks.com/,11-50,0.0830449124417685
+1203,Atlanta,https://www.joinsmartpath.com/,11-50,0.1086472233801473
+1204,San Francisco,http://www.serv.io,11-50,0.0830449124417685
+1205,San Francisco,https://affirm.com,501-1000,0.3683090408749776
+1206,San Francisco,http://logikcull.com,51-100,0.13805034229983118
+1207,Los Angeles,https://www.spotlite.me/,11-50,0.0917643488404792
+1208,Burlingame,http://blueoakresources.com,1-10,0.13666012875664862
+1209,Sherman Oaks,https://www.serviz.com,11-50,0.1086472233801473
+1210,San Diego,http://actcells.com,1-10,0.13666012875664862
+1211,San Carlos,http://www.seven.com,251-500,0.09557781706582578
+1212,San Francisco,http://www.hostfully.com,1-10,0.07616839472122434
+1213,Chicago,https://tripscout.co/,11-50,0.06455436514153481
+1214,Bozeman,https://myvillage.com,11-50,0.1086472233801473
+1215,Grand Rapids,http://www.eagile.com,11-50,0.1086472233801473
+1216,Burlington,http://www.riftio.com,51-100,0.08547745310788972
+1217,New York,http://www.meetup.com,101-250,0.03869166130044718
+1218,San Francisco,https://tag.bio/,1-10,0.07616839472122434
+1219,Boulder,http://ello.co,11-50,0.1086472233801473
+1220,Clarksville,http://insightra.com,11-50,0.1086472233801473
+1221,Arlington,http://www.mobileposse.com/,11-50,0.1086472233801473
+1222,New York,http://apolloreit.com,1-10,0.07391565625083293
+1223,Healdsburg,http://www.thenewbarn.com/,11-50,0.1086472233801473
+1224,Boston,https://www.blink.ai/,1-10,0.1753987828136506
+1225,Palo Alto,http://www.arundo.com,51-100,0.005638196483874341
+1226,New York,http://www.advizr.com,11-50,0.10466465961021519
+1227,San Diego,http://www.tusimple.ai/,251-500,0.09557781706582578
+1228,San Jose,http://www.nimblestorage.com,1001-5000,0.09112472340491666
+1229,New York,http://qualia.id,11-50,0.10466465961021519
+1230,San Francisco,http://jurispect.com/,11-50,0.0830449124417685
+1231,San Francisco,http://www.moovweb.com,51-100,0.13805034229983118
+1232,Los Angeles,http://www.nastygal.com,251-500,0.07915248717834102
+1233,Boulder,http://projecttravel.com,1-10,0.13666012875664862
+1234,San Francisco,https://www.qualio.com,11-50,0.0830449124417685
+1235,Tampa,http://caresync.com/ccm,251-500,0.09557781706582578
+1236,Cranberry,http://www.truecommerce.com,251-500,0.09557781706582578
+1237,Los Angeles,http://www.thereformation.com,101-250,0.2023375302733799
+1238,Salt Lake City,https://teem.com/,101-250,0.08960826571962464
+1239,Palo Alto,http://www.socialtext.com,11-50,0.046236064165518974
+1240,Minneapolis,http://www.qumu.com,101-250,0.08960826571962464
+1241,Playa Vista,http://www.centerfield.com,1001-5000,0.09112472340491666
+1242,Chicago,http://www.savogroup.com,251-500,0.1611123574160613
+1243,Seattle,http://www.julep.com,251-500,0.012050264947360518
+1244,Washington,http://www.bysavi.com,11-50,0.1086472233801473
+1245,Doylestown,http://orthogenrx.com,11-50,0.1086472233801473
+1246,Chicago,http://www.epaysystems.com,51-100,0.009111936076612067
+1247,San Diego,http://www.feetz.com,1-10,0.13666012875664862
+1248,New York,http://glycotest.com/,11-50,0.10466465961021519
+1249,New York,https://www.wanderingbearcoffee.com/,11-50,0.10466465961021519
+1250,Boston,https://www.akouos.com/,51-100,-0.005074246073910327
+1251,Carlsbad,https://plasso.com,1-10,0.13666012875664862
+1252,New York,http://www.peerform.com,1-10,0.07391565625083293
+1253,Santa Monica,http://tala.co,501-1000,0.1673722690003722
+1254,San Francisco,https://www.goldilock.com,1-10,0.07616839472122434
+1255,San Francisco,https://happy.co/,11-50,0.0830449124417685
+1256,San Jose,https://www.levadata.com,51-100,0.08547745310788972
+1257,El Segundo,https://sidecarhealth.com/,11-50,0.1086472233801473
+1258,Redwood City,https://www.coursehero.com,251-500,0.09557781706582578
+1259,San Francisco,https://www.amigocloud.com/homepage/index.html,11-50,0.0830449124417685
+1260,New York,http://www.coloadx.com/,1-10,0.07391565625083293
+1261,Providence,http://www.tivorsan.com,1-10,0.13666012875664862
+1262,Waltham,http://www.truxnow.com,51-100,0.08547745310788972
+1263,Santa Monica,https://akaintelligence.com/,11-50,0.1086472233801473
+1264,New York,http://www.mongodb.com/,1001-5000,0.1661445879667988
+1265,Los Angeles,https://wikirealty.com,1-10,0.09345762218151825
+1266,Boston,http://yearup.org,251-500,-0.012473389922741595
+1267,San Francisco,https://buffer.com,51-100,0.13805034229983118
+1268,Atlanta,https://www.locatorx.com/,11-50,0.1086472233801473
+1269,San Francisco,https://www.marbletech.co/,1-10,0.07616839472122434
+1270,Los Angeles,http://zungleinc.com/,11-50,0.0917643488404792
+1271,New York,http://onecloud.io,1-10,0.07391565625083293
+1272,San Francisco,https://aaf.com/,101-250,0.10509427524242704
+1273,Cambridge,http://www.par8o.com,11-50,0.1086472233801473
+1274,New Haven,http://www.tummyzen.com,1-10,0.13666012875664862
+1275,Bend,http://www.oregrown.com,51-100,0.08547745310788972
+1276,Pelham,http://www.wepanow.com,11-50,0.1086472233801473
+1277,Baltimore,https://agorafinancial.com/,251-500,0.09557781706582578
+1278,San Francisco,http://evertoon.com/,1-10,0.07616839472122434
+1279,Nassau,http://familypet.com,11-50,0.1086472233801473
+1280,Houston,https://taxaoutdoors.com/,11-50,0.1086472233801473
+1281,Chicago,http://www.saignite.com,11-50,0.06455436514153481
+1282,San Francisco,http://messagebus.com,1-10,0.07616839472122434
+1283,St Louis,http://www.peabodyenergy.com,5001-10000,0.07993533234043217
+1284,San Francisco,http://www.downapp.com,1-10,0.07616839472122434
+1285,Venice,http://www.stackcommerce.com,51-100,0.08547745310788972
+1286,San Rafael,http://www.clairmail.com,51-100,0.08547745310788972
+1287,New York,http://www.morrowsodali.com/,101-250,0.03869166130044718
+1288,Newport Beach,https://curogram.com/,1-10,0.13666012875664862
+1289,Ann Arbor,http://groundspeed.com/,11-50,0.1086472233801473
+1290,San Francisco,http://clay.io,1-10,0.07616839472122434
+1291,Portland,http://www.rxante.com,51-100,0.08547745310788972
+1292,Atlanta,http://terminus.com,101-250,0.08960826571962464
+1293,Naples,http://www.uptownnetwork.com,11-50,0.1086472233801473
+1294,Ojai,https://fermentedsciences.com/,11-50,0.1086472233801473
+1295,Los Altos,https://4iq.com/,101-250,0.08960826571962464
+1296,Austin,https://www.calytera.com/,101-250,0.18606853854275754
+1297,Seattle,http://www.bagborroworsteal.com,11-50,0.10995294879204402
+1298,San Francisco,http://www.thousandeyes.com,251-500,0.10028712636481094
+1299,Los Angeles,http://www.beautytap.com,11-50,0.0917643488404792
+1300,San Francisco,http://liftlabsdesign.com,1-10,0.07616839472122434
+1301,San Francisco,http://ginger.io,101-250,0.10509427524242704
+1302,Louisville,https://solidpowerbattery.com/,11-50,0.1086472233801473
+1303,San Francisco,https://www.mysciencework.com,11-50,0.0830449124417685
+1304,Portland,http://pacificlighttech.com,11-50,0.1086472233801473
+1305,Cupertino,http://www.moxtra.com,101-250,0.08960826571962464
+1306,South San Francisco,http://www.minderadx.com,11-50,0.1086472233801473
+1307,Boca Raton,http://www.openpeak.com,501-1000,0.1673722690003722
+1308,Centennial,http://lydianinternational.co.uk/,11-50,0.1086472233801473
+1309,Kansas City,http://www.cerner.com,10001+,0.04856393641284885
+1310,San Francisco,http://publet.com/,1-10,0.07616839472122434
+1311,Menlo Park,http://www.gausssurgical.com,11-50,0.1086472233801473
+1312,Wilmington,https://w7energy.com/,1-10,0.13666012875664862
+1313,San Francisco,https://anovaculinary.com,11-50,0.0830449124417685
+1314,Denver,https://www.factioninc.com/,101-250,0.08960826571962464
+1315,Tampa,http://ConnectWise.com,1001-5000,0.09112472340491666
+1316,San Francisco,http://coreos.com,51-100,0.13805034229983118
+1317,Pleasanton,https://www.miracare.com,11-50,0.1086472233801473
+1318,New York,https://www.companionapp.io,1-10,0.07391565625083293
+1319,San Francisco,https://kava.io/,1-10,0.07616839472122434
+1320,San Francisco,http://www.thefittoform.com/,1-10,0.07616839472122434
+1321,Huntsville,https://www.spurwork.com/,51-100,0.08547745310788972
+1322,San Francisco,http://www.sigfig.com,101-250,0.10509427524242704
+1323,New York,https://vancery.com,1-10,0.07391565625083293
+1324,Boston,http://www.admiralsbank.com,501-1000,0.09269302486452652
+1325,New York,http://www.peekyou.com,1-10,0.07391565625083293
+1326,Palo Alto,http://retention.ai,11-50,0.046236064165518974
+1327,South San Francisco,https://kezarlifesciences.com/,11-50,0.1086472233801473
+1328,New Brunswick,https://www.connotate.com,51-100,0.08547745310788972
+1329,Fremont,https://www.talasecurity.io/,11-50,0.1086472233801473
+1330,Santa Monica,http://esportsone.com,11-50,0.1086472233801473
+1331,San Francisco,https://www.withabound.com,11-50,0.0830449124417685
+1332,Cottage Grove,http://www.trackhs.com,11-50,0.1086472233801473
+1333,Dallas,http://integritymarketinggroup.com/,101-250,0.08960826571962464
+1334,Cambridge,http://www.swoop.com,51-100,0.08547745310788972
+1335,San Francisco,http://www.getvinebox.com,1-10,0.07616839472122434
+1336,Seattle,http://messageyes.com/,11-50,0.10995294879204402
+1337,Chicago,https://www.openfinance.io/,11-50,0.06455436514153481
+1338,Cambridge,http://www.custommade.com,11-50,0.1086472233801473
+1339,San Diego,https://www.cloudbeds.com,251-500,0.09557781706582578
+1340,Pasadena,http://wipit.me,11-50,0.1086472233801473
+1341,New York,https://www.bettercloud.com,101-250,0.03869166130044718
+1342,San Francisco,https://mammoth.bio/,11-50,0.0830449124417685
+1343,New York,http://www.advisen.com,251-500,-8.833483978093427e-05
+1344,San Francisco,https://www.datch.io,1-10,0.07616839472122434
+1345,Austin,http://stackengine.com/,1-10,-0.0018775805876279019
+1346,Los Angeles,https://www.enjoius.com/,101-250,0.2023375302733799
+1347,New York,http://affineanalytics.com/,251-500,-8.833483978093427e-05
+1348,Venice,http://www.vizzario.com/,1-10,0.13666012875664862
+1349,Lehi,https:/nanoheal.com,51-100,0.08547745310788972
+1350,Austin,http://www.yourtrainer.com,11-50,0.19956792979551838
+1351,San Francisco,https://autocamp.com/,11-50,0.0830449124417685
+1352,Cedar Park,http://www.suvola.com,1-10,0.13666012875664862
+1353,Boston,http://nucleusresearch.com/,11-50,0.04929457832282223
+1354,Boston,https://www.spoileralert.com/,11-50,0.04929457832282223
+1355,San Francisco,http://www.uplabs.com,1-10,0.07616839472122434
+1356,Cambridge,http://fontawesome.com/,1-10,0.13666012875664862
+1357,Mountain View,https://www.currant.com,1-10,0.31153363757113905
+1358,Washington,https://hyperqube.io/,1-10,0.13666012875664862
+1359,San Francisco,https://www.vectorcare.com/,11-50,0.0830449124417685
+1360,Columbia,http://sensics.com,11-50,0.1086472233801473
+1361,San Francisco,http://www.wibidata.com,11-50,0.0830449124417685
+1362,New York,http://zeuslogics.com,1-10,0.07391565625083293
+1363,Irvine,http://covefinancial.com,11-50,0.1086472233801473
+1364,New Hope,https://www.orchestrabiomed.com/,11-50,0.1086472233801473
+1365,Austin,http://babbler.us/,11-50,0.19956792979551838
+1366,Austin,https://agencykpi.com/,11-50,0.19956792979551838
+1367,Minneapolis,http://www.agosto.com,11-50,0.1086472233801473
+1368,Miami,http://dreamscloud.com,11-50,0.1086472233801473
+1369,San Diego,http://www.skylight.com,51-100,0.08547745310788972
+1370,Washington,http://www.strutlearning.com/,11-50,0.1086472233801473
+1371,Pompano Beach,http://www.ediets.com,51-100,0.08547745310788972
+1372,Berkeley,http://www.semanticmachines.com/,11-50,0.1086472233801473
+1373,Redwood City,http://www.box.com,1001-5000,0.09112472340491666
+1374,Reston,https://www.avizia.com/,51-100,0.08547745310788972
+1375,New York,https://andieswim.com,11-50,0.10466465961021519
+1376,Minneapolis,http://www.cargill.com,10001+,0.04856393641284885
+1377,Draper,https://www.collectivemedicaltech.com/,101-250,0.08960826571962464
+1378,Rockville,http://cosmosid.com,11-50,0.1086472233801473
+1379,San Diego,https://xworxinc.com/,1-10,0.13666012875664862
+1380,Charleston,http://www.sparcedge.com,251-500,0.09557781706582578
+1381,New York,http://msci.com,5001-10000,0.05523475105149942
+1382,Wilmington,http://www.ntt-inc.com,11-50,0.1086472233801473
+1383,Cambridge,https://www.maltainc.com/,11-50,0.1086472233801473
+1384,San Francisco,https://mlab.com/,11-50,0.0830449124417685
+1385,Boston,http://www.meetcortex.com,1-10,0.1753987828136506
+1386,New York,http://www.boweryres.com/,11-50,0.10466465961021519
+1387,Marlborough,http://www.cognoptix.com,1-10,0.13666012875664862
+1388,Austin,https://www.wheel.com/,11-50,0.19956792979551838
+1389,Santa Clara,http://Visit.Care,1-10,0.13666012875664862
+1390,Greenwood Village,http://www.dn2k.com,11-50,0.1086472233801473
+1391,Nashville,http://www.juiceanalytics.com/,11-50,0.1086472233801473
+1392,Cambridge,https://www.openrounds.com/,1-10,0.13666012875664862
+1393,Atlanta,http://www.thingtech.com,11-50,0.1086472233801473
+1394,New York,http://followursa.com,1-10,0.07391565625083293
+1395,Boston,http://www.cardstar.com,1-10,0.1753987828136506
+1396,San Mateo,https://punchh.com,251-500,0.09557781706582578
+1397,Warminster,http://www.ackermansecurity.com/,101-250,0.08960826571962464
+1398,Santa Monica,https://www.universalmusic.com,10001+,0.04856393641284885
+1399,Seattle,http://www.phaserx.com,11-50,0.10995294879204402
+1400,New York,https://www.evercontact.com,11-50,0.10466465961021519
+1401,Washington,http://beefsteakveggies.com/,1-10,0.13666012875664862
+1402,New York,http://oath.com,1001-5000,0.1661445879667988
+1403,New York,http://www.connatix.com,101-250,0.03869166130044718
+1404,Palo Alto,http://www.skyfence.com,51-100,0.005638196483874341
+1405,Hermosa Beach,http://www.oink.com,11-50,0.1086472233801473
+1406,San Jose,http://fullcyclebioplastics.com/,11-50,0.1086472233801473
+1407,Walnut,https://hummingbird.co/,11-50,0.1086472233801473
+1408,Philadelphia,http://www.instamed.com,251-500,0.09557781706582578
+1409,San Francisco,https://www.kiddom.co,51-100,0.13805034229983118
+1410,New York,https://www.jpmorgan.com,10001+,-0.010850751521368062
+1411,Milwaukee,http://www.brightcellars.com,11-50,0.1086472233801473
+1412,San Francisco,http://www.sillajen.com/,101-250,0.10509427524242704
+1413,Oklahoma City,http://tailwindapp.com,51-100,0.08547745310788972
+1414,San Rafael,http://www.worktap.com,11-50,0.1086472233801473
+1415,Denver,http://culedger.com/,1-10,0.13666012875664862
+1416,New York,https://detectica.com/,1-10,0.07391565625083293
+1417,Tampa,http://www.citizinvestor.com,11-50,0.1086472233801473
+1418,Buffalo,http://www.cbiolabs.com,51-100,0.08547745310788972
+1419,Wichita,http://kingfit.io,1-10,0.13666012875664862
+1420,Indianapolis,http://bolstra.com/,11-50,0.1086472233801473
+1421,Santa Clara,http://www.orbai.com,1-10,0.13666012875664862
+1422,New York,https://www.oakscale.com/,1-10,0.07391565625083293
+1423,Las Vegas,http://www.raiders.com,251-500,0.09557781706582578
+1424,Birmingham,http://diamondfortress.com,1-10,0.13666012875664862
+1425,Chantilly,http://blueridgenetworks.com,11-50,0.1086472233801473
+1426,San Mateo,http://www.contractwrangler.com/,11-50,0.1086472233801473
+1427,New York,https://skylinerobotics.com,11-50,0.10466465961021519
+1428,San Diego,http://www.dexcom.com,5001-10000,0.07993533234043217
+1429,Atlanta,http://triplingo.com,1-10,0.13666012875664862
+1430,New York,https://upfluence.com,51-100,0.03542436888872861
+1431,Chicago,https://blitsy.com/,11-50,0.06455436514153481
+1432,Boston,https://shareaholic.com,1-10,0.1753987828136506
+1433,Santa Monica,http://www.sabio.inc,11-50,0.1086472233801473
+1434,Seattle,https://www.chatbox.com/,1-10,0.14106387211653235
+1435,Oakland,https://josephine.com/,11-50,0.1086472233801473
+1436,Houston,http://p97.com/,11-50,0.1086472233801473
+1437,San Francisco,http://www.connect.com,1-10,0.07616839472122434
+1438,New York,http://www.youvisit.com,51-100,0.03542436888872861
+1439,Rockville,http://2020gene.com,11-50,0.1086472233801473
+1440,Denver,http://longpointminerals.com,11-50,0.1086472233801473
+1441,San Francisco,http://www.gobalto.com,11-50,0.0830449124417685
+1442,Irvine,http://biolase.com,251-500,0.09557781706582578
+1443,New York,http://www.fiftythree.com,11-50,0.10466465961021519
+1444,Hoboken,http://www.klangoo.com,11-50,0.1086472233801473
+1445,San Francisco,http://www.getkeyto.com/,1-10,0.07616839472122434
+1446,Dallas,http://www.astrapi-corp.com,11-50,0.1086472233801473
+1447,South San Francisco,http://www.ls9.com,51-100,0.08547745310788972
+1448,Atlanta,http://www.t5datacenters.com,101-250,0.08960826571962464
+1449,New York,http://exclusively.in,51-100,0.03542436888872861
+1450,Kearny,http://www.fusar.com,1-10,0.13666012875664862
+1451,San Francisco,https://www.juul.com,1001-5000,0.06397799407432203
+1452,New York,http://nimbletv.com,11-50,0.10466465961021519
+1453,Los Gatos,https://nuveramedical.com/,11-50,0.1086472233801473
+1454,San Francisco,http://www.stitchapp.com,11-50,0.0830449124417685
+1455,Seattle,http://www.wellpepper.com,11-50,0.10995294879204402
+1456,San Francisco,http://foodgroup.com,1-10,0.07616839472122434
+1457,New York,http://workingnotworking.com/,11-50,0.10466465961021519
+1458,Cranston,https://lucadanni.com,11-50,0.1086472233801473
+1459,Bellevue,https://assurance.com/,11-50,0.1086472233801473
+1460,San Francisco,https://getlighthouse.com/,1-10,0.07616839472122434
+1461,Palo Alto,http://boxfish.com,11-50,0.046236064165518974
+1462,San Francisco,http://www.kinsahealth.com,11-50,0.0830449124417685
+1463,New York,http://www.pipsisland.com/,51-100,0.03542436888872861
+1464,Minneapolis,http://storyxpress.co,1-10,0.13666012875664862
+1465,Lynnwood,http://www.funko.com,51-100,0.08547745310788972
+1466,New York,http://carnival.io/,11-50,0.10466465961021519
+1467,San Francisco,https://www.yellowsack.com,1-10,0.07616839472122434
+1468,Redwood City,http://www.karfarm.com,11-50,0.1086472233801473
+1469,Minnesota City,http://insitubiologics.com/,1-10,0.13666012875664862
+1470,San Francisco,http://circlepharma.com,11-50,0.0830449124417685
+1471,Las Vegas,https://snapship.it,11-50,0.1086472233801473
+1472,Acton,http://carbondesignsystems.com,11-50,0.1086472233801473
+1473,New York,https://www.economist.com/,1001-5000,0.1661445879667988
+1474,Incline Village,http://orderscape.com,1-10,0.13666012875664862
+1475,Westlake Village,http://www.inviarobotics.com,11-50,0.1086472233801473
+1476,Washington,http://www.digitalpromise.org,11-50,0.1086472233801473
+1477,Vista,https://www.exagen.com/,101-250,0.08960826571962464
+1478,Tampa,http://symphonicdistribution.com/,11-50,0.1086472233801473
+1479,Lake Forest,http://www.sharkwheel.com,11-50,0.1086472233801473
+1480,Richardson,http://www.bluecalypso.com,1-10,0.13666012875664862
+1481,Portsmouth,http://bitfry.com/,11-50,0.1086472233801473
+1482,San Francisco,https://halolife.com/,1-10,0.07616839472122434
+1483,Palo Alto,http://redrobotlabs.com,11-50,0.046236064165518974
+1484,Los Angeles,http://ritterpharma.com,11-50,0.0917643488404792
+1485,Sunnyvale,http://www.gns3.com,1-10,0.13666012875664862
+1486,Brooklyn,https://nowsta.com,11-50,0.1086472233801473
+1487,Irvine,http://www.edyza.com,11-50,0.1086472233801473
+1488,Los Angeles,http://medversant.com,11-50,0.0917643488404792
+1489,Redwood City,http://solargaps.com,1-10,0.13666012875664862
+1490,Vero Beach,http://hdltherapeutics.com,1-10,0.13666012875664862
+1491,Oakland,https://www.revgenomics.com/,1-10,0.13666012875664862
+1492,Santa Barbara,http://www.barkback.com,1-10,0.13666012875664862
+1493,Orem,http://www.grosocial.com,11-50,0.1086472233801473
+1494,Salt Lake City,http://www.coherex.com,11-50,0.1086472233801473
+1495,Burlington,https://ziiproom.com/,11-50,0.1086472233801473
+1496,Boston,http://www.smarterer.com,11-50,0.04929457832282223
+1497,San Francisco,http://20n.com/,1-10,0.07616839472122434
+1498,Chicago,https://www.cubii.com/,11-50,0.06455436514153481
+1499,San Francisco,http://www.squad.life,11-50,0.0830449124417685
+1500,Baltimore,http://asclepix.com/,11-50,0.1086472233801473
+1501,New York,https://www.openweb.com/,51-100,0.03542436888872861
+1502,Eden Prairie,http://univitahealth.com,1001-5000,0.09112472340491666
+1503,Mountain View,https://upland.me/,11-50,0.0035676344996085738
+1504,New York,http://www.spongecell.com,101-250,0.03869166130044718
+1505,Santa Monica,https://lennycredit.com,1-10,0.13666012875664862
+1506,Pleasanton,http://www.thinkhr.com,51-100,0.08547745310788972
+1507,Las Vegas,https://www.diamondresorts.com/,5001-10000,0.07993533234043217
+1508,Louisville,http://www.hopefoods.com,11-50,0.1086472233801473
+1509,Edison,https://www.lntinfotech.com,10001+,0.04856393641284885
+1510,Sunnyvale,http://www.safebreach.com/,11-50,0.1086472233801473
+1511,Santa Monica,https://www.goodrx.com,251-500,0.09557781706582578
+1512,Palo Alto,http://waze.com,51-100,0.005638196483874341
+1513,Portland,http://www.agiliron.com,11-50,0.1086472233801473
+1514,Santa Monica,http://www.staymogul.com,11-50,0.1086472233801473
+1515,Atlanta,http://nexidia.com,51-100,0.08547745310788972
+1516,Sunnyvale,http://www.fortinet.com,1001-5000,0.09112472340491666
+1517,Altadena,http://www.adventurelink.com,11-50,0.1086472233801473
+1518,Seattle,https://stormx.io/,11-50,0.10995294879204402
+1519,Santa Clara,http://helic.com,51-100,0.08547745310788972
+1520,Oakland,https://www.freeagentcrm.com,11-50,0.1086472233801473
+1521,San Mateo,http://www.helix.com/,101-250,0.08960826571962464
+1522,Menlo Park,http://armetheon.com/,11-50,0.1086472233801473
+1523,Roswell,http://www.anywayanyday.com,51-100,0.08547745310788972
+1524,Emeryville,https://symb.io,11-50,0.1086472233801473
+1525,Dover,https://www.blendo.co,1-10,0.13666012875664862
+1526,Glendale,https://www.washos.com/,1-10,0.13666012875664862
+1527,San Leandro,https://www.anzode.com,1-10,0.13666012875664862
+1528,San Francisco,http://www.dolby.com,1001-5000,0.06397799407432203
+1529,Venice,http://gem.co,11-50,0.1086472233801473
+1530,Los Angeles,https://www.just.insure,11-50,0.0917643488404792
+1531,New York,http://www.xtrachef.com,11-50,0.10466465961021519
+1532,New York,http://www.amnh.org/,1001-5000,0.1661445879667988
+1533,Mountain View,https://www.computesoftware.com,1-10,0.31153363757113905
+1534,Fresno,http://caro-nut.com,51-100,0.08547745310788972
+1535,Burlingame,https://www.greenparksports.com,11-50,0.1086472233801473
+1536,Beltsville,http://nextcure.com/,11-50,0.1086472233801473
+1537,Goleta,http://www.adero.com,51-100,0.08547745310788972
+1538,Dallas,http://www.avadenergy.com/,1-10,0.13666012875664862
+1539,San Francisco,https://goshippo.com,51-100,0.13805034229983118
+1540,New York,https://cmdtymkt.com/,11-50,0.10466465961021519
+1541,Marlborough,http://www.bluecod.net,51-100,0.08547745310788972
+1542,Berkeley,https://iota.bio/,11-50,0.1086472233801473
+1543,Seattle,https://www.navitmoney.com,1-10,0.14106387211653235
+1544,New York,http://www.schweigerderm.com/,501-1000,0.16916293462643023
+1545,St Louis,http://www.pulsetherapeutics.com,1-10,0.13666012875664862
+1546,Jericho,https://dealflow.com,11-50,0.1086472233801473
+1547,San Carlos,http://flexusbio.com,11-50,0.1086472233801473
+1548,Phoenix,https://www.aestheticsbiomedical.com/,11-50,0.1086472233801473
+1549,Springfield,https://beanstalk.farm/,1-10,0.13666012875664862
+1550,New York,https://www.simondata.com/,101-250,0.03869166130044718
+1551,New York,http://www.ideasphere.com,11-50,0.10466465961021519
+1552,Mountain View,http://www.launchtrack.com,1-10,0.31153363757113905
+1553,Tampa,https://www.myareanetwork.com,11-50,0.1086472233801473
+1554,San Francisco,https://onecodex.com/,1-10,0.07616839472122434
+1555,Berkeley,http://genomelink.io,1-10,0.13666012875664862
+1556,New York,http://www.vkansee.com/,251-500,-8.833483978093427e-05
+1557,Redwood City,https://www.anomali.com,251-500,0.09557781706582578
+1558,Eau Claire,http://www.spanx.com,501-1000,0.1673722690003722
+1559,Mountain View,http://www.bityota.com,11-50,0.0035676344996085738
+1560,Westfield,http://www.nixle.com,1-10,0.13666012875664862
+1561,New York,http://www.prognos.ai,51-100,0.03542436888872861
+1562,Ithaca,https://www.rosieapp.com/,11-50,0.1086472233801473
+1563,New York,https://www.motivote.us,1-10,0.07391565625083293
+1564,Conshohocken,https://www.sixlambda.com,1-10,0.13666012875664862
+1565,South San Francisco,http://www.calithera.com,101-250,0.08960826571962464
+1566,New York,http://preplaysports.com,11-50,0.10466465961021519
+1567,Chicago,http://www.humanpredictions.io,11-50,0.06455436514153481
+1568,San Francisco,https://www.voltus.co,11-50,0.0830449124417685
+1569,Avon,http://www.cocc.com,251-500,0.09557781706582578
+1570,San Francisco,http://peerwell.co,11-50,0.0830449124417685
+1571,Livingston,http://milestonescientific.com,11-50,0.1086472233801473
+1572,Waltham,https://www.skyhawktx.com/,51-100,0.08547745310788972
+1573,Kirkland,http://www.crelate.com,11-50,0.1086472233801473
+1574,Mountain View,http://claritics.com,11-50,0.0035676344996085738
+1575,Irvine,http://www.eliteaerospacegroup.com/,101-250,0.08960826571962464
+1576,San Francisco,https://www.chime.com/,501-1000,0.3683090408749776
+1577,Mountain View,https://www.gridraster.com/,11-50,0.0035676344996085738
+1578,Cambridge,https://www.twentyeight-seven.com/,11-50,0.1086472233801473
+1579,Plano,http://gearboxsoftware.com,251-500,0.09557781706582578
+1580,Albuquerque,https://www.lavu.com/,101-250,0.08960826571962464
+1581,Chicago,http://revealdata.com,101-250,0.017062366036634982
+1582,New York,https://boma.global/,11-50,0.10466465961021519
+1583,New York,http://www.triplay.com,11-50,0.10466465961021519
+1584,Emeryville,http://abakus.me,11-50,0.1086472233801473
+1585,Boston,https://zippitycars.com/,11-50,0.04929457832282223
+1586,San Francisco,http://assi.st,11-50,0.0830449124417685
+1587,Los Angeles,http://www.capricor.com,11-50,0.0917643488404792
+1588,Menlo Park,http://goqii.com,101-250,0.08960826571962464
+1589,New York,https://www.mission.com/,51-100,0.03542436888872861
+1590,South Orange,http://nephros.com,11-50,0.1086472233801473
+1591,New York,https://www.parsegon.com,1-10,0.07391565625083293
+1592,San Francisco,http://www.ionetix.com,11-50,0.0830449124417685
+1593,Naperville,http://www.dealerinspire.com,501-1000,0.1673722690003722
+1594,Milwaukee,https://lastlock.us/,1-10,0.13666012875664862
+1595,New York,http://convead.com,1-10,0.07391565625083293
+1596,Los Angeles,http://www.responsegenetics.com/,51-100,0.14481495602962444
+1597,Venice,http://afty.co,11-50,0.1086472233801473
+1598,Los Angeles,http://www.music-lens.com/,1-10,0.09345762218151825
+1599,Baton Rouge,http://www.passitdown.com,1-10,0.13666012875664862
+1600,Syosset,http://pmpediatrics.com,251-500,0.09557781706582578
+1601,Indianapolis,http://www.onecause.com,251-500,0.09557781706582578
+1602,New York,http://www.themuse.com,101-250,0.03869166130044718
+1603,New York,https://www.en.meixinfinance.com/,251-500,-8.833483978093427e-05
+1604,Cambridge,https://www.stratoscale.com/,11-50,0.1086472233801473
+1605,New York,http://quantitativebrokers.com/,11-50,0.10466465961021519
+1606,Brevard,http://gaiaherbs.com,51-100,0.08547745310788972
+1607,San Francisco,https://www.cloudworkout.com/,1-10,0.07616839472122434
+1608,Santa Clara,https://elastifile.com,51-100,0.08547745310788972
+1609,Shelton,https://www.rightcapital.com,51-100,0.08547745310788972
+1610,San Diego,https://www.cuehealth.com/,11-50,0.1086472233801473
+1611,Santa Monica,https://datahero.com,1-10,0.13666012875664862
+1612,Denver,http://www.vitatech.co,11-50,0.1086472233801473
+1613,New York,http://www.zulaapp.com,1-10,0.07391565625083293
+1614,Greenwich,http://willa.com/,1-10,0.13666012875664862
+1615,Allen,http://www.balancedmediatechnology.com/,11-50,0.1086472233801473
+1616,Cary,http://dudesolutions.com,501-1000,0.1673722690003722
+1617,San Francisco,https://vendini.com/,101-250,0.10509427524242704
+1618,Chicago,https://www.seurat-therapeutics.com/,1-10,0.0016280118260470586
+1619,Champaign,http://www.petronics.io,1-10,0.13666012875664862
+1620,Cleveland,https://www.key.com,10001+,0.04856393641284885
+1621,Chelmsford,http://www.datami.com,51-100,0.08547745310788972
+1622,New York,http://www.signals-analytics.com,101-250,0.03869166130044718
+1623,Irvine,http://inarimedical.com/,11-50,0.1086472233801473
+1624,Farmington Hills,http://service.com/,11-50,0.1086472233801473
+1625,Boston,https://www.nanoramic.com,11-50,0.04929457832282223
+1626,San Jose,http://onesoftdigm.com/index.php?getLang=en,11-50,0.1086472233801473
+1627,Austin,http://www.datical.com,11-50,0.19956792979551838
+1628,Plano,https://bookshout.com/,11-50,0.1086472233801473
+1629,Atlanta,https://www.evidentid.com/,11-50,0.1086472233801473
+1630,New York,http://vinepair.com/,1-10,0.07391565625083293
+1631,Pleasanton,http://evident.io,101-250,0.08960826571962464
+1632,Redondo Beach,http://www.ozobot.com/,11-50,0.1086472233801473
+1633,Madison,http://www.agrograph.com,1-10,0.13666012875664862
+1634,Emeryville,http://www.medeanalytics.com,251-500,0.09557781706582578
+1635,New York,http://www.rentlogic.com/,1-10,0.07391565625083293
+1636,New York,https://hellobrigit.com/,11-50,0.10466465961021519
+1637,Monmouth Junction,http://trispharma.com,501-1000,0.1673722690003722
+1638,Berkeley,http://honeycando.com,101-250,0.08960826571962464
+1639,Redwood City,http://www.actiance.com,501-1000,0.1673722690003722
+1640,Berkeley,https://leadgenius.com,11-50,0.1086472233801473
+1641,New York,http://www.ordergroove.com,51-100,0.03542436888872861
+1642,Maynard,http://www.aquabounty.com,11-50,0.1086472233801473
+1643,Menlo Park,http://welbehealth.com/,251-500,0.09557781706582578
+1644,Winston Salem,http://keranetics.com,11-50,0.1086472233801473
+1645,San Francisco,http://www.loftorbital.com,11-50,0.0830449124417685
+1646,Huntsville,http://flibe-energy.com,11-50,0.1086472233801473
+1647,Washington,https://dnsfilter.com,1-10,0.13666012875664862
+1648,San Francisco,http://www.deliveryagent.com,51-100,0.13805034229983118
+1649,Tampa,https://harnessapp.com/,1-10,0.13666012875664862
+1650,New York,https://www.newtonx.com/,11-50,0.10466465961021519
+1651,Fremont,http://thinksurgical.com,101-250,0.08960826571962464
+1652,Sunnyvale,http://solecular.com,1-10,0.13666012875664862
+1653,New York,http://www.rallyrd.com,11-50,0.10466465961021519
+1654,Santa Monica,https://happiestbaby.com,11-50,0.1086472233801473
+1655,San Diego,http://www.loanhero.com,11-50,0.1086472233801473
+1656,San Francisco,http://www.confyrm.com,1-10,0.07616839472122434
+1657,Novato,http://www.etwater.com,11-50,0.1086472233801473
+1658,Ferndale,http://www.organogold.com,10001+,0.04856393641284885
+1659,Waltham,http://www.evolvtechnology.com,51-100,0.08547745310788972
+1660,Murray,http://www.liceclinicsofamerica.com,11-50,0.1086472233801473
+1661,Menlo Park,https://www.voicea.com/,11-50,0.1086472233801473
+1662,New York,http://axtrading.com/,11-50,0.10466465961021519
+1663,San Francisco,https://pixellabs.io/,11-50,0.0830449124417685
+1664,San Francisco,http://www.powermat.com,51-100,0.13805034229983118
+1665,New York,http://immunepharmaceuticals.com/,11-50,0.10466465961021519
+1666,San Francisco,http://www.aktana.com,251-500,0.10028712636481094
+1667,Brooklyn,http://www.vhx.tv/,1-10,0.13666012875664862
+1668,San Jose,https://www.epilog.com,1-10,0.13666012875664862
+1669,Boston,https://www.blueconic.com,51-100,-0.005074246073910327
+1670,Janesville,https://www.shinemed.com,101-250,0.08960826571962464
+1671,Milwaukee,http://www.scanalyticsinc.com,11-50,0.1086472233801473
+1672,Cambridge,https://elicio.com/,11-50,0.1086472233801473
+1673,Cambridge,http://www.prx.org,11-50,0.1086472233801473
+1674,San Francisco,https://4505meats.com/,11-50,0.0830449124417685
+1675,New York,http://www.easyvista.com,51-100,0.03542436888872861
+1676,Philadelphia,https://www.proscia.com,11-50,0.1086472233801473
+1677,Seattle,https://www.leaftaillabs.com,1-10,0.14106387211653235
+1678,Atlanta,https://www.oncologyanalytics.com/,101-250,0.08960826571962464
+1679,Seattle,http://www.gist.com,11-50,0.10995294879204402
+1680,Boston,http://www.dana-farber.org,5001-10000,0.004700384308665451
+1681,San Francisco,https://vectordash.com/,1-10,0.07616839472122434
+1682,Clifton,http://www.batblue.com/,11-50,0.1086472233801473
+1683,Santa Clara,https://avinetworks.com/,101-250,0.08960826571962464
+1684,Boston,http://www.rapid7.com,1001-5000,0.7260623548626846
+1685,Detroit,http://www.eatbanza.com/,1-10,0.13666012875664862
+1686,San Francisco,https://www.planchat.us/,1-10,0.07616839472122434
+1687,San Jose,http://kyron.com,1-10,0.13666012875664862
+1688,San Francisco,http://www.good.co,51-100,0.13805034229983118
+1689,Palo Alto,https://qedtx.com,11-50,0.046236064165518974
+1690,Los Angeles,http://threedayrule.com,11-50,0.0917643488404792
+1691,San Francisco,https://www.descript.com/,11-50,0.0830449124417685
+1692,Orlando,https://assetxcoin.com,11-50,0.1086472233801473
+1693,San Francisco,http://www.asseta.com,1-10,0.07616839472122434
+1694,Delray Beach,http://www.sunwavehealth.com/,11-50,0.1086472233801473
+1695,Rogers,http://www.collectivebias.com,101-250,0.08960826571962464
+1696,Boston,http://viralgains.com,51-100,-0.005074246073910327
+1697,San Diego,https://VerifiR.com,1-10,0.13666012875664862
+1698,San Diego,http://www.aristamd.com,11-50,0.1086472233801473
+1699,San Francisco,https://www.apollo.io,11-50,0.0830449124417685
+1700,Las Vegas,http://www.skywire.com,51-100,0.08547745310788972
+1701,New York,https://nuvalence.io/,11-50,0.10466465961021519
+1702,San Diego,https://www.beautybakerie.com/,11-50,0.1086472233801473
+1703,New York,http://www.admeld.com,51-100,0.03542436888872861
+1704,San Francisco,https://zerodown.com,11-50,0.0830449124417685
+1705,Santa Clara,http://www.infoblox.com,251-500,0.09557781706582578
+1706,Chicago,http://www.abesmarket.com,11-50,0.06455436514153481
+1707,Atlanta,http://www.worthpoint.com,11-50,0.1086472233801473
+1708,Columbus,https://www.awarehq.com/,11-50,0.1086472233801473
+1709,Palo Alto,https://www.sagedigitalcorp.com/,11-50,0.046236064165518974
+1710,Denver,https://ramen.is,1-10,0.13666012875664862
+1711,Palm Beach Gardens,http://www.finovafinancial.com/,11-50,0.1086472233801473
+1712,Indianapolis,https://www.digiop.com/,11-50,0.1086472233801473
+1713,San Diego,http://www.anaptysbio.com,51-100,0.08547745310788972
+1714,Los Angeles,http://with.in/,51-100,0.14481495602962444
+1715,Berkeley,http://www.everytale.net,11-50,0.1086472233801473
+1716,Sacramento,http://www.Kings.com,1001-5000,0.09112472340491666
+1717,Boston,http://cargometrics.com/,11-50,0.04929457832282223
+1718,Arlington,http://evolenthealth.com,501-1000,0.1673722690003722
+1719,New York,http://clinch.co,11-50,0.10466465961021519
+1720,Kansas City,https://www.fitbark.com,11-50,0.1086472233801473
+1721,Atlanta,http://coca-colacompany.com,10001+,0.04856393641284885
+1722,Los Angeles,https://www.nanotechenergy.com/,1-10,0.09345762218151825
+1723,San Francisco,http://handstack.com,1-10,0.07616839472122434
+1724,Danville,http://www.everloop.com,11-50,0.1086472233801473
+1725,Redwood City,https://www.caffeine.tv,11-50,0.1086472233801473
+1726,San Francisco,https://chirpschips.com/,1-10,0.07616839472122434
+1727,Austin,http://www.acessaprocedure.com,11-50,0.19956792979551838
+1728,Redwood City,http://www.interana.com,51-100,0.08547745310788972
+1729,New York,http://hcsafety.com,11-50,0.10466465961021519
+1730,Bend,https://dutchie.com,101-250,0.08960826571962464
+1731,Houston,https://www.raven.com,11-50,0.1086472233801473
+1732,Cincinnati,http://www.jerseywatch.com,1-10,0.13666012875664862
+1733,Long Beach,http://www.molinahealthcare.com,10001+,0.04856393641284885
+1734,Menlo Park,http://alicetechnologies.com,11-50,0.1086472233801473
+1735,South San Francisco,http://www.avidbiotics.com,11-50,0.1086472233801473
+1736,San Diego,http://www.ga.com,10001+,0.04856393641284885
+1737,North Hills,http://www.munchkin.com,501-1000,0.1673722690003722
+1738,Menlo Park,https://interprime.co/,1-10,0.13666012875664862
+1739,Sunnyvale,http://lifedetectiontechnologies.com/,1-10,0.13666012875664862
+1740,Newark,https://nextsale.io/,1-10,0.13666012875664862
+1741,Portland,http://www.attensa.com,11-50,0.1086472233801473
+1742,San Francisco,https://mightyapp.com,1-10,0.07616839472122434
+1743,Minneapolis,http://www.humaneticscorp.com,11-50,0.1086472233801473
+1744,Boston,http://www.courbanize.com,11-50,0.04929457832282223
+1745,Mountain View,http://www.newsbreak.com/about,101-250,0.011741699180809032
+1746,Sunnyvale,http://www.acco-semi.com,51-100,0.08547745310788972
+1747,St Louis,http://www.istotech.com,51-100,0.08547745310788972
+1748,Milpitas,http://magnumsemi.com,501-1000,0.1673722690003722
+1749,Austin,http://besomebody.com/,1-10,-0.0018775805876279019
+1750,Mountain View,https://www.mozilla.org,5001-10000,0.07589068548779801
+1751,Seattle,http://oncoresponseinc.com/,11-50,0.10995294879204402
+1752,Apollo,http://blu-panda.com,11-50,0.1086472233801473
+1753,Foster City,http://www.exabeam.com/,251-500,0.09557781706582578
+1754,San Francisco,https://www.landed.com/,11-50,0.0830449124417685
+1755,Dover,https://www.carlock.co/,11-50,0.1086472233801473
+1756,San Francisco,http://www.glow.co,11-50,0.0830449124417685
+1757,New York,http://cardiomo.com/,11-50,0.10466465961021519
+1758,San Mateo,https://reverscore.com/,11-50,0.1086472233801473
+1759,Norwalk,https://varram.com/,11-50,0.1086472233801473
+1760,Brooklyn,http://www.phhhoto.com/,11-50,0.1086472233801473
+1761,Petaluma,https://sonomapharma.com/,51-100,0.08547745310788972
+1762,New York,http://grandst.com,1-10,0.07391565625083293
+1763,Austin,http://www.realmassive.com,11-50,0.19956792979551838
+1764,Boston,http://layer3tv.com,101-250,0.033284081620886585
+1765,New York,https://atlasx.co/,1-10,0.07391565625083293
+1766,New York,http://fundera.com,51-100,0.03542436888872861
+1767,Palo Alto,https://www.potbotics.com/,1-10,0.10614041639317535
+1768,Claymont,https://www.storyworth.com,1-10,0.13666012875664862
+1769,San Jose,https://EXPLOY.com,11-50,0.1086472233801473
+1770,Austin,http://subjectwell.com/,51-100,0.007244254146436965
+1771,Wilson,http://www.stio.com/,51-100,0.08547745310788972
+1772,Detroit,https://waymark.com,11-50,0.1086472233801473
+1773,Birmingham,https://momentumtelecom.com/,251-500,0.09557781706582578
+1774,Newark,http://replay-technologies.com,11-50,0.1086472233801473
+1775,New York,http://www.stadiumgoods.com,51-100,0.03542436888872861
+1776,New York,https://www.heydayskincare.com,251-500,-8.833483978093427e-05
+1777,West Palm Beach,http://www.xcovery.com,11-50,0.1086472233801473
+1778,New York,http://www.winendine.com,1-10,0.07391565625083293
+1779,San Francisco,http://www.hipsobriety.com/,11-50,0.0830449124417685
+1780,San Francisco,http://www.cloudscaling.com,1-10,0.07616839472122434
+1781,San Jose,http://www.spectra7.com,51-100,0.08547745310788972
+1782,Austin,http://rivet.works,11-50,0.19956792979551838
+1783,Mesa,http://www.atlismotorvehicles.com,1-10,0.13666012875664862
+1784,Hanover,https://www.dragos.com/,101-250,0.08960826571962464
+1785,Lehi,https://nanoheal.com,101-250,0.08960826571962464
+1786,Coral Springs,https://www.encrypgen.com/,11-50,0.1086472233801473
+1787,Washington,https://www.plexcorps.com,11-50,0.1086472233801473
+1788,Pittsburgh,http://www.hfflp.com,501-1000,0.1673722690003722
+1789,Herndon,http://www.alltrafficsolutions.com,51-100,0.08547745310788972
+1790,Durham,http://www.transenterix.com,101-250,0.08960826571962464
+1791,New York,http://phonewagon.com,1-10,0.07391565625083293
+1792,Boulder,https://www.aerostate.org,1-10,0.13666012875664862
+1793,Oklahoma City,http://www.moleculeralabs.com,11-50,0.1086472233801473
+1794,Walled Lake,http://www.prefundia.com,11-50,0.1086472233801473
+1795,Saint George,https://www.printerlogic.com,101-250,0.08960826571962464
+1796,New York,https://www.cinchkey.com/,11-50,0.10466465961021519
+1797,Buffalo,http://garwoodmedical.com/,1-10,0.13666012875664862
+1798,Salinas,http://heavyconnect.com,11-50,0.1086472233801473
+1799,New York,https://getcompound.com/,1-10,0.07391565625083293
+1800,New York,http://www.edamam.com,11-50,0.10466465961021519
+1801,Hoopeston,http://www.telepathic.tv/,11-50,0.1086472233801473
+1802,New Orleans,http://resilia.com,11-50,0.1086472233801473
+1803,Buffalo,https://www.empiregenomics.com/,11-50,0.1086472233801473
+1804,Plano,http://www.layeredtech.com,251-500,0.09557781706582578
+1805,Ridgefield Park,http://www.algosec.com/,501-1000,0.1673722690003722
+1806,Waltham,http://www.actifio.com,251-500,0.09557781706582578
+1807,Chicago,http://www.labelinsight.com,101-250,0.017062366036634982
+1808,Cincinnati,http://www.medacheck.com,1-10,0.13666012875664862
+1809,Atlanta,http://wsbtv.com,251-500,0.09557781706582578
+1810,Novato,https://advisorycloud.com,101-250,0.08960826571962464
+1811,San Jose,http://pernixdata.com,101-250,0.08960826571962464
+1812,San Francisco,http://reaching.to,11-50,0.0830449124417685
+1813,San Jose,http://www.atrenta.com,501-1000,0.1673722690003722
+1814,New York,https://www.weezmo.com,1-10,0.07391565625083293
+1815,San Diego,https://www.caminopharma.com/,1-10,0.13666012875664862
+1816,South San Francisco,https://www.enablebiosciences.com/,11-50,0.1086472233801473
+1817,Newton,http://www.openbom.com,1-10,0.13666012875664862
+1818,Boston,http://www.loseit.com,11-50,0.04929457832282223
+1819,Las Vegas,http://www.with.me/,51-100,0.08547745310788972
+1820,Prosper,https://www.doculife.com/,11-50,0.1086472233801473
+1821,San Francisco,http://gems.org,1-10,0.07616839472122434
+1822,Sparks Glencoe,http://www.guidetodoor.com/,1-10,0.13666012875664862
+1823,Chandler,https://www.mobivity.com,51-100,0.08547745310788972
+1824,Seattle,http://www.knowlabs.co/,1-10,0.14106387211653235
+1825,Newark,http://www.hippovideo.io/,11-50,0.1086472233801473
+1826,Scottsdale,http://avhomesinc.com,251-500,0.09557781706582578
+1827,Brooklyn,https://www.gaia-scope.com/,1-10,0.13666012875664862
+1828,New York,https://www.newsguardtech.com/,11-50,0.10466465961021519
+1829,Charlestown,http://finallybulbs.com,11-50,0.1086472233801473
+1830,Boston,http://mimobaby.com,11-50,0.04929457832282223
+1831,Burlington,https://www.zsuitetech.com/,1-10,0.13666012875664862
+1832,Arlington,https://basket.com/,1-10,0.13666012875664862
+1833,Hillsboro,http://www.solarworld-usa.com,1001-5000,0.09112472340491666
+1834,Palo Alto,http://www.poynt.com,51-100,0.005638196483874341
+1835,San Jose,https://bitcoin.org/en/,1-10,0.13666012875664862
+1836,Santa Monica,http://bitium.com,11-50,0.1086472233801473
+1837,San Francisco,https://appsamurai.com/,101-250,0.10509427524242704
+1838,Calhoun,http://rapidrms.com/,11-50,0.1086472233801473
+1839,New York,https://www.dragontailsystems.com/,51-100,0.03542436888872861
+1840,Brooklyn,https://alkemi.network,1-10,0.13666012875664862
+1841,Concord,https://www.apriori.com/,101-250,0.08960826571962464
+1842,Bellevue,https://dragonchain.org/,11-50,0.1086472233801473
+1843,New York,https://www.nestapple.com,11-50,0.10466465961021519
+1844,Atlanta,https://ubuntoo.com,1-10,0.13666012875664862
+1845,Portland,http://essiahealth.com,501-1000,0.1673722690003722
+1846,Reno,http://cetmobile.com/,1-10,0.13666012875664862
+1847,Santa Clara,https://www.dremio.com/,51-100,0.08547745310788972
+1848,Brooklyn,https://www.et-sy.com,1001-5000,0.09112472340491666
+1849,Bloomington,https://www.cloudseal.io,1-10,0.13666012875664862
+1850,Columbus,http://pelotonia.org/,11-50,0.1086472233801473
+1851,Beverly Hills,https://www.apotheka.co/,11-50,0.1086472233801473
+1852,Brooklyn,https://gridplus.io/,1-10,0.13666012875664862
+1853,Chicago,http://www.ezlinksgolf.com/,251-500,0.1611123574160613
+1854,Durham,http://phononic.com,101-250,0.08960826571962464
+1855,New York,http://www.baybridgedigital.com,101-250,0.03869166130044718
+1856,Bedford,http://www.rapidmicrobio.com,101-250,0.08960826571962464
+1857,New York,http://www.skywirenetworks.com/,101-250,0.03869166130044718
+1858,San Francisco,https://aidsmemorial.org/,11-50,0.0830449124417685
+1859,Gaithersburg,http://www.glycomimetics.com,51-100,0.08547745310788972
+1860,Charlotte,http://kingsmensoftware.com/,11-50,0.1086472233801473
+1861,Santa Clara,https://cyberfend.com/,11-50,0.1086472233801473
+1862,Santa Monica,http://www.meetgrace.com,11-50,0.1086472233801473
+1863,Charleston,http://www.inpact.com/,11-50,0.1086472233801473
+1864,Crestwood,http://www.revonsystems.net/,11-50,0.1086472233801473
+1865,Cambridge,http://www.avantgardehealth.com,1-10,0.13666012875664862
+1866,Norcross,http://www.cloudblue.com,251-500,0.09557781706582578
+1867,Scottsdale,http://www.sitelock.com,101-250,0.08960826571962464
+1868,Lafayette,https://www.inflatablesolutions.com/,51-100,0.08547745310788972
+1869,Berkeley,https://lastbit.io,1-10,0.13666012875664862
+1870,Framingham,http://www.ravemobilesafety.com,51-100,0.08547745310788972
+1871,San Francisco,http://theSphere.com/,1-10,0.07616839472122434
+1872,San Francisco,https://www.cleargenetics.com,11-50,0.0830449124417685
+1873,Irvine,http://www.tacobell.com/home,10001+,0.04856393641284885
+1874,Oakland,http://houndlabs.com/,11-50,0.1086472233801473
+1875,New York,https://munchado.biz,251-500,-8.833483978093427e-05
+1876,Scottsdale,http://emergetms.com,51-100,0.08547745310788972
+1877,Radford,http://www.nuvotronics.com,101-250,0.08960826571962464
+1878,San Francisco,https://mammothhq.com,1-10,0.07616839472122434
+1879,Baltimore,https://boltlabs.tech/,1-10,0.13666012875664862
+1880,Newton,https://affyimmune.com/,1-10,0.13666012875664862
+1881,Denver,https://newagebev.com/en-us,1-10,0.13666012875664862
+1882,New York,https://www.blackbell.com/en,11-50,0.10466465961021519
+1883,Santa Clara,http://bluedanube.com,51-100,0.08547745310788972
+1884,Seattle,https://minnowpod.com,11-50,0.10995294879204402
+1885,New York,http://www.vestorly.com/,11-50,0.10466465961021519
+1886,Denver,https://www.crusoeenergy.com,11-50,0.1086472233801473
+1887,Madison,http://www.silatronix.com,11-50,0.1086472233801473
+1888,Fremont,http://nextracker.com/,251-500,0.09557781706582578
+1889,Woburn,http://www.redlinetrading.com,51-100,0.08547745310788972
+1890,San Francisco,http://materialcomforts.com/,1-10,0.07616839472122434
+1891,Austin,http://helmboots.com,11-50,0.19956792979551838
+1892,San Francisco,https://www.fortpointbeer.com,101-250,0.10509427524242704
+1893,San Francisco,http://ecomedes.com,11-50,0.0830449124417685
+1894,San Francisco,https://www.pachama.com/,1-10,0.07616839472122434
+1895,Sunnyvale,http://www.esilicon.com,251-500,0.09557781706582578
+1896,Los Angeles,http://www.reliam.com,11-50,0.0917643488404792
+1897,Clearwater,https://ixnium.com/,11-50,0.1086472233801473
+1898,Redwood City,http://www.yume.com,251-500,0.09557781706582578
+1899,New York,http://www.gojuno.com,51-100,0.03542436888872861
+1900,Hayward,http://www.cymabay.com,51-100,0.08547745310788972
+1901,New York,http://refreshbody.com,1-10,0.07391565625083293
+1902,San Clemente,https://www.reshapelifesciences.com/,51-100,0.08547745310788972
+1903,New York,http://www.getbeautified.com,11-50,0.10466465961021519
+1904,San Francisco,http://www.grandviewresearch.com/,251-500,0.10028712636481094
+1905,Burlington,http://aframe.com,11-50,0.1086472233801473
+1906,New York,https://seekingalpha.com,101-250,0.03869166130044718
+1907,New York,https://getmulberry.com/,11-50,0.10466465961021519
+1908,Omaha,https://tenderandtruepet.com/,101-250,0.08960826571962464
+1909,Menlo Park,http://spartascience.com,51-100,0.08547745310788972
+1910,Los Angeles,https://www.unionapt.live/,11-50,0.0917643488404792
+1911,Baltimore,http://www.zerofox.com,101-250,0.08960826571962464
+1912,Berkeley,http://www.airspeq.com,1-10,0.13666012875664862
+1913,Charlottesville,https://www.astraea.earth,11-50,0.1086472233801473
+1914,Cambridge,http://reddomobility.com/,11-50,0.1086472233801473
+1915,Ellicott City,https://www.blackpointcyber.com/,11-50,0.1086472233801473
+1916,Tampa,http://www.avalonhcs.com/,51-100,0.08547745310788972
+1917,Durham,http://www.greenenergycorp.com/,11-50,0.1086472233801473
+1918,Palo Alto,http://www.cloudastructure.com,11-50,0.046236064165518974
+1919,Boston,http://www.pathai.com,51-100,-0.005074246073910327
+1920,San Francisco,http://www.premise.com,51-100,0.13805034229983118
+1921,Waltham,https://www.randori.com/,11-50,0.1086472233801473
+1922,San Mateo,http://www.mybuys.com,101-250,0.08960826571962464
+1923,Oakland,https://www.numberai.com/,1-10,0.13666012875664862
+1924,El Segundo,http://www.shoedazzle.com,51-100,0.08547745310788972
+1925,Bethesda,http://www.gosynapsify.com,1-10,0.13666012875664862
+1926,Los Angeles,http://info.maestro.io,11-50,0.0917643488404792
+1927,Manchester,http://www.tempoe.com/,251-500,0.09557781706582578
+1928,Lawrenceville,http://www.boxlight.com/,11-50,0.1086472233801473
+1929,Roswell,http://ingomoney.com,101-250,0.08960826571962464
+1930,Boston,https://www.infisense.com,1-10,0.1753987828136506
+1931,New York,http://www.vuble.tv,11-50,0.10466465961021519
+1932,Palo Alto,http://subpac.com/,11-50,0.046236064165518974
+1933,Chicago,http://nucurrent.com,1-10,0.0016280118260470586
+1934,The Woodlands,https://www.laynewatermidstream.com/,11-50,0.1086472233801473
+1935,South San Francisco,http://www.quoteroller.com,11-50,0.1086472233801473
+1936,Los Angeles,https://fromourplace.com/,1-10,0.09345762218151825
+1937,Sausalito,http://www.stinsonbrands.com/,11-50,0.1086472233801473
+1938,Greenwich,http://www.altuspower.com/,11-50,0.1086472233801473
+1939,Durham,https://www.forecasthealth.com/,11-50,0.1086472233801473
+1940,Oakland,http://Bizinsure.com,11-50,0.1086472233801473
+1941,Mountain View,http://groceryiq.com,501-1000,0.17354086953545428
+1942,Chicago,http://learnmetrics.com,11-50,0.06455436514153481
+1943,Woburn,http://www.wallstreethorizon.com,11-50,0.1086472233801473
+1944,Temecula,https://www.medcarefarms.com/,11-50,0.1086472233801473
+1945,New York,http://skift.com,1-10,0.07391565625083293
+1946,Marlborough,https://www.ocata.com,11-50,0.1086472233801473
+1947,Palo Alto,http://lucideus.com/,101-250,-0.01880901108933754
+1948,Westbrook,http://www.davotechnologies.com/,1-10,0.13666012875664862
+1949,Tualatin,http://www.cuiglobal.com/,251-500,0.09557781706582578
+1950,San Francisco,https://www.chargebee.com/,101-250,0.10509427524242704
+1951,Elmhurst,http://www.technavio.com,501-1000,0.1673722690003722
+1952,Carlsbad,http://www.verdezyne.com,51-100,0.08547745310788972
+1953,Burlingame,http://oceanshalo.com,1-10,0.13666012875664862
+1954,West Bridgewater,https://www.giwindows.com/,11-50,0.1086472233801473
+1955,Chicago,http://www.netenergytes.com,1-10,0.0016280118260470586
+1956,New York,https://www.smoredate.com/,1-10,0.07391565625083293
+1957,Encinitas,https://www.ecwid.com,101-250,0.08960826571962464
+1958,Palo Alto,http://www.syncthink.com,1-10,0.10614041639317535
+1959,Atlanta,http://www.aveannahealthcare.com,10001+,0.04856393641284885
+1960,Los Gatos,https://borza.com,11-50,0.1086472233801473
+1961,Oakland,http://www.replate.org,1-10,0.13666012875664862
+1962,Encino,http://www.mpulsemobile.com,101-250,0.08960826571962464
+1963,Blue Bell,http://www.metapharm.net,51-100,0.08547745310788972
+1964,Mountain View,https://www.ceribell.com/,11-50,0.0035676344996085738
+1965,Langhorne,http://www.goperspecta.com,101-250,0.08960826571962464
+1966,Louisiana,http://www.junum.io/,1-10,0.13666012875664862
+1967,New York,http://paperlesspost.com,51-100,0.03542436888872861
+1968,San Francisco,http://www.tryscribe.com,11-50,0.0830449124417685
+1969,Los Angeles,http://www.born.com,11-50,0.0917643488404792
+1970,Austin,http://www.missionbox.com,11-50,0.19956792979551838
+1971,Waltham,http://www.bg-medicine.com,11-50,0.1086472233801473
+1972,Newport,http://www.seczetta.com,51-100,0.08547745310788972
+1973,Menlo Park,http://earlens.com/,101-250,0.08960826571962464
+1974,Cambridge,https://travera.com/,1-10,0.13666012875664862
+1975,Fairmont,http://www.fairmontbrineprocessing.com/,11-50,0.1086472233801473
+1976,Austin,http://Tugg.com,11-50,0.19956792979551838
+1977,Los Angeles,http://www.jbl.com/en-US/Pages/home.aspx,10001+,0.03725631728491283
+1978,Grand Haven,http://uvangel.com/,11-50,0.1086472233801473
+1979,Parsippany,http://www.inttra.com,101-250,0.08960826571962464
+1980,Houston,http://www.giantgray.com,51-100,0.08547745310788972
+1981,San Francisco,https://www.homeroom.com/,1-10,0.07616839472122434
+1982,Mequon,http://www.titanspine.com/,101-250,0.08960826571962464
+1983,Malvern,https://www.venatorx.com,51-100,0.08547745310788972
+1984,Redwood City,http://www.pulmonx.com,251-500,0.09557781706582578
+1985,New York,https://www.fluz.app,11-50,0.10466465961021519
+1986,Houston,http://www.aquiloninc.com/,11-50,0.1086472233801473
+1987,New York,https://timber.io/,1-10,0.07391565625083293
+1988,Dallas,http://www.fixdrepair.com,1-10,0.13666012875664862
+1989,New York,http://StowawayCosmetics.com,1-10,0.07391565625083293
+1990,San Francisco,http://www.cueup.com,11-50,0.0830449124417685
+1991,Los Angeles,https://fivevectors.io/,1-10,0.09345762218151825
+1992,Chicago,http://blinkfire.com,11-50,0.06455436514153481
+1993,San Francisco,http://www.passwordbox.com,11-50,0.0830449124417685
+1994,San Diego,https://reneopharma.com/,11-50,0.1086472233801473
+1995,Philadelphia,https://www.vybe.care/,11-50,0.1086472233801473
+1996,Boston,http://www.qmenta.com,11-50,0.04929457832282223
+1997,San Francisco,https://www.bitski.com/,1-10,0.07616839472122434
+1998,Alpharetta,https://cmon.com/,11-50,0.1086472233801473
+1999,New York,http://dogsyncapp.com/,1-10,0.07391565625083293

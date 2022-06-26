@@ -66,9 +66,7 @@ if "mdl" not in st.session_state:
         st.session_state.version = st.session_state.tags["version"]
 
 st.title(f"Case Study App ")
-st.write(
-    f"This is a sample model to to predict the return of an individual trade given starting characteristics, using machine learning"
-)
+st.write(f"This is a sample model to to predict the loss of an individual company")
 st.write(f"Version {st.session_state.version} - Stanley W")
 
 st.write(f"Select Inputs at left")

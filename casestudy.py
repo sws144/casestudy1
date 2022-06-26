@@ -9,6 +9,22 @@
 # 1. Expected profit per record = 9k - (value)*100k
 
 # %% [markdown]
+### Final Conclusion and Proposed Strategy
+
+# 1. Based on the existing data (city and employees), predicted losses are negative (testing_results.csv)
+# - However, if we either more appropriately charge higher risk
+# or stop writing risks > with a level of expected loss (e.g. 0.14), then we can increase profits
+# 1. We should also improve dataset by finding status for test set, industry and state by
+# by finding tickers using website like https://bigpicture.io/docs/api/#name-to-domain-api-beta
+# or https://www.klazify.com/category and cross reference with delisted tickers found below
+# 1. Details are below
+
+# %% [markdown]
+### Addendum
+# Streamlit app to understand changes and to iterate on
+# https://sws144-casestudy1-app-streamlit-fz26pv.streamlitapp.com/
+
+# %% [markdown]
 ## ## Imports & Setup
 
 # %%
@@ -989,14 +1005,12 @@ test_profit_perco = 9000 - np.average(df_test["predicted_value"]) * 100000
 
 print(f"estimated profit per company is {test_profit_perco}")
 
+df_test.to_csv(r"data/testing_results.csv")
+
 # %% [markdown]
 ### Final Conclusion and Proposed Strategy
 
-# 1. Test profit is negative - However, if we either more appropriately charge higher risk
-# or stop writing risks > with a level of expected loss (0.1), then we can increase profits
-# 1. We should also improve dataset by finding status for test set, e.g. by finding tickers
-# using website like https://bigpicture.io/docs/api/#name-to-domain-api-beta
-# or https://www.klazify.com/category and cross reference with above delisted
+# See top
 
 # %%
 #
@@ -1017,11 +1031,6 @@ print(f"avg profit {test_profit_filtered_avg}")
 # %% [markdown]
 # The final level of exclusion or rate change should consider - expected new business,
 # how confident we are in individual rate change factors, and expected business that is lost
-
-# %% [markdown]
-### Addendum
-# Streamlit app to understand changes and to iterate on
-
 
 # %%
 #
