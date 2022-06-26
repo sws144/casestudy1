@@ -1,31 +1,48 @@
-# %% [markdown]
-## Case Study
+# ---
+# jupyter:
+#   jupytext:
+#     formats: ipynb,py:percent
+#     text_representation:
+#       extension: .py
+#       format_name: percent
+#       format_version: '1.3'
+#       jupytext_version: 1.13.8
+#   kernelspec:
+#     display_name: Python 3 (ipykernel)
+#     language: python
+#     name: python3
+# ---
 
 # %% [markdown]
-### Purpose
-
-# 1. Evalute training dataset to fill in missing data in testing dataset
-# 1. Target is **value** column to indicate if a company ($9k) has a claim (100k)
-# 1. Expected profit per record = 9k - (value)*100k
+# # Case Study
 
 # %% [markdown]
-### Final Conclusion and Proposed Strategy
-
-# 1. Based on the existing data (city and employees), predicted losses are negative (testing_results.csv)
-# - However, if we either more appropriately charge higher risk
-# or stop writing risks > with a level of expected loss (e.g. 0.14), then we can increase profits
-# 1. We should also improve dataset by finding status for test set, industry and state by
-# by finding tickers using website like https://bigpicture.io/docs/api/#name-to-domain-api-beta
-# or https://www.klazify.com/category and cross reference with delisted tickers found below
-# 1. Details are below
+# ## Purpose
+#  1. Evalute training dataset to fill in missing data in testing dataset
+#  1. Target is **value** column to indicate if a company ($9k) has a claim (100k)
+#  1. Expected profit per record = 9k - (value)*100k
 
 # %% [markdown]
-### Addendum
-# Streamlit app to understand changes and to iterate on
-# https://sws144-casestudy1-app-streamlit-fz26pv.streamlitapp.com/
+# ## Final Conclusion and Proposed Strategy
+#  1. Based on the existing data (city and employees), predicted losses are negative (testing_results.csv)
+#  - However, if we either more appropriately charge higher risk
+#  or stop writing risks > with a level of expected loss (e.g. 0.14), then we can increase profits
+#  1. We should also improve dataset by finding status for test set, industry and state by
+#  by finding tickers using website like https://bigpicture.io/docs/api/#name-to-domain-api-beta
+#  or https://www.klazify.com/category and cross reference with delisted tickers found below
+#  1. Details are below
 
 # %% [markdown]
-## ## Imports & Setup
+# ## Addendum
+#  Streamlit app to understand changes and to iterate on
+#  https://sws144-casestudy1-app-streamlit-fz26pv.streamlitapp.com/
+
+# %% [markdown] toc=true
+# <h1>Table of Contents<span class="tocSkip"></span></h1>
+# <div class="toc"><ul class="toc-item"><li><span><a href="#Case-Study" data-toc-modified-id="Case-Study-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Case Study</a></span><ul class="toc-item"><li><span><a href="#Purpose" data-toc-modified-id="Purpose-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Purpose</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span></li><li><span><a href="#Addendum" data-toc-modified-id="Addendum-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Addendum</a></span></li></ul></li><li><span><a href="#Imports-&amp;-Setup" data-toc-modified-id="Imports-&amp;-Setup-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Imports &amp; Setup</a></span></li><li><span><a href="#Initial-data-exploration" data-toc-modified-id="Initial-data-exploration-3"><span class="toc-item-num">3&nbsp;&nbsp;</span>Initial data exploration</a></span><ul class="toc-item"><li><span><a href="#Conclusion-1" data-toc-modified-id="Conclusion-1-3.1"><span class="toc-item-num">3.1&nbsp;&nbsp;</span>Conclusion 1</a></span></li></ul></li><li><span><a href="#Naive-model" data-toc-modified-id="Naive-model-4"><span class="toc-item-num">4&nbsp;&nbsp;</span>Naive model</a></span></li><li><span><a href="#Metrics-for-Comparison" data-toc-modified-id="Metrics-for-Comparison-5"><span class="toc-item-num">5&nbsp;&nbsp;</span>Metrics for Comparison</a></span></li><li><span><a href="#Support-Functions" data-toc-modified-id="Support-Functions-6"><span class="toc-item-num">6&nbsp;&nbsp;</span>Support Functions</a></span></li><li><span><a href="#Try-Gradient-Boosting-with-more-vars-(i.e.-city)" data-toc-modified-id="Try-Gradient-Boosting-with-more-vars-(i.e.-city)-7"><span class="toc-item-num">7&nbsp;&nbsp;</span>Try Gradient Boosting with more vars (i.e. city)</a></span><ul class="toc-item"><li><span><a href="#Explain-model" data-toc-modified-id="Explain-model-7.1"><span class="toc-item-num">7.1&nbsp;&nbsp;</span>Explain model</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-7.2"><span class="toc-item-num">7.2&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-2" data-toc-modified-id="Conclusion-2-7.3"><span class="toc-item-num">7.3&nbsp;&nbsp;</span>Conclusion 2</a></span></li><li><span><a href="#Pull-Delisted-Stock-Data" data-toc-modified-id="Pull-Delisted-Stock-Data-7.4"><span class="toc-item-num">7.4&nbsp;&nbsp;</span>Pull Delisted Stock Data</a></span></li></ul></li><li><span><a href="#For-Now,-use-GBM-with-Existing-Vars" data-toc-modified-id="For-Now,-use-GBM-with-Existing-Vars-8"><span class="toc-item-num">8&nbsp;&nbsp;</span>For Now, use GBM with Existing Vars</a></span><ul class="toc-item"><li><span><a href="#Explain-smaller-model" data-toc-modified-id="Explain-smaller-model-8.1"><span class="toc-item-num">8.1&nbsp;&nbsp;</span>Explain smaller model</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-8.2"><span class="toc-item-num">8.2&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-3" data-toc-modified-id="Conclusion-3-8.3"><span class="toc-item-num">8.3&nbsp;&nbsp;</span>Conclusion 3</a></span></li><li><span><a href="#Predict-based-on-model" data-toc-modified-id="Predict-based-on-model-8.4"><span class="toc-item-num">8.4&nbsp;&nbsp;</span>Predict based on model</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-8.5"><span class="toc-item-num">8.5&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span></li></ul></li></ul></div>
+
+# %% [markdown]
+# # Imports & Setup
 
 # %%
 # imports & settings
@@ -68,7 +85,7 @@ except:
 df = pd.read_csv("data/training.csv")
 
 # %% [markdown]
-## ## Initial data exploration
+# # Initial data exploration
 
 # %%
 df.head()
@@ -81,8 +98,7 @@ df_test.head()
 df_test.describe(include="all")
 
 # %% [markdown]
-
-# Test data missing status column
+#  Test data missing status column
 
 # %%
 # Data
@@ -90,10 +106,9 @@ df_test.describe(include="all")
 df.describe(include="all")
 
 # %% [markdown]
-
-# Three columns in input, output is binary (0 or 1) and imbalanced with mostly 0
-# There are too many city and website to use natively as categorical. Only employees
-# there is ordering in amount of employees, so consider as ordinal fo later
+#  Three columns in input, output is binary (0 or 1) and imbalanced with mostly 0
+#  There are too many city and website to use natively as categorical. Only employees
+#  there is ordering in amount of employees, so consider as ordinal fo later
 
 # %%
 # categorical vs numerical vs ordinal to start
@@ -103,7 +118,6 @@ numerical_vars = []
 ordinal_vars = ["employees"]
 target = "value"
 
-
 # %%
 # Investigate initial vars
 # as it has reasonable/smaller split
@@ -111,13 +125,12 @@ target = "value"
 for v in categorical_vars + ordinal_vars:
     print(df.pivot_table("value", aggfunc="mean", index=v))
 
-
 # %% [markdown]
-### Conclusion 1
-# 1. There may be some signal in status, but this is not available in test set
-# 1. Website is one to one, so difficult to use directly
-# 1. City is also sparse, but there are frequent data points that maybe we can group
-# 1. Employees sign is noisy  no clear trend
+# ## Conclusion 1
+#  1. There may be some signal in status, but this is not available in test set
+#  1. Website is one to one, so difficult to use directly
+#  1. City is also sparse, but there are frequent data points that maybe we can group
+#  1. Employees sign is noisy  no clear trend
 
 # %%
 # Use pairplots to quickly see basic relationships for numerical
@@ -143,10 +156,9 @@ X_train_train, X_train_valid = train_test_split(
 print(X_train_train.describe(include="all"))
 print(X_train_valid.describe(include="all"))
 
-
 # %% [markdown]
-## ## Naive model
-# Using no variables
+# # Naive model
+#  Using no variables
 
 # %%
 # naive model to start
@@ -158,12 +170,12 @@ naive_profit = df_test.shape[0] * (9000 - (naive_model) * 100000)
 print(f"test set naive profit of {naive_profit}")
 
 # %% [markdown]
-## ## Metrics for Comparison
+# # Metrics for Comparison
+#  This is an imbalanced dataset with only two output values, but we can set price as
+#  a number, so still treat as a regression problem where we are seeking differentiaation
+#  use r2_score as a check to ensure selection is better than global mean
 
-# This is an imbalanced dataset with only two output values, but we can set price as
-# a number, so still treat as a regression problem where we are seeking differentiaation
-# use r2_score as a check to ensure selection is better than global mean
-
+# %%
 from sklearn.metrics import r2_score
 
 predictions = np.full((X_train_valid.shape[0],), naive_model)
@@ -173,12 +185,10 @@ print(r2_score(X_train_valid[target], predictions))
 # which is zero because we've only selected mean
 # higher is better (max is 1)
 
-
 # %% [markdown]
-## ## Support Functions
+# # Support Functions
 
 # %%
-
 # define gini function for differentiatino
 # https://www.kaggle.com/jpopham91/gini-scoring-simple-and-efficient
 def gini_normalized(y_true, y_pred, sample_weight=None):
@@ -310,7 +320,7 @@ def to_float(x):
 
 
 # %% [markdown]
-## ## Try Gradient Boosting with more vars (i.e. city)
+# # Try Gradient Boosting with more vars (i.e. city)
 
 # %%
 # find top cities
@@ -521,8 +531,9 @@ os.remove(f"cat_dict.pkl")
 mlflow.end_run()
 
 # %% [markdown]
-### Explain model
+# ## Explain model
 
+# %%
 explainer = shap.Explainer(mdl[-1])
 
 # fix save expected value
@@ -591,9 +602,10 @@ for name_tuple in rename_list:
 # ord_encode_idx = mdl[0].transformers_[1][2].index(var)
 
 # %% [markdown]
-### Explainer plots
+# ## Explainer plots
+#  overall plot
 
-# overall plot
+# %%
 shap.plots.beeswarm(shap_cat)
 
 # individual plots
@@ -635,27 +647,24 @@ for var in all_features:
 
 shap.plots.waterfall(shap_cat[0])
 
+# %% [markdown]
+# ## Conclusion 2
+#  For the training dataset, and assuming test dataset is similar
+#  1. status, especially status=delisted records, have greater chance of claim
+#  1. smallest employees have greater chance as well
+#  1. city is least predictive, overall
+#  1. test data is missing status, but can try to use website to see if delisted
 
 # %% [markdown]
-### Conclusion 2
-
-# For the training dataset, and assuming test dataset is similar
-# 1. status, especially status=delisted records, have greater chance of claim
-# 1. smallest employees have greater chance as well
-# 1. city is least predictive, overall
-# 1. test data is missing status, but can try to use website to see if delisted
-
+# ## Pull Delisted Stock Data
+#  https://www.alphavantage.co/documentation/  for free API key
+#  pulled listing_status.csv from as of 2021
+#  https://www.alphavantage.co/query?function=LISTING_STATUS&date=2022-06-10&state=delisted&apikey=REPLACEME
 
 # %% [markdown]
-### Pull Delisted Stock Data
+# # For Now, use GBM with Existing Vars
 
-# https://www.alphavantage.co/documentation/  for free API key
-# pulled listing_status.csv from as of 2021
-# https://www.alphavantage.co/query?function=LISTING_STATUS&date=2022-06-10&state=delisted&apikey=REPLACEME
-
-# %% [markdown]
-## For Now, use GBM with Existing Vars
-
+# %%
 numeric_features = []
 categorical_features = [
     # "status",
@@ -852,8 +861,9 @@ os.remove(f"cat_dict.pkl")
 # mlflow.end_run()
 
 # %% [markdown]
-### Explain smaller model
+# ## Explain smaller model
 
+# %%
 explainer = shap.Explainer(mdl[-1])
 
 # fix save expected value
@@ -922,9 +932,10 @@ for name_tuple in rename_list:
 # ord_encode_idx = mdl[0].transformers_[1][2].index(var)
 
 # %% [markdown]
-### Explainer plots
+# ## Explainer plots
+#  overall plot
 
-# overall plot
+# %%
 shap.plots.beeswarm(shap_cat)
 
 # individual plots
@@ -989,16 +1000,15 @@ os.remove(f"explainer.pkl")
 
 mlflow.end_run()
 
+# %% [markdown]
+# ## Conclusion 3
+#  1. based on the simpler model, smallest employees and Chicago/Palo Alto have slightly higher risk vs New York
+#  1. Some of this may be due to correlation with delisted, so is something to consider
 
 # %% [markdown]
-### Conclusion 3
+# ## Predict based on model
 
-# 1. based on the simpler model, smallest employees and Chicago/Palo Alto have slightly higher risk vs New York
-# 1. Some of this may be due to correlation with delisted, so is something to consider
-
-# %% [markdown]
-### Predict based on model
-
+# %%
 df_test["predicted_value"] = mdl.predict(df_test)
 
 test_profit_perco = 9000 - np.average(df_test["predicted_value"]) * 100000
@@ -1008,9 +1018,8 @@ print(f"estimated profit per company is {test_profit_perco}")
 df_test.to_csv(r"data/testing_results.csv")
 
 # %% [markdown]
-### Final Conclusion and Proposed Strategy
-
-# See top
+# ## Final Conclusion and Proposed Strategy
+#  See top
 
 # %%
 #
@@ -1029,8 +1038,8 @@ print(f"total profit with new strat {test_profit_filtered}")
 print(f"avg profit {test_profit_filtered_avg}")
 
 # %% [markdown]
-# The final level of exclusion or rate change should consider - expected new business,
-# how confident we are in individual rate change factors, and expected business that is lost
+#  The final level of exclusion or rate change should consider - expected new business,
+#  how confident we are in individual rate change factors, and expected business that is lost
 
 # %%
 #

@@ -4,6 +4,10 @@ Case study example based on email
 
 `casestudy.py` is the main script & associated notebook
 
+## Running jupyter notebook for analysis
+
+1. `pipenvshell`, then `jupyter notebook`
+
 ## MLFlow & Virtual Env Update
 
 1. Install pipenv in desired environment ` pip install pipenv ` (`py -0p` to see which one is default) 
