@@ -1,0 +1,3 @@
+HistGradientBoostingRegressor(categorical_features=[True, True],
+                              learning_rate=0.42528153005353153, max_depth=2.0,
+                              random_state=0)

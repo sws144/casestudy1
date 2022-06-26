@@ -1,0 +1,4 @@
+OrdinalEncoder(categories=[['NA', 'San Francisco', 'New York', 'Los Angeles',
+                            'Boston', 'Austin', 'Seattle', 'Palo Alto',
+                            'Chicago', 'Mountain View']],
+               handle_unknown='use_enco...

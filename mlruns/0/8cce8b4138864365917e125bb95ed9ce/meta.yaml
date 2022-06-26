@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Stuff/Git/casestudy1/mlruns/0/8cce8b4138864365917e125bb95ed9ce/artifacts
+end_time: 1656201325876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8cce8b4138864365917e125bb95ed9ce
+run_uuid: 8cce8b4138864365917e125bb95ed9ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656201307569
+status: 3
+tags: []
+user_id: SW

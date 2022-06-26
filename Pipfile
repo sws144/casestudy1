@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+pywin32 = ">=301" # for security
+
+[packages]
+dill = "*"
+hyperopt ="*"
+ipython = "*"
+ipykernel = "*"
+joblib = "*"
+gunicorn ="*"
+lightgbm = "*"
+matplotlib = "*" 
+mlflow = "*"
+numpy = "*" #  
+pandas = "*"
+pandas_datareader = "*"
+patsy = "*"
+pytest = "*"
+rst2pdf = "*"
+seaborn = "*"
+shap = "*" # to ensure explainers work
+scikit-learn = "*" # to ensure models work 
+sphinx = "*"
+statsmodels = "*"
+streamlit = "*"
+yfinance = "*"
+black = "*"
+openapi-schema-validator = "*"
+
+[requires]
+python_version = "3.9.10"

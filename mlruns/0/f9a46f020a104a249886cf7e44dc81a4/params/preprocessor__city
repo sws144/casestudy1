@@ -1,0 +1,4 @@
+Pipeline(steps=[('ordinal',
+                 OrdinalEncoder(categories=[['NA', 'San Francisco', 'New York',
+                                             'Los Angeles', 'Boston', 'Austin',
+                                             'Seattle', 'Pa...

@@ -1,0 +1,21 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.9.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.1.1
+mlflow_version: 1.26.1
+model_uuid: e243156a16b54933a70df54afc94749e
+run_id: 42765d5f0ad448e4a8e5119534680642
+signature:
+  inputs: '[{"name": "city", "type": "string"}, {"name": "website", "type": "string"},
+    {"name": "employees", "type": "string"}, {"name": "status", "type": "string"},
+    {"name": "value", "type": "long"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+utc_time_created: '2022-06-25 23:55:40.369843'
