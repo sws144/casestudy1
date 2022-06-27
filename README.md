@@ -3,6 +3,7 @@
 Case study example based on email
 
 `casestudy.py` is the main script & associated notebook
+<https://sws144-casestudy1-app-streamlit-fz26pv.streamlitapp.com/>
 
 ## Running jupyter notebook for analysis
 
@@ -19,3 +20,8 @@ Case study example based on email
 1. `mlflow ui` to enter environment (omit --backend if want to see test runs)
 1. To shut down, type "ctrl + c" in terminal
 1. Optional: `mlflow gc` to clean up deleted runs (e.g. deleted from mlflow ui)
+
+## Deploy
+
+1. locally `streamlit run app_streamlit.app`
+1. web <https://sws144-casestudy1-app-streamlit-fz26pv.streamlitapp.com/>
