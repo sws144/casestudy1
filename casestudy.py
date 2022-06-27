@@ -24,7 +24,7 @@
 
 # %% [markdown]
 # ## Final Conclusion and Proposed Strategy
-#  1. Based on the existing data (city and employees), predicted losses are negative (testing_results.csv)
+#  1. Based on the existing data (city and employees), predicted profits are negative (testing_results.csv)
 #  - However, if we either more appropriately charge higher risk
 #  or stop writing risks > with a level of expected loss (e.g. 0.14), then we can increase profits
 #  1. We should also improve dataset by finding status for test set, industry and state by

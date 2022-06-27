@@ -1,4 +1,3 @@
-pipenv shell
 pipenv update --dev
 jupyter contrib nbextension install --user
 jupyter nbextension enable toc2/main
