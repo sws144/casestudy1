@@ -25,8 +25,8 @@
 # %% [markdown]
 # ## Final Conclusion and Proposed Strategy
 #  1. Based on the existing data (city and employees), predicted profits are negative (testing_results.csv). Options include:
-#      1. Raising prices on more risky companies
-#      1. Write more lower risk companies
+#      1. Raising prices on more risky companies (delisted if known, ow employees < 10 or palo alto or chicago)
+#      1. Write more lower risk companies (New York)
 #      1. Write fewer high risk companies
 #  or stop writing risks > with a level of expected loss (e.g. 0.14), then we can increase profits
 #  1. We should also improve dataset by 
