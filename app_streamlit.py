@@ -108,5 +108,8 @@ if submitted:
 githublink = "[GitHub link](https://github.com/sws144/)"
 st.markdown(githublink, unsafe_allow_html=False)
 
+linktoanalysis = "[HTML link to analysis](https://htmlpreview.github.io/?https://github.com/sws144/casestudy1/blob/main/pages/casestudy.html)"
+st.markdown(linktoanalysis, unsafe_allow_html=False)
+
 # doclink = "[Documentation link](https://analyze-trades-prod.herokuapp.com/doc)"
 # st.markdown(doclink, unsafe_allow_html=False)
