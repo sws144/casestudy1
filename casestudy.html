@@ -14620,16 +14620,19 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Final-Conclusion-and-Proposed-Strategy">Final Conclusion and Proposed Strategy<a class="anchor-link" href="#Final-Conclusion-and-Proposed-Strategy">&#182;</a></h2><ol>
-<li>Based on the existing data (city and employees), predicted profits are negative (testing_results.csv)</li>
-</ol>
-<ul>
-<li>However, if we either more appropriately charge higher risk
+<li>Based on the existing data (city and employees), predicted profits are negative (testing_results.csv). Options include:<ol>
+<li>Raising prices on more risky companies</li>
+<li>Write more lower risk companies</li>
+<li>Write fewer high risk companies
 or stop writing risks &gt; with a level of expected loss (e.g. 0.14), then we can increase profits</li>
-</ul>
-<ol>
-<li>We should also improve dataset by finding status for test set, industry and state by
-by finding tickers using website like <a href="https://bigpicture.io/docs/api/#name-to-domain-api-beta">https://bigpicture.io/docs/api/#name-to-domain-api-beta</a>
+</ol>
+</li>
+<li>We should also improve dataset by <ol>
+<li>finding status for test set</li>
+<li>industry and state by finding tickers using website like <a href="https://bigpicture.io/docs/api/#name-to-domain-api-beta">https://bigpicture.io/docs/api/#name-to-domain-api-beta</a>
 or <a href="https://www.klazify.com/category">https://www.klazify.com/category</a> and cross reference with delisted tickers found below</li>
+</ol>
+</li>
 <li>Details are below</li>
 </ol>
 
@@ -14657,7 +14660,7 @@ or <a href="https://www.klazify.com/category">https://www.klazify.com/category</
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p><h1>Table of Contents<span class="tocSkip"></span></h1></p>
-<div class="toc"><ul class="toc-item"><li><span><a href="#Case-Study" data-toc-modified-id="Case-Study-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Case Study</a></span><ul class="toc-item"><li><span><a href="#Purpose" data-toc-modified-id="Purpose-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Purpose</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span></li><li><span><a href="#Addendum" data-toc-modified-id="Addendum-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Addendum</a></span></li></ul></li><li><span><a href="#Imports-&amp;-Setup" data-toc-modified-id="Imports-&amp;-Setup-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Imports &amp; Setup</a></span></li><li><span><a href="#Initial-data-exploration" data-toc-modified-id="Initial-data-exploration-3"><span class="toc-item-num">3&nbsp;&nbsp;</span>Initial data exploration</a></span><ul class="toc-item"><li><span><a href="#Conclusion-1" data-toc-modified-id="Conclusion-1-3.1"><span class="toc-item-num">3.1&nbsp;&nbsp;</span>Conclusion 1</a></span></li></ul></li><li><span><a href="#Naive-model" data-toc-modified-id="Naive-model-4"><span class="toc-item-num">4&nbsp;&nbsp;</span>Naive model</a></span></li><li><span><a href="#Metrics-for-Comparison" data-toc-modified-id="Metrics-for-Comparison-5"><span class="toc-item-num">5&nbsp;&nbsp;</span>Metrics for Comparison</a></span></li><li><span><a href="#Support-Functions" data-toc-modified-id="Support-Functions-6"><span class="toc-item-num">6&nbsp;&nbsp;</span>Support Functions</a></span></li><li><span><a href="#Try-Gradient-Boosting-with-more-vars-(i.e.-city)" data-toc-modified-id="Try-Gradient-Boosting-with-more-vars-(i.e.-city)-7"><span class="toc-item-num">7&nbsp;&nbsp;</span>Try Gradient Boosting with more vars (i.e. city)</a></span><ul class="toc-item"><li><span><a href="#Explain-model" data-toc-modified-id="Explain-model-7.1"><span class="toc-item-num">7.1&nbsp;&nbsp;</span>Explain model</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-7.2"><span class="toc-item-num">7.2&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-2" data-toc-modified-id="Conclusion-2-7.3"><span class="toc-item-num">7.3&nbsp;&nbsp;</span>Conclusion 2</a></span></li><li><span><a href="#Pull-Delisted-Stock-Data" data-toc-modified-id="Pull-Delisted-Stock-Data-7.4"><span class="toc-item-num">7.4&nbsp;&nbsp;</span>Pull Delisted Stock Data</a></span></li></ul></li><li><span><a href="#For-Now,-use-GBM-with-Existing-Vars" data-toc-modified-id="For-Now,-use-GBM-with-Existing-Vars-8"><span class="toc-item-num">8&nbsp;&nbsp;</span>For Now, use GBM with Existing Vars</a></span><ul class="toc-item"><li><span><a href="#Explain-smaller-model" data-toc-modified-id="Explain-smaller-model-8.1"><span class="toc-item-num">8.1&nbsp;&nbsp;</span>Explain smaller model</a></span></li><li><span><a href="#Validation-and-Model-Performanc" data-toc-modified-id="Validation-and-Model-Performanc-8.2"><span class="toc-item-num">8.2&nbsp;&nbsp;</span>Validation and Model Performanc</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-8.3"><span class="toc-item-num">8.3&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-3" data-toc-modified-id="Conclusion-3-8.4"><span class="toc-item-num">8.4&nbsp;&nbsp;</span>Conclusion 3</a></span></li><li><span><a href="#Predict-based-on-model" data-toc-modified-id="Predict-based-on-model-8.5"><span class="toc-item-num">8.5&nbsp;&nbsp;</span>Predict based on model</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-8.6"><span class="toc-item-num">8.6&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span></li></ul></li></ul></div>
+<div class="toc"><ul class="toc-item"><li><span><a href="#Case-Study" data-toc-modified-id="Case-Study-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Case Study</a></span><ul class="toc-item"><li><span><a href="#Purpose" data-toc-modified-id="Purpose-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Purpose</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span></li><li><span><a href="#Addendum" data-toc-modified-id="Addendum-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Addendum</a></span></li></ul></li><li><span><a href="#Imports-&amp;-Setup" data-toc-modified-id="Imports-&amp;-Setup-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>Imports &amp; Setup</a></span></li><li><span><a href="#Initial-data-exploration" data-toc-modified-id="Initial-data-exploration-3"><span class="toc-item-num">3&nbsp;&nbsp;</span>Initial data exploration</a></span><ul class="toc-item"><li><span><a href="#Conclusion-1" data-toc-modified-id="Conclusion-1-3.1"><span class="toc-item-num">3.1&nbsp;&nbsp;</span>Conclusion 1</a></span></li></ul></li><li><span><a href="#Naive-model" data-toc-modified-id="Naive-model-4"><span class="toc-item-num">4&nbsp;&nbsp;</span>Naive model</a></span></li><li><span><a href="#Metrics-for-Comparison" data-toc-modified-id="Metrics-for-Comparison-5"><span class="toc-item-num">5&nbsp;&nbsp;</span>Metrics for Comparison</a></span></li><li><span><a href="#Support-Functions" data-toc-modified-id="Support-Functions-6"><span class="toc-item-num">6&nbsp;&nbsp;</span>Support Functions</a></span></li><li><span><a href="#Try-Gradient-Boosting-with-more-vars-(i.e.-city)" data-toc-modified-id="Try-Gradient-Boosting-with-more-vars-(i.e.-city)-7"><span class="toc-item-num">7&nbsp;&nbsp;</span>Try Gradient Boosting with more vars (i.e. city)</a></span><ul class="toc-item"><li><span><a href="#Explain-model" data-toc-modified-id="Explain-model-7.1"><span class="toc-item-num">7.1&nbsp;&nbsp;</span>Explain model</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-7.2"><span class="toc-item-num">7.2&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-2" data-toc-modified-id="Conclusion-2-7.3"><span class="toc-item-num">7.3&nbsp;&nbsp;</span>Conclusion 2</a></span></li><li><span><a href="#Pull-Delisted-Stock-Data" data-toc-modified-id="Pull-Delisted-Stock-Data-7.4"><span class="toc-item-num">7.4&nbsp;&nbsp;</span>Pull Delisted Stock Data</a></span></li></ul></li><li><span><a href="#For-Now,-use-GBM-with-Existing-Vars" data-toc-modified-id="For-Now,-use-GBM-with-Existing-Vars-8"><span class="toc-item-num">8&nbsp;&nbsp;</span>For Now, use GBM with Existing Vars</a></span><ul class="toc-item"><li><span><a href="#Explain-smaller-model" data-toc-modified-id="Explain-smaller-model-8.1"><span class="toc-item-num">8.1&nbsp;&nbsp;</span>Explain smaller model</a></span></li><li><span><a href="#Validation-and-Model-Performanc" data-toc-modified-id="Validation-and-Model-Performanc-8.2"><span class="toc-item-num">8.2&nbsp;&nbsp;</span>Validation and Model Performanc</a></span></li><li><span><a href="#Explainer-plots" data-toc-modified-id="Explainer-plots-8.3"><span class="toc-item-num">8.3&nbsp;&nbsp;</span>Explainer plots</a></span></li><li><span><a href="#Conclusion-3" data-toc-modified-id="Conclusion-3-8.4"><span class="toc-item-num">8.4&nbsp;&nbsp;</span>Conclusion 3</a></span></li><li><span><a href="#Predict-based-on-model" data-toc-modified-id="Predict-based-on-model-8.5"><span class="toc-item-num">8.5&nbsp;&nbsp;</span>Predict based on model</a></span></li><li><span><a href="#Final-Conclusion-and-Proposed-Strategy" data-toc-modified-id="Final-Conclusion-and-Proposed-Strategy-8.6"><span class="toc-item-num">8.6&nbsp;&nbsp;</span>Final Conclusion and Proposed Strategy</a></span><ul class="toc-item"><li><span><a href="#Sample-Exhibit" data-toc-modified-id="Sample-Exhibit-8.6.1"><span class="toc-item-num">8.6.1&nbsp;&nbsp;</span>Sample Exhibit</a></span></li></ul></li></ul></li></ul></div>
 </div>
 </div>
 </div>
@@ -19521,15 +19524,109 @@ avg profit 362.1818980072951
 </div>
 </div>
 </div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Sample-Exhibit">Sample Exhibit<a class="anchor-link" href="#Sample-Exhibit">&#182;</a></h3>
+</div>
+</div>
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[25]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[7]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sample_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span>
+    <span class="s1">&#39;records&#39;</span><span class="p">:</span> <span class="p">[</span><span class="mi">2000</span><span class="p">,</span><span class="mi">1615</span><span class="p">],</span>
+    <span class="s1">&#39;total profit&#39;</span><span class="p">:</span> <span class="p">[</span><span class="o">-</span><span class="mf">2000000.0</span><span class="p">,</span> <span class="mi">584923</span><span class="p">]</span>
+<span class="p">},</span> <span class="n">index</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;before&#39;</span><span class="p">,</span><span class="s1">&#39;after&#39;</span><span class="p">])</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[23]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sample_df</span><span class="o">.</span><span class="n">plot</span><span class="o">.</span><span class="n">bar</span><span class="p">(</span><span class="n">secondary_y</span><span class="o">=</span> <span class="s1">&#39;total profit&#39;</span><span class="p">)</span>
+<span class="n">ax1</span><span class="p">,</span> <span class="n">ax2</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">gcf</span><span class="p">()</span><span class="o">.</span><span class="n">get_axes</span><span class="p">()</span> 
+
+<span class="n">ax1</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
+<span class="n">ax2</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[23]:</div>
+
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
+<pre>&lt;matplotlib.legend.Legend at 0x2a4ef3fbfa0&gt;</pre>
+</div>
+
+</div>
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+
+<div class="jp-RenderedImage jp-OutputArea-output ">
+<img src="data:image/png;base64,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9t9//1yHUy01TjgR8SyU+2fTvErecy1wbU3PWerTTz9tMMmmoZFEs92/Que2/8x1KJZjpZ+Td9dtzHUoVg8k0b59e/7xj3/kOpRqa7QzDTjZVExSo+hCsfrnz0l+a2z/v4024ZiZWeOSF2OO95vwcJ22t2bSCXXaXl3o360TL75RnOswrBE75Ped67S9ZResrfDYpo0b+eucP3HGORdU2sa6d97mlcKFHD/ytErrrVmzhhNPPJHly5dXWq8mbrnlFm6//XZ69erFGWecwYoVK5gwYQJz5syha9eudO/evdz33XTTTey5556cffbZOxy744472H333cs9VmratGkUFhZy66237nDsuuuu46qrrgJg69atDBkyhCeeeILG/piIr3BqKSL44ou6HQ3mh12tsft400Zm3nNXlfXeLX6beQ/dX+/xbNtW8fik2267jQULFjBjxgxGjBjBhAkTAJgzZw4rVqwo9z0lJSVMnTqVM888s9xjF154YaXJpirXXXdd2XaLFi0YPHgwM2fOrHF7DYUTTg2sWbOGbt26cfbZZ9OjRw+m3PxrzjzhW4w69ghuu+EXZfX+fP99jDr2CE4beiRXff+7QOYvugvOGMGoY49g7OiTWL8uM/nCj35wET+78gd8+7+HMPnaayh+ey1nnTSUU4cczq2/+nlZm/947++cd+rxnH7cQE4ZPIAlC59P95s3q4abfzGR4rVrOP24gdz48x8REdz48x9xyuABnDrkcB6Z+2BS7ye8vOgFTj9uIJMnT2bNmjUMHDiQXr160atXL55/vvKf76eeeoqjjjqKE044gW7dunHhhReW/QHYunVrLrvsMg499FBeeOEFbrzxRnr06EGPHj246aabALjwwgtZvXo1w4cPZ/LkyUybNo3x48fz/PPPM3fuXC6//HJ69uzJm2+++aXzPvHEE/Tq1avsimPQoEFceuml9OnTh5tvvpmJEydy/fWZ6SQXL17MIYccQs+ePbn88svp0aNHWTvvvvsuw4YNo0uXLlxxxRUATJgwgU8++YSePXvy7W9/G4CTTz6ZGTNm1PJ/Jfca9/VZDq1atYrp06ezadMmpkz/IzP+8jgRwfe+M4aXXnyOPdrtyZRbrueeOfNpt2d7Nn74IQCTfnwFI0aNYcRpY5h93x/45Y8ncNNdmR+k99a/yz1z5lNQUMD3zhvD6Wd9h/8e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
+"
+class="
+jp-needs-light-background
+"
+>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span> 
 </pre></div>
 
      </div>
