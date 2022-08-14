@@ -35,6 +35,7 @@ streamlit = "*"
 yfinance = "*"
 black = "*"
 openapi-schema-validator = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.9.10"
